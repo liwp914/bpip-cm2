@@ -48,7 +48,7 @@ jobs:
         CF_TOKEN="${CF_TOKEN}"
 
         # 指定文件夹路径
-        FOLDER_PATH="\ip-info\443"
+        FOLDER_PATH="/ip-info/443"
 
         # 遍历文件夹中所有匹配 *_marked.txt 的文件
         for FILENAME in "${FOLDER_PATH}"/*_marked.txt; do
