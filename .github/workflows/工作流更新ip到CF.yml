@@ -1,4 +1,4 @@
-name: Upload Files to CF Domain and Update Data
+name: 工作流更新ip到CF
 
 on:
   workflow_dispatch:
