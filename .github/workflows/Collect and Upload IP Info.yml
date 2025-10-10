@@ -1,55 +1,76 @@
 name: Collect and Upload IP Info
 
 on:
+  workflow_dispatch:
   schedule:
-    # 每2小时运行一次 (UTC时间)
-    - cron: '0 */2 * * *'
-  workflow_dispatch:  # 允许手动触发
+    - cron: '0 */2 * * *'  # 每两小时运行一次（UTC时间）
+
+permissions:
+  contents: write
 
 jobs:
-  run-scripts:
+  process-and-upload:
     runs-on: ubuntu-latest
-    
+
     steps:
-    - name: Checkout repository
+    - name: Checkout code
       uses: actions/checkout@v4
-      
+    
+    - name: Debug environment
+      run: |
+        echo "工作区: $GITHUB_WORKSPACE"
+        echo "工作目录: $(pwd)"
+        echo "环境变量:"
+        env | sort
+    
+    - name: Verify file existence
+      run: |
+        echo "当前目录内容:"
+        ls -la
+        echo ""
+        echo "查找Python文件:"
+        find . -name "*.py"
+    
     - name: Delete old data
       run: |
-        rm -rf ./ip*
+        # 只删除数据目录
+        rm -rf ./ip-info
         rm -rf ./ips
-        
+    
     - name: Get source data
       run: |
         wget -N https://zip.cm.edu.kg -O ip.zip
         unzip ip.zip -d ./ips
         rm ip.zip
-        
+    
     - name: Set up Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v4
       with:
-        python-version: '3.x'
-        
+        python-version: '3.10'
+    
     - name: Install dependencies
+      run: pip install requests pandas tqdm
+    
+    - name: Run IP info collector
       run: |
-        python -m pip install --upgrade pip
-        pip install requests pandas tqdm
-        
-    - name: Run IP Collector
-      run: python ip_info_collector.py
-      
-    - name: Run Upload Script
+        # 使用绝对路径
+        python $GITHUB_WORKSPACE/ip_info_collector.py
+    
+    - name: Set upload script permissions
+      run: chmod +x $GITHUB_WORKSPACE/ips_to_cfkv.sh
+    
+    - name: Upload files to Cloudflare
       env:
         CF_DOMAIN: ${{ secrets.CF_DOMAIN }}
         CF_TOKEN: ${{ secrets.CF_TOKEN }}
       run: |
-        chmod +x ips_to_cfkv.sh
-        ./ips_to_cfkv.sh HK_marked.txt JP_marked.txt KR_marked.txt SG_marked.txt US_marked.txt
-        
+        # 使用绝对路径
+        $GITHUB_WORKSPACE/ips_to_cfkv.sh
+    
     - name: Commit and push changes
       run: |
-        git config --local user.email "actions@github.com"
-        git config --local user.name "GitHub Actions"
-        git add ip-info/443/*.txt
-        git commit -m "Update IP info files"
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -am "自动更新IP信息文件"
         git push
