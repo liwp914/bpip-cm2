@@ -1,11 +1,25 @@
 #!/bin/bash
 
-# 切换到ip-info/443目录（根据新目录结构调整）
-cd ip-info/443 || { echo "无法切换到ip-info/443目录，脚本退出。" >&2; exit 1; }
+# 从环境变量获取配置
+CF_DOMAIN="${CF_DOMAIN}"
+CF_TOKEN="${CF_TOKEN}"
+FOLDER_PATH="${FOLDER_PATH:-ip-info/443}"  # 默认路径
+
+# 检查必要的环境变量
+if [ -z "$CF_DOMAIN" ] || [ -z "$CF_TOKEN" ]; then
+    echo "错误: 必须设置 CF_DOMAIN 和 CF_TOKEN 环境变量"
+    exit 1
+fi
+
+# 检查目标文件夹是否存在
+if [ ! -d "$FOLDER_PATH" ]; then
+    echo "错误: 文件夹 $FOLDER_PATH 不存在"
+    exit 1
+fi
 
 # 自定义URL编码函数
 urlencode() {
-    local string="$1"  # 修正：使用传入的参数而不是固定值
+    local string="$1"
     local encoded=""
     local pos c o
 
@@ -25,56 +39,36 @@ urlencode() {
     echo "$encoded"
 }
 
-# 从环境变量中获取 CF_DOMAIN 和 CF_TOKEN
-CF_DOMAIN="${CF_DOMAIN}"
-CF_TOKEN="${CF_TOKEN}"
+echo "开始上传文件从文件夹: $FOLDER_PATH"
 
-# 获取传入的所有文件名参数
-files=("$@")
-
-# 循环处理每个文件
-for FILENAME in "${files[@]}"; do
-    # 只处理带_marked后缀的文件
-    if [[ "$FILENAME" != *"_marked.txt" ]]; then
-        echo "跳过非标记文件: $FILENAME"
+# 遍历文件夹中所有匹配 *_marked.txt 的文件
+for FILENAME in "${FOLDER_PATH}"/*_marked.txt; do
+    # 检查文件是否存在
+    if [ ! -f "$FILENAME" ]; then
+        echo "文件不存在: $FILENAME"
         continue
     fi
-    
-    # 判断文件是否存在
-    if [ -f "$FILENAME" ]; then
-        # 逐行读取文件内容进行Base64编码
-        BASE64_TEXT=""
-        line_count=0
-        
-        while IFS= read -r line; do
-            # 只处理前10行（根据项目需求）
-            if [ $line_count -lt 10 ]; then
-                BASE64_TEXT+=$(echo -n "$line" | base64 -w 0)
-                line_count=$((line_count + 1))
-            else
-                break
-            fi
-        done < "$FILENAME"
-        
-        # 对整个内容进行Base64编码
-        BASE64_TEXT=$(echo -n "$BASE64_TEXT" | base64 -w 0)
-        
-        FILENAME_URL=$(urlencode "$FILENAME")
-        URL="https://${CF_DOMAIN}/${FILENAME_URL}?token=${CF_TOKEN}&b64=${BASE64_TEXT}"
 
-        # 使用curl发送请求
-        echo "上传文件: $FILENAME"
-        curl -s "$URL"
-        response_code=$?
-        
-        if [ $response_code -eq 0 ]; then
-            echo "文件 $FILENAME 上传成功"
-        else
-            echo "文件 $FILENAME 上传失败，错误码: $response_code"
-        fi
+    # 获取文件名（不含路径）
+    FILENAME_ONLY=$(basename "$FILENAME")
+
+    # 读取文件的前10行内容并进行Base64编码
+    BASE64_TEXT=$(head -n 10 "$FILENAME" | base64 -w 0)
+
+    # URL编码文件名
+    FILENAME_URL=$(urlencode "$FILENAME_ONLY")
+
+    # 构建URL
+    URL="https://${CF_DOMAIN}/${FILENAME_URL}?token=${CF_TOKEN}&b64=${BASE64_TEXT}"
+
+    echo "上传文件: $FILENAME"
+
+    # 使用curl发送请求
+    if curl -s -f "$URL" -o /dev/null; then
+        echo "✓ 文件 $FILENAME 上传成功"
     else
-        echo "文件 $FILENAME 不存在，跳过处理。"
+        echo "✗ 文件 $FILENAME 上传失败"
     fi
 done
 
-echo "所有文件上传完成。"
+echo "所有文件上传完成"
