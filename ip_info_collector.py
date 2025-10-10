@@ -258,7 +258,7 @@ def create_country_marker_files(port):
             with open(target_path, "w", encoding="utf-8") as tgt:
                 for line in lines:
                     if line:  # 跳过空行
-                        tgt.write(f"{line}#{country}☮\n")
+                        tgt.write(f"{line}#{country}🐬\n")
             
             logger.info(f"已创建标记文件: {target_path} (包含 {len(lines)} 条记录)")
         except Exception as e:
