@@ -1,2 +1,4 @@
 country,countryCode,city,isp,org,as,query,valid
 India,IN,Hyderabad,Oracle Corporation,Oracle Cloud Infrastructure (ap-hyderabad-1),AS31898 Oracle Corporation,152.67.190.105,True
+India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.209.148.128,True
+India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.81.81,True
