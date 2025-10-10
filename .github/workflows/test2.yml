@@ -1,0 +1,93 @@
+name: ####2 test Collect and Upload IP Info
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */2 * * *'  # 每两小时运行一次
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up environment variables
+      run: |
+        echo "CF_DOMAIN=${{ secrets.CF_DOMAIN }}" >> $GITHUB_ENV
+        echo "CF_TOKEN=${{ secrets.CF_TOKEN }}" >> $GITHUB_ENV
+
+    - name: Delete old data
+      run: rm -rf ./ip*
+
+    - name: Get source data
+      run: |
+        wget -N https://zip.cm.edu.kg -O ip.zip
+        unzip ip.zip -d ./ips
+        rm ip.zip
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: pip install -r ./requirements.txt
+
+    - name: Run ip_info_collector.py
+      run: python ip_info_collector.py
+
+    - name: Upload files
+      run: |
+        # 从环境变量中获取 CF_DOMAIN 和 CF_TOKEN
+        CF_DOMAIN="${CF_DOMAIN}"
+        CF_TOKEN="${CF_TOKEN}"
+
+        # 指定文件夹路径
+        FOLDER_PATH="\ip-info\443"
+
+        # 遍历文件夹中所有匹配 *_marked.txt 的文件
+        for FILENAME in "${FOLDER_PATH}"/*_marked.txt; do
+          # 检查文件是否存在
+          if [ ! -f "$FILENAME" ]; then
+            echo "文件不存在: $FILENAME"
+            continue
+          fi
+
+          # 获取文件名（不含路径）
+          FILENAME_ONLY=$(basename "$FILENAME")
+
+          # 读取文件的前 15 行内容并进行 Base64 编码
+          BASE64_TEXT=$(head -n 15 "$FILENAME" | base64 -w 0)
+
+          # 构建 URL
+          URL="https://${CF_DOMAIN}/${FILENAME_ONLY}?token=${CF_TOKEN}&b64=${BASE64_TEXT}"
+
+          # 使用 curl 发送请求
+          curl -s "$URL" -o /dev/null &
+
+          # 等待 curl 请求完成
+          wait
+
+          echo "文件 $FILENAME 上传完成"
+        done
+
+        echo "所有文件上传完成,倒数5秒后自动关闭窗口..."
+        sleep 5
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -am "更新结果"
+        git push origin main
+
+
+        git add .
+        git commit -am "自动更新IP信息文件"
+        git push
