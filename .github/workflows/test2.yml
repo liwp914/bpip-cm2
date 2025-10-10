@@ -1,4 +1,4 @@
-name: ####2 test Collect and Upload IP Info
+name: Upload Files to CF Domain and Update Data
 
 on:
   workflow_dispatch:
@@ -14,7 +14,7 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4  # 更新到最新版本
 
     - name: Set up environment variables
       run: |
@@ -22,7 +22,9 @@ jobs:
         echo "CF_TOKEN=${{ secrets.CF_TOKEN }}" >> $GITHUB_ENV
 
     - name: Delete old data
-      run: rm -rf ./ip*
+      run: |
+        rm -rf ./ip-info
+        rm -rf ./ips
 
     - name: Get source data
       run: |
@@ -31,14 +33,14 @@ jobs:
         rm ip.zip
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4  # 更新到最新版本
       with:
         python-version: '3.10'
 
     - name: Install dependencies
-      run: pip install -r ./requirements.txt
+      run: pip install requests pandas tqdm
 
-    - name: Run ip_info_collector.py
+    - name: Run IP info collector
       run: python ip_info_collector.py
 
     - name: Upload files
@@ -47,7 +49,7 @@ jobs:
         CF_DOMAIN="${CF_DOMAIN}"
         CF_TOKEN="${CF_TOKEN}"
 
-        # 指定文件夹路径
+        # 指定文件夹路径 - 修改为新的输出目录
         FOLDER_PATH="ip-info/443"
 
         # 遍历文件夹中所有匹配 *_marked.txt 的文件
@@ -61,33 +63,29 @@ jobs:
           # 获取文件名（不含路径）
           FILENAME_ONLY=$(basename "$FILENAME")
 
-          # 读取文件的前 15 行内容并进行 Base64 编码
-          BASE64_TEXT=$(head -n 15 "$FILENAME" | base64 -w 0)
+          # 读取文件的前 10 行内容并进行 Base64 编码
+          BASE64_TEXT=$(head -n 10 "$FILENAME" | base64 -w 0)
 
           # 构建 URL
           URL="https://${CF_DOMAIN}/${FILENAME_ONLY}?token=${CF_TOKEN}&b64=${BASE64_TEXT}"
 
           # 使用 curl 发送请求
-          curl -s "$URL" -o /dev/null &
-
-          # 等待 curl 请求完成
-          wait
-
-          echo "文件 $FILENAME 上传完成"
+          curl -s "$URL" -o /dev/null
+          
+          # 添加响应检查
+          if [ $? -eq 0 ]; then
+            echo "文件 $FILENAME 上传成功"
+          else
+            echo "文件 $FILENAME 上传失败"
+          fi
         done
 
-        echo "所有文件上传完成,倒数5秒后自动关闭窗口..."
-        sleep 5
+        echo "所有文件上传完成"
 
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add .
-        git commit -am "更新结果"
-        git push origin main
-
-
         git add .
         git commit -am "自动更新IP信息文件"
         git push
