@@ -1,0 +1,55 @@
+name: Collect and Upload IP Info
+
+on:
+  schedule:
+    # 每2小时运行一次 (UTC时间)
+    - cron: '0 */2 * * *'
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  run-scripts:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Delete old data
+      run: |
+        rm -rf ./ip*
+        rm -rf ./ips
+        
+    - name: Get source data
+      run: |
+        wget -N https://zip.cm.edu.kg -O ip.zip
+        unzip ip.zip -d ./ips
+        rm ip.zip
+        
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests pandas tqdm
+        
+    - name: Run IP Collector
+      run: python ip_info_collector.py
+      
+    - name: Run Upload Script
+      env:
+        CF_DOMAIN: ${{ secrets.CF_DOMAIN }}
+        CF_TOKEN: ${{ secrets.CF_TOKEN }}
+      run: |
+        chmod +x ips_to_cfkv.sh
+        ./ips_to_cfkv.sh HK_marked.txt JP_marked.txt KR_marked.txt SG_marked.txt US_marked.txt
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git add ip-info/443/*.txt
+        git commit -m "Update IP info files"
+        git push
