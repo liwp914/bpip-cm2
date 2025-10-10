@@ -1,72 +1,53 @@
-name: Collect and Upload IP Info
+name: Upload Files to CF Domain and Update Data
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */2 * * *'  # 每两小时运行一次（UTC时间）
+    - cron: '0 */2 * * *'  # 每两小时运行一次
 
 permissions:
   contents: write
 
 jobs:
-  process-and-upload:
+  build:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
-    
-    - name: Debug environment
-      run: |
-        echo "工作区: $GITHUB_WORKSPACE"
-        echo "工作目录: $(pwd)"
-        echo "环境变量:"
-        env | sort
-    
-    - name: Verify file existence
-      run: |
-        echo "当前目录内容:"
-        ls -la
-        echo ""
-        echo "查找Python文件:"
-        find . -name "*.py"
-    
+
     - name: Delete old data
       run: |
-        # 只删除数据目录
         rm -rf ./ip-info
         rm -rf ./ips
-    
+
     - name: Get source data
       run: |
         wget -N https://zip.cm.edu.kg -O ip.zip
         unzip ip.zip -d ./ips
         rm ip.zip
-    
+
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.10'
-    
+
     - name: Install dependencies
       run: pip install requests pandas tqdm
-    
+
     - name: Run IP info collector
-      run: |
-        # 使用绝对路径
-        python $GITHUB_WORKSPACE/ip_info_collector.py
-    
-    - name: Set upload script permissions
-      run: chmod +x $GITHUB_WORKSPACE/ips_to_cfkv.sh
-    
-    - name: Upload files to Cloudflare
+      run: python ip_info_collector.py
+
+    - name: Set script permissions
+      run: chmod +x ips_to_cfkv.sh
+
+    - name: Upload files using SH script
       env:
         CF_DOMAIN: ${{ secrets.CF_DOMAIN }}
         CF_TOKEN: ${{ secrets.CF_TOKEN }}
-      run: |
-        # 使用绝对路径
-        $GITHUB_WORKSPACE/ips_to_cfkv.sh
-    
+        FOLDER_PATH: ip-info/443  # 可以自定义路径
+      run: ./ips_to_cfkv.sh
+
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
