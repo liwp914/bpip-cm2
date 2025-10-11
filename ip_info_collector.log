@@ -2443,3 +2443,148 @@
 2025-10-11 01:10:11,873 - INFO - 已创建标记文件: ./ip-info/443/US_marked.txt (包含 10 条记录)
 2025-10-11 01:10:11,873 - INFO - 端口 443 处理完成
 2025-10-11 01:10:11,874 - INFO - 所有处理完成!
+2025-10-11 02:51:31,473 - INFO - ==================================================
+2025-10-11 02:51:31,473 - INFO - IP信息收集器启动
+2025-10-11 02:51:31,473 - INFO - 配置参数:
+2025-10-11 02:51:31,473 - INFO -   输入目录: ./ips/{port}/
+2025-10-11 02:51:31,474 - INFO -   输出目录: ./ip-info/{port}/
+2025-10-11 02:51:31,474 - INFO -   批处理大小: 100
+2025-10-11 02:51:31,474 - INFO -   最大重试次数: 3
+2025-10-11 02:51:31,474 - INFO -   工作线程数: 5
+2025-10-11 02:51:31,474 - INFO -   处理国家: HK, JP, KR, SG, US
+2025-10-11 02:51:31,474 - INFO -   每个国家最大记录数: 10
+2025-10-11 02:51:31,474 - INFO -   处理端口: 443
+2025-10-11 02:51:31,474 - INFO -   IP检测启用: True
+2025-10-11 02:51:31,474 - INFO -   检测方法: port
+2025-10-11 02:51:31,474 - INFO -   检测端口: 443
+2025-10-11 02:51:31,474 - INFO -   检测超时: 2.0秒
+2025-10-11 02:51:31,474 - INFO -   检测线程数: 50
+2025-10-11 02:51:31,474 - INFO - ==================================================
+2025-10-11 02:51:31,474 - INFO - 开始处理端口 443
+2025-10-11 02:51:31,474 - INFO - 扫描端口 443 目录: ./ips/443/
+2025-10-11 02:51:31,475 - INFO - 从 ./ips/443/ID.txt 读取了 6 个IP
+2025-10-11 02:51:31,475 - INFO - 从 ./ips/443/AU.txt 读取了 8 个IP
+2025-10-11 02:51:31,475 - INFO - 从 ./ips/443/CH.txt 读取了 41 个IP
+2025-10-11 02:51:31,475 - INFO - 从 ./ips/443/CA.txt 读取了 120 个IP
+2025-10-11 02:51:31,475 - INFO - 从 ./ips/443/ES.txt 读取了 9 个IP
+2025-10-11 02:51:31,475 - INFO - 从 ./ips/443/NL.txt 读取了 511 个IP
+2025-10-11 02:51:31,476 - INFO - 从 ./ips/443/SE.txt 读取了 178 个IP
+2025-10-11 02:51:31,476 - INFO - 从 ./ips/443/IN.txt 读取了 3 个IP
+2025-10-11 02:51:31,476 - INFO - 从 ./ips/443/TH.txt 读取了 1 个IP
+2025-10-11 02:51:31,476 - INFO - 从 ./ips/443/FR.txt 读取了 163 个IP
+2025-10-11 02:51:31,476 - INFO - 从 ./ips/443/GB.txt 读取了 235 个IP
+2025-10-11 02:51:31,476 - INFO - 从 ./ips/443/RS.txt 读取了 1 个IP
+2025-10-11 02:51:31,476 - INFO - 从 ./ips/443/EE.txt 读取了 31 个IP
+2025-10-11 02:51:31,476 - INFO - 从 ./ips/443/PL.txt 读取了 20 个IP
+2025-10-11 02:51:31,477 - INFO - 从 ./ips/443/BE.txt 读取了 1 个IP
+2025-10-11 02:51:31,477 - INFO - 从 ./ips/443/CZ.txt 读取了 2 个IP
+2025-10-11 02:51:31,477 - INFO - 从 ./ips/443/BG.txt 读取了 6 个IP
+2025-10-11 02:51:31,477 - INFO - 从 ./ips/443/LV.txt 读取了 8 个IP
+2025-10-11 02:51:31,477 - INFO - 从 ./ips/443/FRU.txt 读取了 1 个IP
+2025-10-11 02:51:31,477 - INFO - 从 ./ips/443/TR.txt 读取了 4 个IP
+2025-10-11 02:51:31,478 - INFO - 从 ./ips/443/ALL.txt 读取了 3839 个IP
+2025-10-11 02:51:31,478 - INFO - 从 ./ips/443/JP.txt 读取了 75 个IP
+2025-10-11 02:51:31,478 - INFO - 从 ./ips/443/KR.txt 读取了 42 个IP
+2025-10-11 02:51:31,479 - INFO - 从 ./ips/443/CL.txt 读取了 1 个IP
+2025-10-11 02:51:31,479 - INFO - 从 ./ips/443/SG.txt 读取了 317 个IP
+2025-10-11 02:51:31,479 - INFO - 从 ./ips/443/BR.txt 读取了 2 个IP
+2025-10-11 02:51:31,479 - INFO - 从 ./ips/443/HK.txt 读取了 11 个IP
+2025-10-11 02:51:31,479 - INFO - 从 ./ips/443/IL.txt 读取了 1 个IP
+2025-10-11 02:51:31,479 - INFO - 从 ./ips/443/RU.txt 读取了 6 个IP
+2025-10-11 02:51:31,480 - INFO - 从 ./ips/443/DE.txt 读取了 1405 个IP
+2025-10-11 02:51:31,480 - INFO - 从 ./ips/443/IT.txt 读取了 14 个IP
+2025-10-11 02:51:31,480 - INFO - 从 ./ips/443/MY.txt 读取了 3 个IP
+2025-10-11 02:51:31,480 - INFO - 从 ./ips/443/US.txt 读取了 578 个IP
+2025-10-11 02:51:31,480 - INFO - 从 ./ips/443/FI.txt 读取了 37 个IP
+2025-10-11 02:51:31,481 - INFO - 收集到 7680 个IP地址，去重后: 3839
+2025-10-11 02:51:32,422 - ERROR - 请求错误: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-10-11 02:51:32,495 - ERROR - 请求错误: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-10-11 02:51:32,560 - ERROR - 请求错误: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-10-11 02:51:32,635 - ERROR - 请求错误: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-10-11 02:51:34,441 - ERROR - 请求错误: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-10-11 02:51:34,537 - ERROR - 请求错误: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-10-11 02:51:34,614 - ERROR - 请求错误: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-10-11 02:51:35,132 - ERROR - 请求错误: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-10-11 02:51:36,482 - ERROR - 请求错误: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-10-11 02:51:36,577 - ERROR - 请求错误: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-10-11 02:51:36,671 - ERROR - 请求错误: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-10-11 02:51:37,206 - ERROR - 请求错误: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-10-11 02:51:38,484 - ERROR - 经过 3 次重试后仍失败
+2025-10-11 02:51:38,579 - ERROR - 经过 3 次重试后仍失败
+2025-10-11 02:51:38,673 - ERROR - 经过 3 次重试后仍失败
+2025-10-11 02:51:39,209 - ERROR - 经过 3 次重试后仍失败
+2025-10-11 02:51:39,214 - INFO - 开始检测 3500 个IP的可用性 (方法: port)
+2025-10-11 02:52:15,320 - INFO - 有效IP数量: 2707/3500
+2025-10-11 02:52:15,322 - INFO - 保存 AL 的 8 个有效IP到 ./ip-info/443/AL.txt
+2025-10-11 02:52:15,323 - INFO - 保存 AL 的详细信息到 ./ip-info/443/AL_info.csv
+2025-10-11 02:52:15,324 - INFO - 保存 AT 的 5 个有效IP到 ./ip-info/443/AT.txt
+2025-10-11 02:52:15,324 - INFO - 保存 AT 的详细信息到 ./ip-info/443/AT_info.csv
+2025-10-11 02:52:15,325 - INFO - 保存 AU 的 7 个有效IP到 ./ip-info/443/AU.txt
+2025-10-11 02:52:15,326 - INFO - 保存 AU 的详细信息到 ./ip-info/443/AU_info.csv
+2025-10-11 02:52:15,326 - INFO - 保存 BR 的 1 个有效IP到 ./ip-info/443/BR.txt
+2025-10-11 02:52:15,327 - INFO - 保存 BR 的详细信息到 ./ip-info/443/BR_info.csv
+2025-10-11 02:52:15,328 - INFO - 保存 CA 的 89 个有效IP到 ./ip-info/443/CA.txt
+2025-10-11 02:52:15,328 - INFO - 保存 CA 的详细信息到 ./ip-info/443/CA_info.csv
+2025-10-11 02:52:15,329 - INFO - 保存 CH 的 11 个有效IP到 ./ip-info/443/CH.txt
+2025-10-11 02:52:15,329 - INFO - 保存 CH 的详细信息到 ./ip-info/443/CH_info.csv
+2025-10-11 02:52:15,330 - INFO - 保存 CY 的 1 个有效IP到 ./ip-info/443/CY.txt
+2025-10-11 02:52:15,331 - INFO - 保存 CY 的详细信息到 ./ip-info/443/CY_info.csv
+2025-10-11 02:52:15,331 - INFO - 保存 CZ 的 2 个有效IP到 ./ip-info/443/CZ.txt
+2025-10-11 02:52:15,332 - INFO - 保存 CZ 的详细信息到 ./ip-info/443/CZ_info.csv
+2025-10-11 02:52:15,333 - INFO - 保存 DE 的 1119 个有效IP到 ./ip-info/443/DE.txt
+2025-10-11 02:52:15,337 - INFO - 保存 DE 的详细信息到 ./ip-info/443/DE_info.csv
+2025-10-11 02:52:15,338 - INFO - 保存 EE 的 2 个有效IP到 ./ip-info/443/EE.txt
+2025-10-11 02:52:15,338 - INFO - 保存 EE 的详细信息到 ./ip-info/443/EE_info.csv
+2025-10-11 02:52:15,339 - INFO - 保存 ES 的 4 个有效IP到 ./ip-info/443/ES.txt
+2025-10-11 02:52:15,339 - INFO - 保存 ES 的详细信息到 ./ip-info/443/ES_info.csv
+2025-10-11 02:52:15,340 - INFO - 保存 FI 的 176 个有效IP到 ./ip-info/443/FI.txt
+2025-10-11 02:52:15,341 - INFO - 保存 FI 的详细信息到 ./ip-info/443/FI_info.csv
+2025-10-11 02:52:15,342 - INFO - 保存 FR 的 127 个有效IP到 ./ip-info/443/FR.txt
+2025-10-11 02:52:15,343 - INFO - 保存 FR 的详细信息到 ./ip-info/443/FR_info.csv
+2025-10-11 02:52:15,344 - INFO - 保存 GB 的 159 个有效IP到 ./ip-info/443/GB.txt
+2025-10-11 02:52:15,345 - INFO - 保存 GB 的详细信息到 ./ip-info/443/GB_info.csv
+2025-10-11 02:52:15,345 - INFO - 保存 GR 的 6 个有效IP到 ./ip-info/443/GR.txt
+2025-10-11 02:52:15,346 - INFO - 保存 GR 的详细信息到 ./ip-info/443/GR_info.csv
+2025-10-11 02:52:15,347 - INFO - 保存 HK 的 11 个有效IP到 ./ip-info/443/HK.txt
+2025-10-11 02:52:15,347 - INFO - 保存 HK 的详细信息到 ./ip-info/443/HK_info.csv
+2025-10-11 02:52:15,348 - INFO - 保存 ID 的 8 个有效IP到 ./ip-info/443/ID.txt
+2025-10-11 02:52:15,348 - INFO - 保存 ID 的详细信息到 ./ip-info/443/ID_info.csv
+2025-10-11 02:52:15,349 - INFO - 保存 IL 的 1 个有效IP到 ./ip-info/443/IL.txt
+2025-10-11 02:52:15,350 - INFO - 保存 IL 的详细信息到 ./ip-info/443/IL_info.csv
+2025-10-11 02:52:15,350 - INFO - 保存 IN 的 3 个有效IP到 ./ip-info/443/IN.txt
+2025-10-11 02:52:15,351 - INFO - 保存 IN 的详细信息到 ./ip-info/443/IN_info.csv
+2025-10-11 02:52:15,352 - INFO - 保存 JP 的 51 个有效IP到 ./ip-info/443/JP.txt
+2025-10-11 02:52:15,352 - INFO - 保存 JP 的详细信息到 ./ip-info/443/JP_info.csv
+2025-10-11 02:52:15,353 - INFO - 保存 KG 的 1 个有效IP到 ./ip-info/443/KG.txt
+2025-10-11 02:52:15,353 - INFO - 保存 KG 的详细信息到 ./ip-info/443/KG_info.csv
+2025-10-11 02:52:15,354 - INFO - 保存 KR 的 64 个有效IP到 ./ip-info/443/KR.txt
+2025-10-11 02:52:15,355 - INFO - 保存 KR 的详细信息到 ./ip-info/443/KR_info.csv
+2025-10-11 02:52:15,356 - INFO - 保存 KZ 的 2 个有效IP到 ./ip-info/443/KZ.txt
+2025-10-11 02:52:15,356 - INFO - 保存 KZ 的详细信息到 ./ip-info/443/KZ_info.csv
+2025-10-11 02:52:15,357 - INFO - 保存 LV 的 8 个有效IP到 ./ip-info/443/LV.txt
+2025-10-11 02:52:15,357 - INFO - 保存 LV 的详细信息到 ./ip-info/443/LV_info.csv
+2025-10-11 02:52:15,358 - INFO - 保存 MY 的 3 个有效IP到 ./ip-info/443/MY.txt
+2025-10-11 02:52:15,358 - INFO - 保存 MY 的详细信息到 ./ip-info/443/MY_info.csv
+2025-10-11 02:52:15,359 - INFO - 保存 NL 的 303 个有效IP到 ./ip-info/443/NL.txt
+2025-10-11 02:52:15,361 - INFO - 保存 NL 的详细信息到 ./ip-info/443/NL_info.csv
+2025-10-11 02:52:15,362 - INFO - 保存 PL 的 10 个有效IP到 ./ip-info/443/PL.txt
+2025-10-11 02:52:15,362 - INFO - 保存 PL 的详细信息到 ./ip-info/443/PL_info.csv
+2025-10-11 02:52:15,363 - INFO - 保存 RU 的 21 个有效IP到 ./ip-info/443/RU.txt
+2025-10-11 02:52:15,363 - INFO - 保存 RU 的详细信息到 ./ip-info/443/RU_info.csv
+2025-10-11 02:52:15,364 - INFO - 保存 SE 的 18 个有效IP到 ./ip-info/443/SE.txt
+2025-10-11 02:52:15,365 - INFO - 保存 SE 的详细信息到 ./ip-info/443/SE_info.csv
+2025-10-11 02:52:15,365 - INFO - 保存 SG 的 69 个有效IP到 ./ip-info/443/SG.txt
+2025-10-11 02:52:15,366 - INFO - 保存 SG 的详细信息到 ./ip-info/443/SG_info.csv
+2025-10-11 02:52:15,367 - INFO - 保存 TH 的 1 个有效IP到 ./ip-info/443/TH.txt
+2025-10-11 02:52:15,367 - INFO - 保存 TH 的详细信息到 ./ip-info/443/TH_info.csv
+2025-10-11 02:52:15,368 - INFO - 保存 TR 的 3 个有效IP到 ./ip-info/443/TR.txt
+2025-10-11 02:52:15,368 - INFO - 保存 TR 的详细信息到 ./ip-info/443/TR_info.csv
+2025-10-11 02:52:15,369 - INFO - 保存 US 的 413 个有效IP到 ./ip-info/443/US.txt
+2025-10-11 02:52:15,371 - INFO - 保存 US 的详细信息到 ./ip-info/443/US_info.csv
+2025-10-11 02:52:15,372 - INFO - 已创建标记文件: ./ip-info/443/HK_marked.txt (包含 10 条记录)
+2025-10-11 02:52:15,372 - INFO - 已创建标记文件: ./ip-info/443/JP_marked.txt (包含 10 条记录)
+2025-10-11 02:52:15,372 - INFO - 已创建标记文件: ./ip-info/443/KR_marked.txt (包含 10 条记录)
+2025-10-11 02:52:15,372 - INFO - 已创建标记文件: ./ip-info/443/SG_marked.txt (包含 10 条记录)
+2025-10-11 02:52:15,373 - INFO - 已创建标记文件: ./ip-info/443/US_marked.txt (包含 10 条记录)
+2025-10-11 02:52:15,373 - INFO - 端口 443 处理完成
+2025-10-11 02:52:15,374 - INFO - 所有处理完成!
