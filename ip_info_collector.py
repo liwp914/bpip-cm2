@@ -51,6 +51,7 @@ MAX_RETRIES = int(get_config_value('api', 'max_retries', 3))
 MAX_WORKERS = int(get_config_value('api', 'max_workers', 5))
 COUNTRIES = [c.strip() for c in get_config_value('processing', 'countries', 'HK,JP,KR,SG,US').split(',')]
 MAX_RECORDS = int(get_config_value('processing', 'max_records_per_country', 10))
+MARKER_SYMBOL = get_config_value('processing', 'marker_symbol', '🐬')
 
 # IP检测相关配置
 ENABLE_IP_CHECK = get_config_value('ip_check', 'enable_ip_check', 'true').lower() == 'true'
@@ -289,7 +290,7 @@ def create_country_marker_files(port):
                 for line in lines:
                     if line:  # 跳过空行
                         # 在IP地址后添加端口号和标记
-                        tgt.write(f"{line}:{port}#{country}☮\n")
+                        tgt.write(f"{line}:{port}#{country}{MARKER_SYMBOL}\n")
             
             logger.info(f"已创建标记文件: {target_path} (包含 {len(lines)} 条记录，端口: {port})")
         except Exception as e:
