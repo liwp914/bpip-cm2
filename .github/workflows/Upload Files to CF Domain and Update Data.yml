@@ -45,7 +45,7 @@ jobs:
       env:
         CF_DOMAIN: ${{ secrets.CF_DOMAIN }}
         CF_TOKEN: ${{ secrets.CF_TOKEN }}
-        FOLDER_PATH: ip-info/443  # 可以自定义路径
+        FOLDER_PATH: "ip-info/443,ip-info/mrked"  # 多个目录用逗号分隔
       run: ./ips_to_cfkv.sh
 
     - name: Commit and push changes
