@@ -1,5 +1,5 @@
 country,countryCode,city,isp,org,as,query,valid
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,131.186.38.156,True
-Japan,JP,Tokyo,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.237.11.207,True
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,150.230.107.25,True
 Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,150.230.198.31,True
+Japan,JP,Tokyo,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.237.11.207,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,131.186.38.156,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,150.230.107.25,True
