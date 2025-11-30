@@ -1,2 +1,3 @@
 country,countryCode,city,isp,org,as,query,valid
 Hong Kong,HK,Hong Kong,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.79.16.131,True
+Hong Kong,HK,Hong Kong,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,46.8.226.39,True
