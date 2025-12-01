@@ -1,3 +1,3 @@
 country,countryCode,city,isp,org,as,query,valid
-India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.89.139,True
 India,IN,Mumbai,Akamai Technologies,"Linode, LLC",AS63949 Akamai Connected Cloud,192.46.213.36,True
+India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.89.139,True
