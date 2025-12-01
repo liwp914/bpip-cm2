@@ -1,5 +1,5 @@
 country,countryCode,city,isp,org,as,query,valid
 The Netherlands,NL,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",209.38.36.214,True
 The Netherlands,NL,Amsterdam,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",188.166.134.51,True
-The Netherlands,NL,Amsterdam,CGI GLOBAL LIMITED,As56971,AS56971 AS56971 Cloud,178.255.222.92,True
 The Netherlands,NL,Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.151.77,True
+The Netherlands,NL,Amsterdam,CGI GLOBAL LIMITED,As56971,AS56971 AS56971 Cloud,178.255.222.92,True
