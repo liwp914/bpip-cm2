@@ -1,7 +1,7 @@
 country,countryCode,city,isp,org,as,query,valid
 United States,US,Fremont,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,31.58.226.142,True
-United States,US,Secaucus,Baxet Group Inc.,Reliable Communications s.r.o,AS26383 Baxet Group Inc.,194.87.17.3,True
-United States,US,Ashburn,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),AS31898 Oracle Corporation,150.136.61.82,True
 United States,US,San Jose,Oracle Corporation,Oracle Cloud Infrastructure (us-sanjose-1),AS31898 Oracle Corporation,152.70.123.225,True
 United States,US,Kansas City,CGI GLOBAL LIMITED,As56971,AS56971 AS56971 Cloud,185.92.181.7,True
+United States,US,Secaucus,Baxet Group Inc.,Reliable Communications s.r.o,AS26383 Baxet Group Inc.,194.87.17.3,True
+United States,US,Ashburn,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),AS31898 Oracle Corporation,150.136.61.82,True
 United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",128.199.15.60,True
