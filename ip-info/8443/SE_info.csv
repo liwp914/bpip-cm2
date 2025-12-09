@@ -1,2 +1,3 @@
 country,countryCode,city,isp,org,as,query,valid
 Sweden,SE,Stockholm,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.232.157.252,True
+Sweden,SE,Stockholm,xorek.cloud International LTD,xorek.cloud International LTD,AS210644 AEZA INTERNATIONAL LTD,194.87.77.63,True
