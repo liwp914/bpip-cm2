@@ -1,6 +1,5 @@
 country,countryCode,city,isp,org,as,query,valid
 Finland,FI,Helsinki,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,95.182.99.226,True
-Finland,FI,Helsinki,Hetzner Online GmbH,Hetzner Online GmbH,AS24940 Hetzner Online GmbH,65.109.214.6,True
-Finland,FI,Helsinki,Hetzner Online GmbH,Hetzner Online GmbH,AS24940 Hetzner Online GmbH,65.109.197.249,True
 Finland,FI,Helsinki,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,135.181.92.230,True
 Finland,FI,Helsinki,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,31.56.196.157,True
+Finland,FI,Helsinki,Hetzner Online GmbH,Hetzner Online GmbH,AS24940 Hetzner Online GmbH,65.109.214.6,True
