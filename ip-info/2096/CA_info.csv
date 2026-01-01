@@ -1,13 +1,3 @@
 country,countryCode,city,isp,org,as,query,valid
-Canada,CA,Beauharnois,OVH SAS,"OVH Hosting, Inc",AS16276 OVH SAS,148.113.143.22,True
-Canada,CA,Beauharnois,OVH SAS,"OVH Hosting, Inc",AS16276 OVH SAS,148.113.142.116,True
-Canada,CA,Beauharnois,OVH SAS,"OVH Hosting, Inc",AS16276 OVH SAS,148.113.138.142,True
-Canada,CA,Beauharnois,OVH SAS,"OVH Hosting, Inc",AS16276 OVH SAS,148.113.142.169,True
-Canada,CA,Beauharnois,OVH SAS,"OVH Hosting, Inc",AS16276 OVH SAS,148.113.143.251,True
-Canada,CA,Beauharnois,OVH SAS,"OVH Hosting, Inc",AS16276 OVH SAS,148.113.136.184,True
 Canada,CA,Montreal,OVH SAS,"OVH Hosting, Inc.",AS16276 OVH SAS,51.79.103.88,True
-Canada,CA,Beauharnois,OVH SAS,"OVH Hosting, Inc",AS16276 OVH SAS,148.113.140.208,True
-Canada,CA,Beauharnois,OVH SAS,"OVH Hosting, Inc",AS16276 OVH SAS,148.113.137.21,True
-Canada,CA,Beauharnois,OVH SAS,"OVH Hosting, Inc",AS16276 OVH SAS,148.113.138.175,True
-Canada,CA,Beauharnois,OVH SAS,"OVH Hosting, Inc",AS16276 OVH SAS,148.113.140.85,True
-Canada,CA,Beauharnois,OVH SAS,"OVH Hosting, Inc",AS16276 OVH SAS,148.113.143.132,True
+Canada,CA,Beauharnois,OVH SAS,"OVH Hosting, Inc",AS16276 OVH SAS,148.113.138.142,True
