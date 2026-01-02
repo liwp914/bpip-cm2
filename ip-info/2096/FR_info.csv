@@ -1,4 +1,2 @@
 country,countryCode,city,isp,org,as,query,valid
 France,FR,Paris,OVH SAS,Private person,AS16276 OVH SAS,45.112.195.232,True
-France,FR,Strasbourg,OVH SAS,OVH,AS16276 OVH SAS,152.228.229.59,True
-France,FR,Strasbourg,OVH SAS,OVH,AS16276 OVH SAS,152.228.230.62,True
