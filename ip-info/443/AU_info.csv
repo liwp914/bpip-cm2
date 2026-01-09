@@ -1,7 +1,7 @@
 country,countryCode,city,isp,org,as,query,valid
 Australia,AU,Sydney,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172.105.191.21,True
-Australia,AU,Sydney,"Akamai Technologies, Inc.","Linode, LLC",AS63949 Akamai Connected Cloud,194.195.252.133,True
 Australia,AU,Sydney,"Akamai Technologies, Inc.","Linode, LLC",AS63949 Akamai Connected Cloud,194.195.125.161,True
+Australia,AU,Melbourne,Oracle Corporation,Oracle Cloud Infrastructure (ap-melbourne-1),AS31898 Oracle Corporation,207.211.158.26,True
+Australia,AU,Sydney,"Akamai Technologies, Inc.","Linode, LLC",AS63949 Akamai Connected Cloud,194.195.252.133,True
 Australia,AU,Sydney,Oracle Corporation,Oracle Cloud Infrastructure (ap-sydney-1),AS31898 Oracle Corporation,140.238.201.118,True
 Australia,AU,Sydney,Oracle Corporation,Oracle Cloud Infrastructure (ap-sydney-1),AS31898 Oracle Corporation,152.67.125.174,True
-Australia,AU,Melbourne,Oracle Corporation,Oracle Cloud Infrastructure (ap-melbourne-1),AS31898 Oracle Corporation,207.211.158.26,True
