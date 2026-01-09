@@ -1,2 +1,5 @@
 country,countryCode,city,isp,org,as,query,valid
-Spain,ES,Madrid,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,158.179.219.240,True
+Spain,ES,Madrid,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.233.97.34,True
+Spain,ES,Madrid,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,91.149.242.178,True
+Spain,ES,Madrid,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.233.110.214,True
+Spain,ES,Madrid,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.233.121.202,True
