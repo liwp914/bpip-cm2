@@ -1,12 +1,12 @@
 country,countryCode,city,isp,org,as,query,valid
-Australia,AU,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",209.38.87.103,True
-Australia,AU,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",170.64.244.164,True
-Australia,AU,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",209.38.84.245,True
-Australia,AU,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.199.156.129,True
-Australia,AU,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",170.64.209.5,True
-Australia,AU,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",209.38.26.207,True
-Australia,AU,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",170.64.193.41,True
-Australia,AU,Sydney,Oracle Corporation,Oracle Cloud Infrastructure (ap-sydney-1),AS31898 Oracle Corporation,152.67.125.174,True
-Australia,AU,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",209.38.30.4,True
-Australia,AU,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.199.157.12,True
 Australia,AU,Melbourne,Oracle Corporation,Oracle Cloud Infrastructure (ap-melbourne-1),AS31898 Oracle Corporation,207.211.158.26,True
+Australia,AU,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.199.156.129,True
+Australia,AU,Sydney,Oracle Corporation,Oracle Cloud Infrastructure (ap-sydney-1),AS31898 Oracle Corporation,152.67.125.174,True
+Australia,AU,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",209.38.87.103,True
+Australia,AU,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",209.38.84.245,True
+Australia,AU,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.199.157.12,True
+Australia,AU,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",170.64.209.5,True
+Australia,AU,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",209.38.30.4,True
+Australia,AU,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",170.64.244.164,True
+Australia,AU,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",170.64.193.41,True
+Australia,AU,Sydney,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",209.38.26.207,True
