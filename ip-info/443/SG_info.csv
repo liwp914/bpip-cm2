@@ -1,103 +1,103 @@
 country,countryCode,city,isp,org,as,query,valid
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.178.178,True
-Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,217.142.184.41,True
-Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,129.150.48.17,True
-Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,138.2.87.237,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.90.108,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",128.199.179.250,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.235.64,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.65.143.223,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.99.77.145,True
-Singapore,SG,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.219.203.116,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.223.79.119,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.217.192,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.209.190,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",188.166.247.45,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",174.138.29.116,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",139.59.250.254,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",128.199.119.5,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.172.65.133,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",146.190.84.255,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.223.84.236,True
 Singapore,SG,Singapore,Baxet Group Inc.,Baxet,AS26383 Baxet Group Inc.,194.87.10.241,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.227.22,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.232.41,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.117.43,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.232.163.215,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",128.199.119.5,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.125.147,True
+Singapore,SG,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.236.71.6,True
+Singapore,SG,Singapore,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.237.52,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.235.53,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.178.178,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.198.209.123,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.172.65.175,True
+Singapore,SG,Singapore,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172.104.161.151,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",188.166.234.172,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.22.104.36,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.250.166,True
+Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,161.118.213.45,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.65.143.223,True
+Singapore,SG,Singapore,OVH SAS,OVH Singapore PTE. LTD,AS16276 OVH SAS,15.235.187.166,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",152.42.190.83,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.217.192,True
+Singapore,SG,Singapore,Oracle Corporation,Oracle Public Cloud,AS31898 Oracle Corporation,168.138.177.109,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.237.210,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.223.68.162,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.22.59.195,True
+Singapore,SG,Singapore,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172.104.53.198,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",174.138.29.116,True
+Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,129.150.48.17,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",188.166.247.45,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",139.59.250.249,True
+Singapore,SG,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.219.203.116,True
 Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.211.191,True
 Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.30.71,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",139.59.250.249,True
-Singapore,SG,Singapore,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.115.38,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",206.189.82.255,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.213.95,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.232.41,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.230.44.100,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",209.97.163.209,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",188.166.234.172,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.206.207,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.125.147,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",152.42.190.83,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.237.210,True
 Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",188.166.249.31,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.198.213.40,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",128.199.245.50,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.252.45,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.22.104.36,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.108.7,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",128.199.181.89,True
-Singapore,SG,Singapore,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172.104.53.198,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",209.97.171.87,True
-Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,146.235.16.191,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.230.38.88,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",152.42.162.99,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",128.199.128.117,True
-Singapore,SG,Singapore,OVH SAS,OVH Singapore PTE. LTD,AS16276 OVH SAS,51.79.248.128,True
-Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,129.150.46.113,True
-Singapore,SG,Singapore,OVH SAS,OVH Singapore PTE. LTD,AS16276 OVH SAS,15.235.184.201,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.198.215.136,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.99.70.145,True
-Singapore,SG,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.236.185.184,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.223.84.236,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",128.199.82.20,True
-Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,213.35.103.21,True
-Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,161.118.213.45,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",146.190.84.255,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.219.37,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.65.15.18,True
-Singapore,SG,Singapore,OVH SAS,OVH Singapore PTE. LTD,AS16276 OVH SAS,15.235.187.166,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.250.166,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.58.101,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.172.65.175,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.223.160,True
-Singapore,SG,Singapore,Oracle Corporation,Oracle Public Cloud,AS31898 Oracle Corporation,168.138.177.109,True
-Singapore,SG,Singapore,Baxet Group Inc.,Baxet,AS26383 Baxet Group Inc.,194.87.10.77,True
-Singapore,SG,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.236.71.6,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.209.190,True
 Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,158.178.234.153,True
-Singapore,SG,Singapore,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172.104.161.151,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.117.43,True
-Singapore,SG,Singapore,Oracle Corporation,Oracle Public Cloud,AS31898 Oracle Corporation,168.138.165.174,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.172.67.57,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.172.66.115,True
-Singapore,SG,Singapore,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.239.116,True
-Singapore,SG,Singapore,OVH SAS,,AS16276 OVH SAS,192.99.127.218,True
-Singapore,SG,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc","AS45102 Alibaba (US) Technology Co., Ltd.",47.84.113.241,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.22.99.110,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",128.199.216.53,True
-Singapore,SG,Singapore,Baxet Group Inc.,InterLIR Marketplace,AS26383 Baxet Group Inc.,103.136.68.86,True
-Singapore,SG,Singapore,Oracle Corporation,Oracle Public Cloud,AS31898 Oracle Corporation,168.138.171.191,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",174.138.19.127,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.198.213.81,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",146.190.108.84,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.227.22,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.198.209.123,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.17.237,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",152.42.178.179,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.235.53,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",104.248.145.216,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.108.7,True
 Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.230.164,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.65.138.0,True
-Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,213.35.127.18,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",146.190.192.201,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.223.68.162,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",128.199.181.89,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",128.199.216.53,True
+Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,213.35.103.21,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",152.42.162.99,True
+Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,129.150.46.113,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.99.70.145,True
+Singapore,SG,Singapore,OVH SAS,,AS16276 OVH SAS,192.99.127.218,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",209.97.171.87,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.172.66.115,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",128.199.245.50,True
+Singapore,SG,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc","AS45102 Alibaba (US) Technology Co., Ltd.",47.84.113.241,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",174.138.19.127,True
 Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,129.150.63.187,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",209.97.163.209,True
+Singapore,SG,Singapore,Baxet Group Inc.,InterLIR Marketplace,AS26383 Baxet Group Inc.,103.136.68.86,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.223.160,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.90.108,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.172.65.133,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.65.15.18,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",146.190.192.201,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.198.213.81,True
+Singapore,SG,Singapore,OVH SAS,OVH Singapore PTE. LTD,AS16276 OVH SAS,15.235.184.201,True
+Singapore,SG,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.236.185.184,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.219.37,True
+Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,146.235.16.191,True
+Singapore,SG,Singapore,OVH SAS,OVH Singapore PTE. LTD,AS16276 OVH SAS,51.79.248.128,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.198.215.136,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.206.207,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",146.190.108.84,True
+Singapore,SG,Singapore,Baxet Group Inc.,Baxet,AS26383 Baxet Group Inc.,194.87.10.77,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.99.77.145,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.22.99.110,True
+Singapore,SG,Singapore,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.239.116,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.235.64,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.58.101,True
+Singapore,SG,Singapore,Oracle Corporation,Oracle Public Cloud,AS31898 Oracle Corporation,168.138.171.191,True
+Singapore,SG,Singapore,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.115.38,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",128.199.82.20,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.213.95,True
+Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,213.35.127.18,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.65.138.0,True
 Singapore,SG,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.236.230.84,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.232.163.215,True
-Singapore,SG,Singapore,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.237.52,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.22.59.195,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.230.44.100,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.230.38.88,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",104.248.145.216,True
 Singapore,SG,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.79.2.213,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",206.189.40.100,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.17.237,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.252.45,True
+Singapore,SG,Singapore,Oracle Corporation,Oracle Public Cloud,AS31898 Oracle Corporation,168.138.165.174,True
+Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,138.2.87.237,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.198.213.40,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",206.189.82.255,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.223.79.119,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.172.67.57,True
 Singapore,SG,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba Cloud LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.236.106.0,True
+Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,217.142.184.41,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",128.199.128.117,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",206.189.40.100,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",128.199.179.250,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",139.59.250.254,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",152.42.178.179,True
