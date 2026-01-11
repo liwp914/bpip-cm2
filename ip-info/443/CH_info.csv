@@ -1,6 +1,6 @@
 country,countryCode,city,isp,org,as,query,valid
+Switzerland,CH,Zurich,Baxet Group Inc.,RCS Technologies FZE LLC,AS26383 Baxet Group Inc.,167.17.181.45,True
 Switzerland,CH,Zurich,Oracle Corporation,Oracle Cloud Infrastructure (eu-zurich-1),AS31898 Oracle Corporation,152.67.64.55,True
+Switzerland,CH,Zurich,Oracle Corporation,Oracle Cloud Infrastructure (eu-zurich-1),AS31898 Oracle Corporation,152.67.74.84,True
 Switzerland,CH,Zurich,Oracle Corporation,Oracle Cloud Infrastructure (eu-zurich-1),AS31898 Oracle Corporation,152.67.65.37,True
 Switzerland,CH,Bern,Baxet Group Inc.,RCS Technologies FZE LLC,AS26383 Baxet Group Inc.,167.17.183.134,True
-Switzerland,CH,Zurich,Oracle Corporation,Oracle Cloud Infrastructure (eu-zurich-1),AS31898 Oracle Corporation,152.67.74.84,True
-Switzerland,CH,Zurich,Baxet Group Inc.,RCS Technologies FZE LLC,AS26383 Baxet Group Inc.,167.17.181.45,True
