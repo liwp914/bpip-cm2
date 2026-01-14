@@ -1,21 +1,21 @@
 country,countryCode,city,isp,org,as,query,valid
+South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,64.110.75.81,True
+South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,132.145.81.117,True
+South Korea,KR,Seoul,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.220.194.243,True
 South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,193.122.107.234,True
 South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,146.56.143.8,True
-South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,130.162.130.105,True
-South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,132.145.81.117,True
-South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,129.154.201.131,True
-South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,193.122.108.223,True
-South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,129.154.215.121,True
-South Korea,KR,Seoul,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc","AS45102 Alibaba (US) Technology Co., Ltd.",47.80.0.17,True
-South Korea,KR,Seoul,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.220.194.243,True
-South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,152.70.239.74,True
-South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,64.110.75.81,True
-South Korea,KR,Chuncheon,Oracle Corporation,Oracle Cloud Infrastructure (ap-chuncheon-1),AS31898 Oracle Corporation,129.154.50.159,True
-South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,131.186.17.132,True
-South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,152.70.253.44,True
-South Korea,KR,Chuncheon,Oracle Corporation,Oracle Cloud Infrastructure (ap-chuncheon-1),AS31898 Oracle Corporation,146.56.96.1,True
-South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,146.56.167.171,True
 South Korea,KR,Chuncheon,Oracle Corporation,Oracle Cloud Infrastructure (ap-chuncheon-1),AS31898 Oracle Corporation,158.180.72.60,True
-South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,64.110.91.31,True
-South Korea,KR,Chuncheon,Oracle Corporation,Oracle Cloud Infrastructure (ap-chuncheon-1),AS31898 Oracle Corporation,144.24.90.107,True
+South Korea,KR,Chuncheon,Oracle Corporation,Oracle Cloud Infrastructure (ap-chuncheon-1),AS31898 Oracle Corporation,146.56.96.1,True
+South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,129.154.201.131,True
 South Korea,KR,Chuncheon,Oracle Corporation,Oracle Cloud Infrastructure (ap-chuncheon-1),AS31898 Oracle Corporation,168.107.28.77,True
+South Korea,KR,Chuncheon,Oracle Corporation,Oracle Cloud Infrastructure (ap-chuncheon-1),AS31898 Oracle Corporation,129.154.50.159,True
+South Korea,KR,Chuncheon,Oracle Corporation,Oracle Cloud Infrastructure (ap-chuncheon-1),AS31898 Oracle Corporation,144.24.90.107,True
+South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,130.162.130.105,True
+South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,146.56.167.171,True
+South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,129.154.215.121,True
+South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,131.186.17.132,True
+South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,193.122.108.223,True
+South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,152.70.239.74,True
+South Korea,KR,Seoul,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc","AS45102 Alibaba (US) Technology Co., Ltd.",47.80.0.17,True
+South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,152.70.253.44,True
+South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,64.110.91.31,True
