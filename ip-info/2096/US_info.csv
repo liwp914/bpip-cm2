@@ -1,4 +1,4 @@
 country,countryCode,city,isp,org,as,query,valid
-United States,US,Clifton,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",167.99.58.113,True
 United States,US,Atlanta,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.74.103.23,True
 United States,US,Clifton,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",159.203.150.39,True
+United States,US,Clifton,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",167.99.58.113,True
