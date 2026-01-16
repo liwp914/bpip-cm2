@@ -1,5 +1,5 @@
 country,countryCode,city,isp,org,as,query,valid
-United States,US,Atlanta,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.74.103.23,True
 United States,US,Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.238.168.183,True
-United States,US,Reston,OVH SAS,OVH US LLC,AS16276 OVH SAS,51.81.125.243,True
 United States,US,Fremont,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,31.57.47.118,True
+United States,US,Reston,OVH SAS,OVH US LLC,AS16276 OVH SAS,51.81.125.243,True
+United States,US,Atlanta,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.74.103.23,True
