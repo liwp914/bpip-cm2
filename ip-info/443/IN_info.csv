@@ -1,25 +1,25 @@
 country,countryCode,city,isp,org,as,query,valid
-India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",142.93.209.240,True
-India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.60.105,True
-India,IN,Mumbai,Oracle Corporation,Oracle Cloud Infrastructure (ap-mumbai-1),AS31898 Oracle Corporation,80.225.204.3,True
-India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.110.184.105,True
-India,IN,Hyderabad,Oracle Corporation,Oracle Cloud Infrastructure (ap-hyderabad-1),AS31898 Oracle Corporation,152.67.190.105,True
-India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.110.178.130,True
-India,IN,Hyderabad,Oracle Corporation,Oracle Cloud Infrastructure (ap-hyderabad-1),AS31898 Oracle Corporation,144.24.140.37,True
-India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.110.247.34,True
-India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.110.188.241,True
-India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",64.227.146.37,True
-India,IN,Mumbai,Oracle Corporation,Oracle Cloud Infrastructure (ap-mumbai-1),AS31898 Oracle Corporation,129.154.251.30,True
-India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.47.74,True
 India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",64.227.147.200,True
-India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.110.241.197,True
-India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",64.227.141.246,True
-India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.22.215.177,True
-India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.18.152,True
-India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.45.54,True
-India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.61.219,True
+India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.110.178.130,True
 India,IN,Bengaluru,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.14.217,True
-India,IN,Chennai,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.236.95.74,True
-India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.209.148.128,True
+India,IN,Hyderabad,Oracle Corporation,Oracle Cloud Infrastructure (ap-hyderabad-1),AS31898 Oracle Corporation,152.67.190.105,True
 India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",64.227.158.180,True
+India,IN,Hyderabad,Oracle Corporation,Oracle Cloud Infrastructure (ap-hyderabad-1),AS31898 Oracle Corporation,144.24.140.37,True
+India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.110.241.197,True
+India,IN,Mumbai,Oracle Corporation,Oracle Cloud Infrastructure (ap-mumbai-1),AS31898 Oracle Corporation,80.225.204.3,True
+India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",64.227.141.246,True
+India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.110.247.34,True
+India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",64.227.146.37,True
+India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",142.93.209.240,True
+India,IN,Chennai,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.236.95.74,True
+India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.110.188.241,True
+India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.22.215.177,True
+India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.47.74,True
+India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.110.184.105,True
+India,IN,Mumbai,Oracle Corporation,Oracle Cloud Infrastructure (ap-mumbai-1),AS31898 Oracle Corporation,129.154.251.30,True
+India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.45.54,True
 India,IN,Mumbai,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.236.187.52,True
+India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.61.219,True
+India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.18.152,True
+India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.60.105,True
+India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.209.148.128,True
