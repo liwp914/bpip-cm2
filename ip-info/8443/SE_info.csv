@@ -1,6 +1,6 @@
 country,countryCode,city,isp,org,as,query,valid
-Sweden,SE,Stockholm,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.234.99.26,True
 Sweden,SE,Stockholm,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.232.140.240,True
+Sweden,SE,Stockholm,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.234.99.26,True
 Sweden,SE,Stockholm,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.234.96.64,True
 Sweden,SE,Stockholm,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.232.157.252,True
 Sweden,SE,Stockholm,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,129.151.198.3,True
