@@ -1,5 +1,4 @@
 country,countryCode,city,isp,org,as,query,valid
-United States,US,Clifton,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",159.203.150.39,True
 United States,US,Clifton,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",167.99.58.113,True
-United States,US,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.182.244,True
+United States,US,Clifton,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",159.203.150.39,True
 United States,US,San Jose,Oracle Corporation,Oracle Cloud Infrastructure (us-sanjose-1),AS31898 Oracle Corporation,192.9.247.225,True
