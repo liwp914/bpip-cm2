@@ -1,24 +1,24 @@
 country,countryCode,city,isp,org,as,query,valid
-United States,US,Warrenton,OVH SAS,,AS16276 OVH SAS,104.234.50.198,True
-United States,US,Kansas City,CGI GLOBAL LIMITED,As56971,AS56971 AS56971 Cloud,185.92.181.218,True
-United States,US,Dallas,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,31.59.139.116,True
-United States,US,Warrenton,OVH SAS,,AS16276 OVH SAS,104.234.50.221,True
-United States,US,Warrenton,OVH SAS,,AS16276 OVH SAS,104.234.50.215,True
-United States,US,Phoenix,Oracle Corporation,Oracle Cloud Infrastructure (us-phoenix-1),AS31898 Oracle Corporation,141.148.158.226,True
 United States,US,Oakton,OVH SAS,OVH US LLC,AS16276 OVH SAS,147.135.116.211,True
-United States,US,Kansas City,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,31.59.40.153,True
-United States,US,Kansas City,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,31.59.40.37,True
-United States,US,Dallas,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,31.57.118.249,True
-United States,US,Kansas City,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,109.248.160.177,True
 United States,US,Warrenton,OVH SAS,,AS16276 OVH SAS,104.234.50.115,True
-United States,US,Warrenton,OVH SAS,,AS16276 OVH SAS,104.234.50.19,True
-United States,US,San Jose,Oracle Corporation,Oracle Cloud Infrastructure (us-sanjose-1),AS31898 Oracle Corporation,129.159.47.168,True
-United States,US,Hillsboro,OVH SAS,OVH US LLC,AS16276 OVH SAS,51.81.209.21,True
-United States,US,Kansas City,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,94.183.232.217,True
 United States,US,Warrenton,OVH SAS,,AS16276 OVH SAS,104.234.50.69,True
-United States,US,New York,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,207.90.238.158,True
-United States,US,Fremont,CGI GLOBAL LIMITED,Cloud Backbone Inc,AS56971 AS56971 Cloud,31.57.63.69,True
-United States,US,Fremont,CGI GLOBAL LIMITED,Cloud Backbone Inc,AS56971 AS56971 Cloud,45.156.24.99,True
-United States,US,Dallas,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,31.59.139.38,True
-United States,US,Warrenton,OVH SAS,,AS16276 OVH SAS,104.234.50.223,True
+United States,US,Phoenix,Oracle Corporation,Oracle Cloud Infrastructure (us-phoenix-1),AS31898 Oracle Corporation,141.148.158.226,True
+United States,US,Dallas,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,31.59.139.116,True
+United States,US,Kansas City,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,31.59.40.37,True
 United States,US,Kansas City,CGI GLOBAL LIMITED,,AS56971 AS56971 Cloud,185.92.182.237,True
+United States,US,Dallas,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,31.57.118.249,True
+United States,US,Warrenton,OVH SAS,,AS16276 OVH SAS,104.234.50.223,True
+United States,US,Warrenton,OVH SAS,,AS16276 OVH SAS,104.234.50.215,True
+United States,US,Kansas City,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,109.248.160.177,True
+United States,US,Kansas City,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,31.59.40.153,True
+United States,US,Fremont,CGI GLOBAL LIMITED,Cloud Backbone Inc,AS56971 AS56971 Cloud,45.156.24.99,True
+United States,US,San Jose,Oracle Corporation,Oracle Cloud Infrastructure (us-sanjose-1),AS31898 Oracle Corporation,129.159.47.168,True
+United States,US,Warrenton,OVH SAS,,AS16276 OVH SAS,104.234.50.198,True
+United States,US,Kansas City,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,94.183.232.217,True
+United States,US,Warrenton,OVH SAS,,AS16276 OVH SAS,104.234.50.19,True
+United States,US,Hillsboro,OVH SAS,OVH US LLC,AS16276 OVH SAS,51.81.209.21,True
+United States,US,Warrenton,OVH SAS,,AS16276 OVH SAS,104.234.50.221,True
+United States,US,Kansas City,CGI GLOBAL LIMITED,As56971,AS56971 AS56971 Cloud,185.92.181.218,True
+United States,US,Fremont,CGI GLOBAL LIMITED,Cloud Backbone Inc,AS56971 AS56971 Cloud,31.57.63.69,True
+United States,US,New York,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,207.90.238.158,True
+United States,US,Dallas,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,31.59.139.38,True
