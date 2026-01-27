@@ -1,2 +1,4 @@
 country,countryCode,city,isp,org,as,query,valid
 United Kingdom,GB,City of London,OVH SAS,OVH Ltd,AS16276 OVH SAS,145.239.202.17,True
+United Kingdom,GB,London,OVH SAS,OVH Ltd,AS16276 OVH SAS,51.89.230.255,True
+United Kingdom,GB,London,OVH SAS,OVH GmbH,AS16276 OVH SAS,51.89.116.146,True
