@@ -1,7 +1,7 @@
 country,countryCode,city,isp,org,as,query,valid
-Indonesia,ID,Jakarta,Alibaba Cloud LLC,Alibaba Cloud - ID,"AS45102 Alibaba (US) Technology Co., Ltd.",147.139.189.225,True
-Indonesia,ID,Jakarta,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.232.234.155,True
 Indonesia,ID,Jakarta,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.215.45.203,True
-Indonesia,ID,Jakarta,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.232.232.163,True
-Indonesia,ID,Jakarta,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.215.57.14,True
 Indonesia,ID,Jakarta,Alibaba Cloud LLC,Alibaba Cloud - ID,"AS45102 Alibaba (US) Technology Co., Ltd.",147.139.140.61,True
+Indonesia,ID,Jakarta,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.232.234.155,True
+Indonesia,ID,Jakarta,Alibaba Cloud LLC,Alibaba Cloud - ID,"AS45102 Alibaba (US) Technology Co., Ltd.",147.139.189.225,True
+Indonesia,ID,Jakarta,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.215.57.14,True
+Indonesia,ID,Jakarta,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.232.232.163,True
