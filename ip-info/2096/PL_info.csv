@@ -1,2 +1,3 @@
 country,countryCode,city,isp,org,as,query,valid
 Poland,PL,Wroclaw,OVH SAS,OVH Sp. z o. o,AS16276 OVH SAS,217.182.73.64,True
+Poland,PL,Warsaw,OVH SAS,OVH Sp. z o. o,AS16276 OVH SAS,54.38.136.39,True
