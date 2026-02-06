@@ -1,12 +1,12 @@
 country,countryCode,city,isp,org,as,query,valid
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,168.138.192.184,True
 Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,168.138.47.238,True
-Japan,JP,Tokyo,Alibaba.com LLC,"NORTHERN CABLE AND FIBER, LLC, Delta Centric LLC, Zenlayer Inc","AS45102 Alibaba (US) Technology Co., Ltd.",47.79.43.88,True
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,150.230.107.25,True
-Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,140.83.57.116,True
-Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,168.138.36.146,True
-Japan,JP,Tokyo,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.237.11.207,True
-Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,138.2.55.219,True
 Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,193.123.166.79,True
 Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,131.186.38.156,True
 Japan,JP,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.209.255.241,True
+Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,138.2.55.219,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,168.138.192.184,True
+Japan,JP,Tokyo,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.237.11.207,True
+Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,168.138.36.146,True
+Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,140.83.57.116,True
+Japan,JP,Tokyo,Alibaba.com LLC,"NORTHERN CABLE AND FIBER, LLC, Delta Centric LLC, Zenlayer Inc","AS45102 Alibaba (US) Technology Co., Ltd.",47.79.43.88,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,150.230.107.25,True
