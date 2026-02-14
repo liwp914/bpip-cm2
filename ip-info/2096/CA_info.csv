@@ -1,3 +1,5 @@
 country,countryCode,city,isp,org,as,query,valid
 Canada,CA,Montreal,OVH SAS,"OVH Hosting, Inc.",AS16276 OVH SAS,51.161.81.55,True
 Canada,CA,Montreal,OVH SAS,"OVH Hosting, Inc.",AS16276 OVH SAS,51.161.83.1,True
+Canada,CA,Montreal,OVH SAS,"OVH Hosting, Inc.",AS16276 OVH SAS,51.161.80.227,True
+Canada,CA,Beauharnois,OVH SAS,"OVH Hosting, Inc",AS16276 OVH SAS,148.113.139.164,True
