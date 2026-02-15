@@ -1,16 +1,16 @@
 country,countryCode,city,isp,org,as,query,valid
-Sweden,SE,Stockholm,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.234.107.183,True
-Sweden,SE,Stockholm,Baxet Group Inc.,Interlir,AS26383 Baxet Group Inc.,31.192.244.234,True
-Sweden,SE,Stockholm,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.232.149.77,True
-Sweden,SE,Stockholm,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,79.76.60.119,True
-Sweden,SE,Stockholm,Baxet Group Inc.,Interlir,AS26383 Baxet Group Inc.,31.192.244.129,True
 Sweden,SE,Stockholm,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.234.123.73,True
-Sweden,SE,Stockholm,Baxet Group Inc.,Interlir,AS26383 Baxet Group Inc.,31.192.244.245,True
-Sweden,SE,Stockholm,Baxet Group Inc.,Netaxis Group LTD,AS26383 Baxet Group Inc.,103.110.66.95,True
+Sweden,SE,Stockholm,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.234.107.183,True
+Sweden,SE,Stockholm,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,31.192.244.129,True
+Sweden,SE,Stockholm,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,31.192.244.234,True
 Sweden,SE,Stockholm,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.232.129.211,True
+Sweden,SE,Stockholm,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,103.110.66.95,True
 Sweden,SE,Stockholm,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,158.179.206.143,True
+Sweden,SE,Stockholm,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,31.192.244.245,True
+Sweden,SE,Stockholm,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.234.107.222,True
+Sweden,SE,Stockholm,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,194.87.30.26,True
+Sweden,SE,Stockholm,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,79.76.60.119,True
+Sweden,SE,Stockholm,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.232.149.77,True
 Sweden,SE,Stockholm,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,79.76.54.96,True
 Sweden,SE,Stockholm,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.232.140.240,True
-Sweden,SE,Stockholm,Baxet Group Inc.,Reliable Communications s.r.o,AS26383 Baxet Group Inc.,194.87.30.26,True
-Sweden,SE,Stockholm,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.234.107.222,True
 Sweden,SE,Stockholm,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.234.99.142,True

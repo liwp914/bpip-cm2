@@ -1,3 +1,3 @@
 country,countryCode,city,isp,org,as,query,valid
-United States,US,Fremont,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,31.57.47.118,True
+United States,US,Fremont,CGI GLOBAL LIMITED,Cloud Backbone Inc,AS56971 AS56971 Cloud,31.57.47.118,True
 United States,US,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.89.43.153,True
