@@ -1,4 +1,4 @@
 country,countryCode,city,isp,org,as,query,valid
-Australia,AU,Sydney,Oracle Corporation,Oracle Cloud Infrastructure (ap-sydney-1),AS31898 Oracle Corporation,150.230.14.79,True
 Australia,AU,Sydney,Oracle Corporation,Oracle Cloud Infrastructure (ap-sydney-1),AS31898 Oracle Corporation,152.67.97.99,True
+Australia,AU,Sydney,Oracle Corporation,Oracle Cloud Infrastructure (ap-sydney-1),AS31898 Oracle Corporation,150.230.14.79,True
 Australia,AU,Melbourne,Oracle Corporation,Oracle Cloud Infrastructure (ap-melbourne-1),AS31898 Oracle Corporation,161.33.76.218,True
