@@ -1,23 +1,23 @@
 country,countryCode,city,isp,org,as,query,valid
+United States,US,Richardson,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud,45.56.69.18,True
+United States,US,Ashburn,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),AS31898 Oracle Corporation,150.136.61.82,True
+United States,US,Dallas,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,31.57.118.249,True
 United States,US,Kansas City,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,109.248.160.177,True
-United States,US,Kansas City,CGI GLOBAL LIMITED,As56971,AS56971 AS56971 Cloud,185.92.181.7,True
-United States,US,Chicago,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,170.9.240.77,True
-United States,US,Secaucus,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,194.87.17.3,True
-United States,US,Fremont,CGI GLOBAL LIMITED,Cloud Backbone Inc,AS56971 AS56971 Cloud,94.183.185.50,True
-United States,US,Kansas City,CGI GLOBAL LIMITED,,AS56971 AS56971 Cloud,185.92.182.237,True
-United States,US,New York,Ace Data Centers,InterLIR LLC,AS26383 Baxet Group Inc.,108.165.176.146,True
 United States,US,Kansas City,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,109.248.160.69,True
 United States,US,Kansas City,CGI GLOBAL LIMITED,As56971,AS56971 AS56971 Cloud,185.92.181.218,True
+United States,US,Secaucus,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,194.87.17.3,True
+United States,US,Ashburn,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),AS31898 Oracle Corporation,129.158.241.2,True
 United States,US,San Jose,Oracle Corporation,Oracle Cloud Infrastructure (us-sanjose-1),AS31898 Oracle Corporation,159.54.175.60,True
 United States,US,San Jose,Oracle Corporation,Oracle Cloud Infrastructure (us-sanjose-1),AS31898 Oracle Corporation,152.70.123.225,True
-United States,US,Ashburn,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),AS31898 Oracle Corporation,150.136.61.82,True
+United States,US,Clifton,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",159.203.144.233,True
+United States,US,Kansas City,CGI GLOBAL LIMITED,,AS56971 AS56971 Cloud,185.92.182.237,True
+United States,US,San Jose,Oracle Corporation,Oracle Cloud Infrastructure (us-sanjose-1),AS31898 Oracle Corporation,138.2.232.216,True
+United States,US,Kansas City,CGI GLOBAL LIMITED,As56971,AS56971 AS56971 Cloud,185.92.181.7,True
 United States,US,Hillsboro,OVH SAS,OVH US LLC,AS16276 OVH SAS,51.81.209.21,True
 United States,US,San Jose,Oracle Corporation,Oracle Cloud Infrastructure (us-sanjose-1),AS31898 Oracle Corporation,165.1.79.60,True
-United States,US,Ashburn,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),AS31898 Oracle Corporation,129.158.241.2,True
-United States,US,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.245.215.195,True
-United States,US,Fremont,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,31.57.63.147,True
 United States,US,Fremont,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,31.57.63.69,True
-United States,US,Dallas,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,31.57.118.249,True
-United States,US,Richardson,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud,45.56.69.18,True
-United States,US,San Jose,Oracle Corporation,Oracle Cloud Infrastructure (us-sanjose-1),AS31898 Oracle Corporation,138.2.232.216,True
-United States,US,Clifton,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",159.203.144.233,True
+United States,US,Fremont,CGI GLOBAL LIMITED,Cloud Backbone Inc,AS56971 AS56971 Cloud,94.183.185.50,True
+United States,US,Clifton,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.245.215.195,True
+United States,US,New York,Ace Data Centers,InterLIR LLC,AS26383 Baxet Group Inc.,108.165.176.146,True
+United States,US,Fremont,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,31.57.63.147,True
+United States,US,Chicago,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,170.9.240.77,True
