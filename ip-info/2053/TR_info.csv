@@ -1,0 +1,5 @@
+country,countryCode,city,isp,org,as,query,valid
+Türkiye,TR,Izmir,Alastyr Telekomunikasyon A.S.,Alastyr Telekomunikasyon A.S.,AS3188 Alastyr Telekomunikasyon A.S.,185.8.129.187,True
+Turkey,TR,Istanbul,TradeZone LLC,TradeZone LLC,AS201575 TradeZone LLC,188.132.192.190,True
+Turkey,TR,Istanbul,TradeZone LLC,TradeZone LLC,AS201575 TradeZone LLC,188.132.192.194,True
+Turkey,TR,Istanbul,TradeZone LLC,TradeZone LLC,AS201575 TradeZone LLC,188.132.192.195,True

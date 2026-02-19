@@ -1,0 +1,2 @@
+country,countryCode,city,isp,org,as,query,valid
+Japan,JP,Tokyo,"Amazon.com, Inc.",AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",54.199.22.197,True
