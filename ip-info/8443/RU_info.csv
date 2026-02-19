@@ -1,20 +1,19 @@
 country,countryCode,city,isp,org,as,query,valid
-Russia,RU,Moscow,Aeza Group LLC,Aeza International LTD,AS216246 Aeza Group LLC,185.221.199.239,True
-Russia,RU,St Petersburg,NetCrafters OU,NetCrafters OU,AS203273 NetCrafters OU,83.147.255.3,True
-Russia,RU,Moscow,Hosting technology LTD,Hosting technology LTD,AS48282 Hosting technology LTD,178.20.46.58,True
-Russia,RU,Moscow,"""Cloud Technologies"" LLC trading as Cloud.ru",Sbercloud,"AS208677 ""Cloud Technologies"" LLC trading as Cloud.ru",176.109.106.61,True
-Russia,RU,Moscow,"JSC ""TIMEWEB""","Timeweb, LLP",AS9123 JSC TIMEWEB,82.97.249.34,True
-Russia,RU,Moscow,OVH SAS,HostiMan Hosting,AS16276 OVH SAS,162.19.158.37,True
-Russia,RU,Moscow,Stolica Telecom Ltd.,Stolica Telecom Ltd,AS62366 Stolica Telecom Ltd.,95.46.1.22,True
-Russia,RU,Moscow,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD,77.232.143.39,True
-Russia,RU,Moscow,Hosting technology LTD,Hosting technology LTD,AS48282 Hosting technology LTD,178.20.41.204,True
-Russia,RU,Moscow,NetCrafters OU,NetCrafters OU,AS203273 NetCrafters OU,178.253.55.191,True
-Russia,RU,St Petersburg,"JSC ""TIMEWEB""","JSC ""TIMEWEB""",AS9123 JSC TIMEWEB,85.193.91.193,True
-Russia,RU,Moscow,Hosting technology LTD,Hosting technology LTD,AS48282 Hosting technology LTD,89.110.91.224,True
-Russia,RU,Moscow,Hosting technology LTD,Hosting technology LTD,AS48282 Hosting technology LTD,93.183.94.78,True
-Russia,RU,St Petersburg,"JSC ""TIMEWEB""","JSC ""TIMEWEB""",AS9123 JSC TIMEWEB,46.229.212.218,True
-Russia,RU,Novosibirsk,Adman LLC,TW VDS,AS57494 Adman LLC,147.45.147.212,True
-Russia,RU,Moscow,"JSC ""TIMEWEB""","JSC ""TIMEWEB""",AS9123 JSC TIMEWEB,81.200.158.206,True
-Russia,RU,Moscow,"""Domain names registrar REG.RU"", Ltd","""Domain names registrar REG.RU"", Ltd","AS197695 ""Domain names registrar REG.RU"", Ltd",95.163.240.24,True
 Russia,RU,St Petersburg,"JSC ""TIMEWEB""","JSC ""TIMEWEB""",AS9123 JSC TIMEWEB,90.156.211.232,True
+Russia,RU,Moscow,Hosting technology LTD,Hosting technology LTD,AS48282 Hosting technology LTD,93.183.94.78,True
+Russia,RU,Moscow,Aeza Group LLC,Aeza International LTD,AS216246 Aeza Group LLC,185.221.199.239,True
 Russia,RU,Moscow,LLC Baxet,LLC Baxet,AS49392 LLC Baxet,212.60.5.118,True
+Russia,RU,Novosibirsk,Adman LLC,TW VDS,AS57494 Adman LLC,147.45.147.212,True
+Russia,RU,Moscow,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD,77.232.143.39,True
+Russia,RU,Moscow,"""Cloud Technologies"" LLC trading as Cloud.ru",Sbercloud,"AS208677 ""Cloud Technologies"" LLC trading as Cloud.ru",176.109.106.61,True
+Russia,RU,Moscow,Hosting technology LTD,Hosting technology LTD,AS48282 Hosting technology LTD,178.20.46.58,True
+Russia,RU,Moscow,"JSC ""TIMEWEB""","Timeweb, LLP",AS9123 JSC TIMEWEB,82.97.249.34,True
+Russia,RU,Moscow,NetCrafters OU,NetCrafters OU,AS203273 NetCrafters OU,178.253.55.191,True
+Russia,RU,Moscow,Hosting technology LTD,Hosting technology LTD,AS48282 Hosting technology LTD,178.20.41.204,True
+Russia,RU,St Petersburg,"JSC ""TIMEWEB""","JSC ""TIMEWEB""",AS9123 JSC TIMEWEB,85.193.91.193,True
+Russia,RU,Moscow,Stolica Telecom Ltd.,Stolica Telecom Ltd,AS62366 Stolica Telecom Ltd.,95.46.1.22,True
+Russia,RU,Moscow,OVH SAS,HostiMan Hosting,AS16276 OVH SAS,162.19.158.37,True
+Russia,RU,Moscow,"""Domain names registrar REG.RU"", Ltd","""Domain names registrar REG.RU"", Ltd","AS197695 ""Domain names registrar REG.RU"", Ltd",95.163.240.24,True
+Russia,RU,Moscow,"JSC ""TIMEWEB""","JSC ""TIMEWEB""",AS9123 JSC TIMEWEB,81.200.158.206,True
+Russia,RU,St Petersburg,"JSC ""TIMEWEB""","JSC ""TIMEWEB""",AS9123 JSC TIMEWEB,46.229.212.218,True
+Russia,RU,St Petersburg,NetCrafters OU,NetCrafters OU,AS203273 NetCrafters OU,83.147.255.3,True
