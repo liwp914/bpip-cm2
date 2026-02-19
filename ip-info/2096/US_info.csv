@@ -1,6 +1,6 @@
 country,countryCode,city,isp,org,as,query,valid
-United States,US,Marietta,HostPapa,RackNerd LLC,AS36352 HostPapa,23.94.93.92,True
-United States,US,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.209.71.141,True
 United States,US,Buffalo,HostPapa,RackNerd LLC,AS36352 HostPapa,107.172.88.191,True
 United States,US,Santa Clara,ColoCrossing,RackNerd LLC,AS36352 HostPapa,107.172.216.84,True
+United States,US,North Bergen,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.209.71.141,True
 United States,US,Los Angeles,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.77.124.154,True
+United States,US,Marietta,HostPapa,RackNerd LLC,AS36352 HostPapa,23.94.93.92,True
