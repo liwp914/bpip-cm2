@@ -1,9 +1,9 @@
 country,countryCode,city,isp,org,as,query,valid
 United Arab Emirates,AE,Dubai,Kaopu Cloud HK Limited,Kaopu Cloud,AS138915 Kaopu Cloud HK Limited,38.54.8.167,True
-United Arab Emirates,AE,Dubai,M247 Europe SRL,3NT SOLUTIONS LLP,AS9009 M247 Europe SRL,38.180.11.15,True
 United Arab Emirates,AE,Fujairah,BlueVPS OU,BV Na25,AS62005 BlueVPS OU,45.86.228.104,True
 United Arab Emirates,AE,Dubai,Zenlayer Inc,,AS21859 Zenlayer Inc,181.214.100.168,True
 United Arab Emirates,AE,Dubai,G-Core Labs S.A.,GCL,AS199524 G-Core Labs S.A.,109.61.42.37,True
 United Arab Emirates,AE,Dubai,Kaopu Cloud HK Limited,LightNode-AE,AS138915 Kaopu Cloud HK Limited,38.60.202.213,True
-United Arab Emirates,AE,Dubai,Microsoft Corporation,Microsoft Azure Cloud (uaenorth),AS8075 Microsoft Corporation,20.174.15.226,True
 United Arab Emirates,AE,Dubai,Oracle Corporation,Oracle Cloud Infrastructure (me-dubai-1),AS31898 Oracle Corporation,193.123.81.105,True
+United Arab Emirates,AE,Dubai,M247 Europe SRL,3NT SOLUTIONS LLP,AS9009 M247 Europe SRL,38.180.11.15,True
+United Arab Emirates,AE,Dubai,Microsoft Corporation,Microsoft Azure Cloud (uaenorth),AS8075 Microsoft Corporation,20.174.15.226,True

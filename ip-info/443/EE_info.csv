@@ -1,40 +1,35 @@
 country,countryCode,city,isp,org,as,query,valid
-Estonia,EE,Tallinn,Brainoza OU,Llhost,AS214790 Brainoza OU,5.188.200.178,True
-Estonia,EE,Tallinn,Brainoza OU,Brainoza OU,AS214790 Brainoza OU,185.36.141.232,True
-Estonia,EE,Tallinn,BlueVPS OU,BlueVPS OU,AS62005 BlueVPS OU,194.26.141.77,True
-Estonia,EE,Tallin,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,AS41745 Baykov Ilya Sergeevich,138.124.4.225,True
-Estonia,EE,Tallinn,HostPapa,Madgenius.com,AS207083 HostSlim B.V.,216.144.231.47,True
 Estonia,EE,Tallinn,Brainoza OU,Brainoza OU,AS214790 Brainoza OU,185.36.142.237,True
-Estonia,EE,Tallinn,Aktsiaselts WaveCom,3NT SOLUTIONS LLP,AS34702 Aktsiaselts WaveCom,38.244.154.233,True
-Estonia,EE,Tallinn,Aktsiaselts WaveCom,3NT SOLUTIONS LLP,AS34702 Aktsiaselts WaveCom,38.180.10.97,True
-Estonia,EE,Tallinn,BlueVPS OU,BlueVPS OU,AS62005 BlueVPS OU,194.26.141.83,True
-Estonia,EE,Tallinn,HostSlim B.V.,HostPapa,AS207083 HostSlim B.V.,69.12.83.125,True
-Estonia,EE,Tallinn,BlueVPS OU,BlueVPS OU,AS62005 BlueVPS OU,194.26.141.56,True
-Estonia,EE,Tallinn,Brainoza OU,Brainoza OU,AS214790 Brainoza OU,45.12.28.10,True
-Estonia,EE,Tallinn,Aktsiaselts WaveCom,3NT SOLUTIONS LLP,AS34702 Aktsiaselts WaveCom,38.180.216.120,True
-Estonia,EE,Tallinn,OC NETWORKS LIMITED,1Cent Host,AS209693 OC NETWORKS LIMITED,185.252.177.236,True
-Estonia,EE,Tallinn,BlueVPS OU,BlueVPS OU,AS62005 BlueVPS OU,146.19.143.167,True
-Estonia,EE,Tallinn,Aktsiaselts WaveCom,3NT SOLUTIONS LLP,AS34702 Aktsiaselts WaveCom,38.244.154.149,True
-Estonia,EE,Tallinn,OC NETWORKS LIMITED,1Cent Host,AS209693 OC NETWORKS LIMITED,64.188.78.98,True
-Estonia,EE,Tallinn,Aktsiaselts WaveCom,3NT SOLUTIONS LLP,AS34702 Aktsiaselts WaveCom,38.180.10.51,True
-Estonia,EE,Tallin,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,AS41745 Baykov Ilya Sergeevich,138.124.4.88,True
-Estonia,EE,Tallinn,Brainoza OU,Brainoza OU,AS214790 Brainoza OU,185.36.141.146,True
-Estonia,EE,Tallinn,Brainoza OU,Brainoza OU,AS214790 Brainoza OU,185.36.142.88,True
-Estonia,EE,Tallinn,Brainoza OU,Brainoza OU,AS214790 Brainoza OU,185.36.140.244,True
-Estonia,EE,Tallinn,Aktsiaselts WaveCom,3NT SOLUTIONS LLP,AS34702 Aktsiaselts WaveCom,38.180.248.29,True
-Estonia,EE,Tallinn,BlueVPS OU,BlueVPS OU,AS62005 BlueVPS OU,45.129.199.232,True
-Estonia,EE,Tallinn,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,178.130.46.42,True
-Estonia,EE,Tallinn,Brainoza OU,Brainoza OU,AS214790 Brainoza OU,185.36.141.81,True
-Estonia,EE,Tallin,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,AS41745 Baykov Ilya Sergeevich,89.169.15.37,True
-Estonia,EE,Tallinn,Brainoza OU,Brainoza OU,AS214790 Brainoza OU,45.12.28.95,True
-Estonia,EE,Tallinn,Aktsiaselts WaveCom,IROKO Networks Corporation,AS34702 Aktsiaselts WaveCom,37.252.5.75,True
-Estonia,EE,Tallinn,Qwins LTD,Qwins LTD,AS213702 QWINS LTD,93.123.39.55,True
-Estonia,EE,Tallinn,HostSlim B.V.,HostPapa,AS207083 HostSlim B.V.,69.12.83.121,True
-Estonia,EE,Tallinn,IPHOSTER OU,Iphoster OU,AS210734 IPHOSTER OU,5.10.218.222,True
-Estonia,EE,Tallinn,BlueVPS OU,BlueVPS OU,AS62005 BlueVPS OU,146.19.143.205,True
-Estonia,EE,Tallinn,OC NETWORKS LIMITED,1Cent Host,AS209693 OC NETWORKS LIMITED,185.252.177.73,True
-Estonia,EE,Tallin,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,AS41745 Baykov Ilya Sergeevich,109.206.241.105,True
-Estonia,EE,Tallinn,Brainoza OU,Brainoza OU,AS214790 Brainoza OU,45.12.28.42,True
 Estonia,EE,Tallin,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,AS41745 Baykov Ilya Sergeevich,138.124.4.44,True
-Estonia,EE,Jõhvi,PAGM network,Hosting Services,AS198068 P.A.G.M. OU,5.101.180.145,True
+Estonia,EE,Tallinn,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,178.130.46.42,True
+Estonia,EE,Tallinn,Brainoza OU,Brainoza OU,AS214790 Brainoza OU,45.12.28.42,True
+Estonia,EE,Tallin,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,AS41745 Baykov Ilya Sergeevich,138.124.4.88,True
+Estonia,EE,Tallin,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,AS41745 Baykov Ilya Sergeevich,89.169.15.37,True
+Estonia,EE,Tallinn,Aktsiaselts WaveCom,3NT SOLUTIONS LLP,AS34702 Aktsiaselts WaveCom,38.180.248.29,True
+Estonia,EE,Tallinn,Aktsiaselts WaveCom,IROKO Networks Corporation,AS34702 Aktsiaselts WaveCom,37.252.5.75,True
+Estonia,EE,Tallinn,HostSlim B.V.,HostPapa,AS207083 HostSlim B.V.,69.12.83.125,True
 Estonia,EE,Tallin,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,AS41745 Baykov Ilya Sergeevich,109.206.241.125,True
+Estonia,EE,Tallinn,Brainoza OU,Brainoza OU,AS214790 Brainoza OU,185.36.141.81,True
+Estonia,EE,Tallinn,Brainoza OU,Brainoza OU,AS214790 Brainoza OU,185.36.141.232,True
+Estonia,EE,Tallinn,Aktsiaselts WaveCom,3NT SOLUTIONS LLP,AS34702 Aktsiaselts WaveCom,38.244.154.233,True
+Estonia,EE,Jõhvi,PAGM network,Hosting Services,AS198068 P.A.G.M. OU,5.101.180.145,True
+Estonia,EE,Tallin,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,AS41745 Baykov Ilya Sergeevich,109.206.241.105,True
+Estonia,EE,Tallinn,Brainoza OU,Llhost,AS214790 Brainoza OU,5.188.200.178,True
+Estonia,EE,Tallinn,Brainoza OU,Brainoza OU,AS214790 Brainoza OU,45.12.28.95,True
+Estonia,EE,Tallinn,Brainoza OU,Brainoza OU,AS214790 Brainoza OU,185.36.140.244,True
+Estonia,EE,Tallinn,HostSlim B.V.,HostPapa,AS207083 HostSlim B.V.,69.12.83.121,True
+Estonia,EE,Tallinn,BlueVPS OU,BlueVPS OU,AS62005 BlueVPS OU,45.129.199.232,True
+Estonia,EE,Tallinn,OC NETWORKS LIMITED,1Cent Host,AS209693 OC NETWORKS LIMITED,185.252.177.236,True
+Estonia,EE,Tallinn,OC NETWORKS LIMITED,1Cent Host,AS209693 OC NETWORKS LIMITED,64.188.78.98,True
+Estonia,EE,Tallinn,IPHOSTER OU,Iphoster OU,AS210734 IPHOSTER OU,5.10.218.222,True
+Estonia,EE,Tallin,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,AS41745 Baykov Ilya Sergeevich,138.124.4.225,True
+Estonia,EE,Tallinn,Brainoza OU,Brainoza OU,AS214790 Brainoza OU,45.12.28.10,True
+Estonia,EE,Tallinn,Aktsiaselts WaveCom,3NT SOLUTIONS LLP,AS34702 Aktsiaselts WaveCom,38.180.10.51,True
+Estonia,EE,Tallinn,HostPapa,Madgenius.com,AS207083 HostSlim B.V.,216.144.231.47,True
+Estonia,EE,Tallinn,Brainoza OU,Brainoza OU,AS214790 Brainoza OU,185.36.142.88,True
+Estonia,EE,Tallinn,Brainoza OU,Brainoza OU,AS214790 Brainoza OU,185.36.141.146,True
+Estonia,EE,Tallinn,Qwins LTD,Qwins LTD,AS213702 QWINS LTD,93.123.39.55,True
+Estonia,EE,Tallinn,OC NETWORKS LIMITED,1Cent Host,AS209693 OC NETWORKS LIMITED,64.188.82.159,True
+Estonia,EE,Tallinn,Aktsiaselts WaveCom,3NT SOLUTIONS LLP,AS34702 Aktsiaselts WaveCom,38.244.154.149,True
+Estonia,EE,Tallinn,OC NETWORKS LIMITED,1Cent Host,AS209693 OC NETWORKS LIMITED,185.252.177.73,True
+Estonia,EE,Tallinn,Aktsiaselts WaveCom,3NT SOLUTIONS LLP,AS34702 Aktsiaselts WaveCom,38.180.216.120,True
