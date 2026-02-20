@@ -1,6 +1,6 @@
 country,countryCode,city,isp,org,as,query,valid
-Kazakhstan,KZ,Almaty,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,95.164.114.121,True
 Kazakhstan,KZ,Almaty,Scalaxy B.V.,3NT SOLUTIONS LLP,AS58061 Scalaxy B.V.,38.180.37.53,True
-Kazakhstan,KZ,Almaty,Scalaxy B.V.,3NT SOLUTIONS LLP,AS58061 Scalaxy B.V.,38.180.37.102,True
-Kazakhstan,KZ,Almaty,G-Core Labs,G-Core Labs S.A.,AS202422 G-Core Labs S.A.,45.80.208.204,True
 Kazakhstan,KZ,Almaty,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,95.164.114.50,True
+Kazakhstan,KZ,Almaty,Scalaxy B.V.,3NT SOLUTIONS LLP,AS58061 Scalaxy B.V.,38.180.37.102,True
+Kazakhstan,KZ,Almaty,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,95.164.114.121,True
+Kazakhstan,KZ,Almaty,G-Core Labs,G-Core Labs S.A.,AS202422 G-Core Labs S.A.,45.80.208.204,True
