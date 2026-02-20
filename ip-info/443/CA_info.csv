@@ -1,34 +1,28 @@
 country,countryCode,city,isp,org,as,query,valid
-Canada,CA,Toronto,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",155.138.156.4,True
-Canada,CA,Montreal,Oracle Corporation,Oracle Cloud Infrastructure (ca-montreal-1),AS31898 Oracle Corporation,204.216.107.15,True
-Canada,CA,Toronto,Oracle Corporation,Oracle Cloud Infrastructure (ca-toronto-1),AS31898 Oracle Corporation,40.233.103.212,True
-Canada,CA,Toronto,"Kamatera, Inc.",Cloud Web Manage,"AS54913 Kamatera, Inc.",213.255.209.207,True
-Canada,CA,Toronto,Oracle Corporation,Oracle Cloud Infrastructure (ca-toronto-1),AS31898 Oracle Corporation,40.233.77.216,True
-Canada,CA,Beauharnois,OVH SAS,"OVH Hosting, Inc.",AS16276 OVH SAS,192.99.169.176,True
-Canada,CA,Toronto,"Kamatera, Inc.",Cloud Web Manage,"AS54913 Kamatera, Inc.",213.255.209.189,True
-Canada,CA,Montreal,OVH SAS,"OVH Hosting, Inc.",AS16276 OVH SAS,158.69.213.193,True
-Canada,CA,Toronto,Oracle Corporation,Oracle Cloud Infrastructure (ca-toronto-1),AS31898 Oracle Corporation,40.233.87.120,True
-Canada,CA,Toronto,Choopa,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",155.138.128.135,True
+Canada,CA,Montreal,OVH SAS,"OVH Hosting, Inc.",AS16276 OVH SAS,167.114.67.25,True
 Canada,CA,Scarborough,Centrilogic,CENTRILOGICCANADA,AS14453 ADVANCED KNOWLEDGE NETWORKS,172.98.207.58,True
-Canada,CA,Toronto,Oracle Corporation,Oracle Cloud Infrastructure (ca-toronto-1),AS31898 Oracle Corporation,40.233.99.248,True
-Canada,CA,Toronto,Nexeon Technologies,365 Group,AS32489 Amanah Tech Inc.,96.9.226.188,True
-Canada,CA,Toronto,Oracle Corporation,Oracle Cloud Infrastructure (ca-toronto-1),AS31898 Oracle Corporation,140.238.158.238,True
-Canada,CA,Toronto,Amazon Technologies Inc.,AWS EC2 (ca-central-1),"AS16509 Amazon.com, Inc.",35.183.163.195,True
+Canada,CA,Montreal,OVH SAS,"OVH Hosting, Inc.",AS16276 OVH SAS,149.56.130.35,True
+Canada,CA,Montreal,OVH SAS,"OVH Hosting, Inc.",AS16276 OVH SAS,142.4.215.110,True
+Canada,CA,Toronto,Oracle Corporation,Oracle Cloud Infrastructure (ca-toronto-1),AS31898 Oracle Corporation,40.233.103.212,True
+Canada,CA,Toronto,Oracle Corporation,Oracle Cloud Infrastructure (ca-toronto-1),AS31898 Oracle Corporation,40.233.110.251,True
+Canada,CA,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.227.42.240,True
+Canada,CA,Toronto,Oracle Corporation,Oracle Cloud Infrastructure (ca-toronto-1),AS31898 Oracle Corporation,40.233.77.216,True
 Canada,CA,Toronto,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172.105.26.26,True
-Canada,CA,Montreal,OVH SAS,"OVH Hosting, Inc.",AS16276 OVH SAS,51.79.49.152,True
-Canada,CA,Toronto,Oracle Corporation,Oracle Cloud Infrastructure (ca-toronto-1),AS31898 Oracle Corporation,140.238.144.211,True
+Canada,CA,Toronto,Oracle Corporation,Oracle Cloud Infrastructure (ca-toronto-1),AS31898 Oracle Corporation,140.238.158.238,True
+Canada,CA,Toronto,Oracle Corporation,Oracle Cloud Infrastructure (ca-toronto-1),AS31898 Oracle Corporation,40.233.99.248,True
 Canada,CA,Beauharnois,OVH SAS,"OVH Hosting, Inc",AS16276 OVH SAS,148.113.172.98,True
-Canada,CA,Toronto,Amazon Technologies Inc.,AWS EC2 (ca-central-1),"AS16509 Amazon.com, Inc.",35.182.226.236,True
+Canada,CA,Toronto,Oracle Corporation,Oracle Cloud Infrastructure (ca-toronto-1),AS31898 Oracle Corporation,40.233.87.120,True
+Canada,CA,Toronto,Oracle Corporation,Oracle Cloud Infrastructure (ca-toronto-1),AS31898 Oracle Corporation,140.238.144.211,True
+Canada,CA,Beauharnois,OVH SAS,"OVH Hosting, Inc.",AS16276 OVH SAS,51.161.32.195,True
+Canada,CA,Toronto,Nexeon Technologies,365 Group,AS32489 Amanah Tech Inc.,96.9.226.188,True
+Canada,CA,Toronto,Amazon Technologies Inc.,AWS EC2 (ca-central-1),"AS16509 Amazon.com, Inc.",35.183.163.195,True
+Canada,CA,Toronto,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",149.248.56.22,True
+Canada,CA,Toronto,Oracle Corporation,Oracle Cloud Infrastructure (ca-toronto-1),AS31898 Oracle Corporation,40.233.71.238,True
+Canada,CA,Toronto,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",159.203.34.9,True
+Canada,CA,Montreal,OVH SAS,"OVH Hosting, Inc.",AS16276 OVH SAS,51.79.49.152,True
+Canada,CA,Montreal,OVH SAS,"OVH Hosting, Inc.",AS16276 OVH SAS,158.69.213.193,True
+Canada,CA,Toronto,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",155.138.156.4,True
 Canada,CA,Toronto,Atlantic.net,"Atlantic.Net - Toronto, LLC.","AS6364 Atlantic.net, Inc.",69.28.82.253,True
 Canada,CA,Toronto,Amazon Technologies Inc.,AWS EC2 (ca-central-1),"AS16509 Amazon.com, Inc.",35.182.7.190,True
-Canada,CA,Montreal,OVH SAS,"OVH Hosting, Inc.",AS16276 OVH SAS,149.56.130.35,True
-Canada,CA,Toronto,Oracle Corporation,Oracle Cloud Infrastructure (ca-toronto-1),AS31898 Oracle Corporation,40.233.71.238,True
-Canada,CA,Toronto,Oracle Corporation,Oracle Cloud Infrastructure (ca-toronto-1),AS31898 Oracle Corporation,40.233.116.225,True
 Canada,CA,Montreal,OVH SAS,"OVH Hosting, Inc.",AS16276 OVH SAS,198.27.67.95,True
-Canada,CA,Toronto,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",149.248.56.22,True
-Canada,CA,Toronto,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.227.42.240,True
-Canada,CA,Montreal,OVH SAS,"OVH Hosting, Inc.",AS16276 OVH SAS,142.4.215.110,True
-Canada,CA,Toronto,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",159.203.34.9,True
-Canada,CA,Toronto,Oracle Corporation,Oracle Cloud Infrastructure (ca-toronto-1),AS31898 Oracle Corporation,140.238.142.197,True
-Canada,CA,Beauharnois,OVH SAS,"OVH Hosting, Inc.",AS16276 OVH SAS,51.161.32.195,True
-Canada,CA,Toronto,Oracle Corporation,Oracle Cloud Infrastructure (ca-toronto-1),AS31898 Oracle Corporation,40.233.110.251,True
+Canada,CA,Beauharnois,OVH SAS,"OVH Hosting, Inc.",AS16276 OVH SAS,192.99.169.176,True
