@@ -1,9 +1,16 @@
 country,countryCode,city,isp,org,as,query,valid
-United Arab Emirates,AE,Dubai,Kaopu Cloud HK Limited,Kaopu Cloud,AS138915 Kaopu Cloud HK Limited,38.54.8.167,True
-United Arab Emirates,AE,Dubai,M247 Europe SRL,3NT SOLUTIONS LLP,AS9009 M247 Europe SRL,38.180.11.15,True
-United Arab Emirates,AE,Dubai,Microsoft Corporation,Microsoft Azure Cloud (uaenorth),AS8075 Microsoft Corporation,20.174.15.226,True
 United Arab Emirates,AE,Fujairah,BlueVPS OU,BV Na25,AS62005 BlueVPS OU,45.86.228.104,True
-United Arab Emirates,AE,Dubai,Zenlayer Inc,,AS21859 Zenlayer Inc,181.214.100.168,True
-United Arab Emirates,AE,Dubai,G-Core Labs S.A.,GCL,AS199524 G-Core Labs S.A.,109.61.42.37,True
+United Arab Emirates,AE,Dubai,M247 Europe SRL,Edis UAE,AS9009 M247 Europe SRL,103.57.251.124,True
 United Arab Emirates,AE,Dubai,Kaopu Cloud HK Limited,LightNode-AE,AS138915 Kaopu Cloud HK Limited,38.60.202.213,True
+United Arab Emirates,AE,Dubai,M247 Europe SRL,3NT SOLUTIONS LLP,AS9009 M247 Europe SRL,38.180.11.15,True
+United Arab Emirates,AE,Dubai,RouterHosting LLC,FranTech Solutions,AS14956 RouterHosting LLC,144.172.88.57,True
+United Arab Emirates,AE,Dubai,G-Core Labs S.A.,GCL,AS199524 G-Core Labs S.A.,109.61.42.37,True
+United Arab Emirates,AE,Dubai,Microsoft Corporation,Microsoft Azure Cloud (uaenorth),AS8075 Microsoft Corporation,20.174.15.226,True
 United Arab Emirates,AE,Dubai,Oracle Corporation,Oracle Cloud Infrastructure (me-dubai-1),AS31898 Oracle Corporation,193.123.81.105,True
+United Arab Emirates,AE,Dubai,M247 Europe SRL,Edis UAE,AS9009 M247 Europe SRL,103.57.251.208,True
+United Arab Emirates,AE,Dubai,Oracle Corporation,Oracle Cloud Infrastructure (me-dubai-1),AS31898 Oracle Corporation,193.123.90.212,True
+United Arab Emirates,AE,Dubai,Oracle Corporation,Oracle Cloud Infrastructure (me-dubai-1),AS31898 Oracle Corporation,139.185.34.131,True
+United Arab Emirates,AE,Dubai,Zenlayer Inc,,AS21859 Zenlayer Inc,31.57.228.95,True
+United Arab Emirates,AE,Dubai,Zenlayer Inc,,AS21859 Zenlayer Inc,181.214.100.168,True
+United Arab Emirates,AE,Dubai,M247 Europe SRL,Edis UAE,AS9009 M247 Europe SRL,103.57.251.240,True
+United Arab Emirates,AE,Abu Dhabi,PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi,GoldIPv4,AS48678 PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi,31.56.177.98,True

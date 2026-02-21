@@ -1,0 +1,3 @@
+country,countryCode,city,isp,org,as,query,valid
+Poland,PL,Poznan,Podaon SIA,Podaon SIA,AS210895 Podaon SIA,185.224.132.92,True
+Poland,PL,Warsaw,Melbikomas UAB,Melbikomas UAB,AS56630 Melbikomas UAB,217.30.10.55,True

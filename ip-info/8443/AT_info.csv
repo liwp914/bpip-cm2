@@ -1,6 +1,11 @@
 country,countryCode,city,isp,org,as,query,valid
 Austria,AT,Wien,Alwyzon,Hohl IT e.U.,AS40994 Hohl IT e.U.,94.177.8.122,True
+Austria,AT,Vienna,xorek.cloud International LTD,xorek.cloud International LTD,AS210644 AEZA INTERNATIONAL LTD,193.233.233.188,True
+Austria,AT,Vienna,Ronald Agorsah trading as Alpenhost e.U.,Alpenhost e.U,AS208024 Ronald Agorsah trading as Alpenhost e.U.,92.112.48.142,True
+Austria,AT,Liezen District,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,178.22.31.165,True
 Austria,AT,Vienna,M247 Europe SRL,3NT SOLUTIONS LLP,AS9009 M247 Europe SRL,38.180.143.51,True
 Austria,AT,Vienna,xorek.cloud International LTD,xorek.cloud International LTD,AS210644 AEZA INTERNATIONAL LTD,212.113.106.40,True
-Austria,AT,Vienna,xorek.cloud International LTD,xorek.cloud International LTD,AS210644 AEZA INTERNATIONAL LTD,193.233.233.188,True
+Austria,AT,Vienna,Aeza International LTD,NetCrafters OU,AS210644 AEZA INTERNATIONAL LTD,213.176.94.61,True
 Austria,AT,Vienna,Aeza International LTD,NetCrafters OU,AS210644 AEZA INTERNATIONAL LTD,213.176.94.4,True
+Austria,AT,Vienna,EDIS GmbH,EDIS GmbH,AS57169 EDIS GmbH,83.243.123.23,True
+Austria,AT,Vienna,IPAX GmbH,Ipax Virtualline11,AS44133 IPAX GmbH,185.119.117.146,True

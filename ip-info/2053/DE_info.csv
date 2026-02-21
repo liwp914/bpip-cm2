@@ -1,95 +1,339 @@
 country,countryCode,city,isp,org,as,query,valid
-Germany,DE,Frankfurt am Main,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.245.131.215,True
-Germany,DE,Frankfurt Am Main,Hetzner Online AG,Hetzner Online AG,AS24940 Hetzner Online GmbH,91.107.166.111,True
-Germany,DE,Frankfurt am Main,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,185.235.241.209,True
-Germany,DE,Frankfurt am Main,OVH SAS,Private person,AS16276 OVH SAS,82.117.245.53,True
-Germany,DE,Nuremberg,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,116.203.122.202,True
-Germany,DE,Frankfurt am Main,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD,92.246.139.190,True
-Germany,DE,Frankfurt Am Main,Hetzner Online AG,Hetzner Online AG,AS24940 Hetzner Online GmbH,91.107.188.49,True
-Germany,DE,Frankfurt Am Main,Hetzner Online AG,Hetzner Online AG,AS24940 Hetzner Online GmbH,91.107.155.114,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",206.189.61.33,True
+Germany,DE,Frankfurt am Main,"Limestone Networks, Inc.",Ethernet Servers,"AS46475 Limestone Networks, Inc.",77.37.65.34,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.209.252.112,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",206.81.30.239,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.223.20.170,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",46.101.248.71,True
 Germany,DE,Nuremberg,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,78.46.234.136,True
-Germany,DE,Frankfurt am Main,Datacamp Limited,Thomas Family Investments Limited,AS212238 Datacamp Limited,5.183.179.9,True
-Germany,DE,Limburg an der Lahn,OVH SAS,OVH SAS,AS16276 OVH SAS,77.81.138.64,True
-Germany,DE,Frankfurt am Main,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,80.71.157.3,True
-Germany,DE,Nuremberg,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,162.55.187.121,True
-Germany,DE,Limburg an der Lahn,OVH SAS,Fra,AS16276 OVH SAS,89.19.44.239,True
-Germany,DE,Frankfurt Am Main,Hetzner Online AG,Hetzner Online AG,AS24940 Hetzner Online GmbH,91.107.166.26,True
-Germany,DE,Nuremberg,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,188.245.108.104,True
-Germany,DE,Falkenstein,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,88.99.60.34,True
-Germany,DE,Nuremberg,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,159.69.197.209,True
-Germany,DE,Frankfurt am Main,OVH SAS,Private person,AS16276 OVH SAS,5.178.106.61,True
-Germany,DE,Frankfurt am Main,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD,77.221.157.172,True
-Germany,DE,Frankfurt am Main,Leaseweb Deutschland GmbH,Gtelcom LLC,AS28753 Leaseweb Deutschland GmbH,185.94.166.203,True
-Germany,DE,Frankfurt am Main,OVH SAS,Private person,AS16276 OVH SAS,82.117.245.170,True
-Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",64.225.105.119,True
-Germany,DE,Falkenstein,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,159.69.250.58,True
-Germany,DE,Frankfurt am Main,OVH SAS,Private person,AS16276 OVH SAS,82.117.245.58,True
-Germany,DE,Frankfurt am Main,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD,213.165.44.32,True
-Germany,DE,Frankfurt am Main,OVH SAS,CloudHosting SIA,AS16276 OVH SAS,195.206.242.74,True
-Germany,DE,Saarbrücken,OVH SAS,OVH GmbH,AS16276 OVH SAS,94.23.167.32,True
-Germany,DE,Frankfurt am Main,OVH SAS,CloudHosting SIA,AS16276 OVH SAS,195.206.242.60,True
-Germany,DE,Frankfurt am Main,"Timeweb, LLP","Timeweb, LLP","AS210976 Timeweb, LLP",85.193.92.242,True
-Germany,DE,Frankfurt am Main,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD,92.246.136.55,True
-Germany,DE,Limburg an der Lahn,OVH SAS,Fra,AS16276 OVH SAS,89.19.44.48,True
-Germany,DE,Limburg an der Lahn,OVH SAS,Fra,AS16276 OVH SAS,89.19.44.206,True
-Germany,DE,Nuremberg,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,49.13.171.76,True
-Germany,DE,Frankfurt Am Main,Hetzner Online AG,Hetzner Online AG,AS24940 Hetzner Online GmbH,91.107.166.80,True
-Germany,DE,Limburg an der Lahn,OVH SAS,OVH GmbH,AS16276 OVH SAS,94.23.164.46,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.197.179,True
+Germany,DE,Frankfurt am Main,WAIcore Ltd,WAIcore Ltd,AS213887 WAIcore Ltd,178.17.50.140,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.172.183.195,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",138.68.75.58,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",161.35.192.122,True
+Germany,DE,Frankfurt am Main,WAIcore Ltd,WAIcore Ltd,AS213887 WAIcore Ltd,212.192.246.205,True
 Germany,DE,Limburg an der Lahn,OVH SAS,Fra,AS16276 OVH SAS,89.19.44.247,True
-Germany,DE,Frankfurt am Main,Hypercore Ltd,RTM GmbH,AS203273 NetCrafters OU,62.60.217.235,True
-Germany,DE,Limburg an der Lahn,OVH SAS,Invermae Solutions SL,AS16276 OVH SAS,194.76.173.6,True
-Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.198.120,True
-Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.89.31.113,True
-Germany,DE,Frankfurt am Main,OVH SAS,Private person,AS16276 OVH SAS,5.178.106.183,True
-Germany,DE,Frankfurt am Main,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD,79.137.207.189,True
-Germany,DE,Frankfurt am Main,"Cloud Hosting Solutions, Limited.","Cloud Hosting Solutions, Limited","AS199785 Cloud Hosting Solutions, Limited.",87.251.88.104,True
-Germany,DE,Frankfurt am Main,OVH SAS,Private person,AS16276 OVH SAS,82.117.245.125,True
-Germany,DE,Frankfurt am Main,International Hosting Company Limited,nuxt.cloud hosting provider,AS216127 INTERNATIONAL HOSTING COMPANY LIMITED,185.221.198.253,True
-Germany,DE,Frankfurt Am Main,Hetzner Online AG,Hetzner Online AG,AS24940 Hetzner Online GmbH,91.107.147.191,True
-Germany,DE,Frankfurt am Main,"Akamai Technologies, Inc.","Linode, LLC",AS63949 Akamai Connected Cloud,139.162.145.35,True
-Germany,DE,Nuremberg,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,116.203.1.35,True
-Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",104.248.130.109,True
-Germany,DE,Frankfurt am Main,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",3.73.6.186,True
-Germany,DE,Limburg an der Lahn,OVH SAS,OVH GmbH,AS16276 OVH SAS,51.75.70.31,True
-Germany,DE,Saarbrücken,OVH SAS,OVH GmbH,AS16276 OVH SAS,94.23.167.24,True
-Germany,DE,Falkenstein,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,188.34.189.43,True
-Germany,DE,Falkenstein,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,23.88.112.241,True
-Germany,DE,Falkenstein,Hetzner Online GmbH,Hetzner Online GmbH,AS24940 Hetzner Online GmbH,188.34.160.97,True
-Germany,DE,Frankfurt Am Main,Hetzner Online AG,Hetzner Online AG,AS24940 Hetzner Online GmbH,91.107.140.186,True
-Germany,DE,Frankfurt am Main,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD,77.110.99.160,True
-Germany,DE,Frankfurt am Main,OVH SAS,Private person,AS16276 OVH SAS,82.117.245.166,True
-Germany,DE,Frankfurt am Main,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",35.156.76.43,True
-Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",209.38.187.1,True
-Germany,DE,Falkenstein,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,91.99.9.125,True
-Germany,DE,Frankfurt am Main,OVH SAS,CloudHosting SIA,AS16276 OVH SAS,195.206.242.122,True
-Germany,DE,Frankfurt am Main,First Server Limited,Firstbyte Hosting,AS200740 FIRST SERVER LIMITED,185.103.252.54,True
-Germany,DE,Frankfurt am Main,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD,92.246.139.182,True
-Germany,DE,Limburg an der Lahn,OVH SAS,Invermae Solutions SL,AS16276 OVH SAS,194.76.173.22,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.22.80.22,True
 Germany,DE,Limburg an der Lahn,OVH SAS,OVH SAS,AS16276 OVH SAS,163.5.187.118,True
-Germany,DE,Frankfurt am Main,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD,77.221.157.251,True
-Germany,DE,Frankfurt Am Main,Hetzner Online AG,Hetzner Online AG,AS24940 Hetzner Online GmbH,91.107.246.136,True
-Germany,DE,Limburg an der Lahn,OVH SAS,OVH GmbH,AS16276 OVH SAS,135.125.238.202,True
-Germany,DE,Frankfurt am Main,Amazon Technologies Inc,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",18.153.254.136,True
-Germany,DE,Falkenstein,Hetzner Online GmbH,Cloud Fsn1,AS24940 Hetzner Online GmbH,91.98.92.244,True
-Germany,DE,Limburg an der Lahn,OVH SAS,Invermae Solutions SL,AS16276 OVH SAS,194.76.173.184,True
-Germany,DE,Falkenstein,Hetzner Online GmbH,Hetzner Online GmbH,AS24940 Hetzner Online GmbH,49.12.243.75,True
-Germany,DE,Nuremberg,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,116.203.148.136,True
-Germany,DE,Frankfurt am Main,Oracle Corporation,Oracle Cloud Infrastructure (eu-frankfurt-1),AS31898 Oracle Corporation,158.180.49.11,True
-Germany,DE,Frankfurt Am Main,Hetzner Online AG,Hetzner Online AG,AS24940 Hetzner Online GmbH,91.107.241.211,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.223.21.209,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",164.92.177.103,True
+Germany,DE,Frankfurt am Main,HFM S.R.L,HFM S.R.L,AS57403 HFM S.R.L,188.241.241.123,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",161.35.207.2,True
+Germany,DE,Frankfurt am Main,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",3.78.24.246,True
+Germany,DE,Frankfurt Am Main,Hetzner Online AG,Hetzner Online AG,AS24940 Hetzner Online GmbH,91.107.166.26,True
+Germany,DE,Nuremberg,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,116.203.1.35,True
+Germany,DE,Frankfurt am Main,First Server Limited,Firstbyte Hosting,AS200740 FIRST SERVER LIMITED,185.103.252.108,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.99.255.159,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.172.163.16,True
+Germany,DE,Frankfurt am Main,Fornex Hosting S.L,firstcolo,AS44051 Fornex Hosting S.L.,5.187.3.181,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",46.101.239.22,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",46.101.204.30,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.89.29.231,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.232.77.49,True
+Germany,DE,Frankfurt am Main,Hostkey B.V.,HOSTKEY,AS57043 HOSTKEY B.V.,195.26.231.53,True
+Germany,DE,Frankfurt am Main,FranTech Solutions,RouterHosting LLC,AS30823 aurologic GmbH,172.86.95.71,True
+Germany,DE,Frankfurt am Main,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,91.149.223.248,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",64.226.64.234,True
+Germany,DE,Karlsruhe,netcup GmbH,netcup GmbH,AS197540 netcup GmbH,152.53.179.144,True
+Germany,DE,Frankfurt am Main,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.151.190,True
+Germany,DE,Saarbrücken,OVH SAS,OVH GmbH,AS16276 OVH SAS,94.23.167.24,True
+Germany,DE,Falkenstein,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,91.99.9.125,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",46.101.172.79,True
+Germany,DE,Frankfurt am Main,HFM S.R.L,HFM S.R.L,AS57403 HFM S.R.L,188.241.241.29,True
+Germany,DE,Frankfurt am Main,HFM S.R.L,HFM S.R.L,AS57403 HFM S.R.L,188.241.241.33,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",209.38.247.12,True
 Germany,DE,Nuremberg,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,116.203.114.56,True
+Germany,DE,Frankfurt am Main,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,85.234.100.23,True
+Germany,DE,Falkenstein,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,49.12.212.65,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",161.35.73.46,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",209.38.206.217,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",138.68.91.42,True
+Germany,DE,Frankfurt am Main,LeaseWeb DE,3NT Solutions LLP,AS28753 Leaseweb Deutschland GmbH,5.61.41.196,True
+Germany,DE,Frankfurt Am Main,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,AS41745 Baykov Ilya Sergeevich,185.65.202.101,True
+Germany,DE,Limburg an der Lahn,OVH SAS,OVH SAS,AS16276 OVH SAS,77.81.138.64,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.227.132.164,True
+Germany,DE,Frankfurt am Main,HFM S.R.L,HFM S.R.L,AS57403 HFM S.R.L,188.241.241.3,True
+Germany,DE,Frankfurt Am Main,Hetzner Online AG,Hetzner Online AG,AS24940 Hetzner Online GmbH,91.107.140.186,True
 Germany,DE,Frankfurt am Main,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172.104.142.102,True
+Germany,DE,Frankfurt am Main,Datacamp Limited,Thomas Family Investments Limited,AS212238 Datacamp Limited,5.183.179.9,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.65.82,True
+Germany,DE,Frankfurt am Main,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",35.156.76.43,True
+Germany,DE,Nuremberg,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,49.13.171.76,True
+Germany,DE,Frankfurt am Main,H2nexus LTD,"""NetCom-R"" LLC",AS215730 H2NEXUS LTD,94.159.111.159,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",46.101.160.68,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",46.101.172.168,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",104.248.136.46,True
+Germany,DE,Frankfurt am Main,"Timeweb, LLP","Timeweb, LLP","AS210976 Timeweb, LLP",89.19.210.121,True
+Germany,DE,Frankfurt am Main,Fornex Hosting S.L.,FORNEX,AS44051 Fornex Hosting S.L.,31.172.73.104,True
+Germany,DE,Frankfurt am Main,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD,138.124.53.221,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",161.35.64.81,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.223.19.10,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",161.35.217.79,True
+Germany,DE,Nuremberg,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,162.55.187.121,True
+Germany,DE,Frankfurt am Main,u1host ltd,u1host ltd,AS213877 u1host ltd,150.241.105.227,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",164.90.176.68,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.22.74.162,True
+Germany,DE,Saarbrücken,OVH SAS,OVH GmbH,AS16276 OVH SAS,94.23.167.32,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.89.31.113,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.48.187,True
+Germany,DE,Frankfurt am Main,Leaseweb Deutschland GmbH,IROKO Networks Corporation,AS28753 Leaseweb Deutschland GmbH,37.1.192.96,True
+Germany,DE,Frankfurt am Main,OVH SAS,Private person,AS16276 OVH SAS,82.117.245.125,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",209.38.202.192,True
+Germany,DE,Frankfurt am Main,OVH SAS,CloudHosting SIA,AS16276 OVH SAS,195.206.242.74,True
+Germany,DE,Frankfurt Am Main,e-Style ISP LLC,Oner Investments Limited,AS20655 e-Style ISP LLC,46.21.82.168,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",64.226.102.77,True
+Germany,DE,Frankfurt am Main,WAIcore Ltd,WAIcore Ltd,AS213887 WAIcore Ltd,178.17.49.151,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",46.101.196.101,True
+Germany,DE,Limburg an der Lahn,OVH SAS,Fra,AS16276 OVH SAS,89.19.44.48,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",207.154.224.207,True
+Germany,DE,Frankfurt Am Main,Hetzner Online AG,Hetzner Online AG,AS24940 Hetzner Online GmbH,91.107.166.80,True
+Germany,DE,Limburg an der Lahn,OVH SAS,Invermae Solutions SL,AS16276 OVH SAS,194.76.173.184,True
+Germany,DE,Frankfurt am Main,Mvps LTD,Mvps LTD,AS202448 MVPS LTD,93.115.19.15,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.122.71.33,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",209.38.198.209,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",46.101.156.111,True
+Germany,DE,Frankfurt am Main,OVH SAS,Private person,AS16276 OVH SAS,82.117.245.53,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",46.101.230.110,True
+Germany,DE,Frankfurt am Main,Hostkey B.V.,Fabian Hars,AS57043 HOSTKEY B.V.,91.239.211.192,True
+Germany,DE,Frankfurt am Main,Fornex Hosting S.L,firstcolo,AS44051 Fornex Hosting S.L.,5.187.0.232,True
+Germany,DE,Frankfurt am Main,"Closed Joint Stock Company ""AbkhazMedia""",New Hosting Technologies LLC,"AS216300 Closed Joint Stock Company ""AbkhazMedia""",77.105.132.157,True
+Germany,DE,Frankfurt am Main,Hostkey B.V.,Snowd,AS57043 HOSTKEY B.V.,77.83.86.169,True
+Germany,DE,Frankfurt Am Main,xorek.cloud International LTD,xorek.cloud International LTD,AS210644 AEZA INTERNATIONAL LTD,193.124.203.153,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",64.226.77.72,True
+Germany,DE,Frankfurt Am Main,Hetzner Online AG,Hetzner Online AG,AS24940 Hetzner Online GmbH,91.107.241.211,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",46.101.174.78,True
+Germany,DE,Frankfurt am Main,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD,77.110.99.160,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",138.197.176.152,True
+Germany,DE,Frankfurt am Main,Chelyabinsk-Signal LLC,Pdkllc,AS44493 Chelyabinsk-Signal LLC,31.192.237.186,True
+Germany,DE,Frankfurt am Main,Leaseweb Deutschland GmbH,IROKO Networks Corporation,AS28753 Leaseweb Deutschland GmbH,37.1.194.178,True
+Germany,DE,Falkenstein,Hetzner Online GmbH,Hetzner Online GmbH,AS24940 Hetzner Online GmbH,188.34.160.97,True
+Germany,DE,Nuremberg,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,46.224.118.64,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.192.26,True
+Germany,DE,Frankfurt am Main,First Server Limited,First Server Limited,AS200740 FIRST SERVER LIMITED,80.76.33.220,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.22.68.12,True
+Germany,DE,Falkenstein,Hetzner Online GmbH,Hetzner Online GmbH,AS24940 Hetzner Online GmbH,49.12.243.75,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",64.226.88.144,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",164.92.235.17,True
+Germany,DE,Frankfurt am Main,WAIcore Ltd,WAIcore Ltd,AS213887 WAIcore Ltd,87.120.205.118,True
+Germany,DE,Frankfurt Am Main,Hetzner Online AG,Hetzner Online AG,AS24940 Hetzner Online GmbH,91.107.166.111,True
+Germany,DE,Nuremberg,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,116.203.148.136,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.172.171.113,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",46.101.202.7,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.172.186.203,True
+Germany,DE,Frankfurt am Main,International Hosting Company Limited,nuxt.cloud hosting provider,AS216127 INTERNATIONAL HOSTING COMPANY LIMITED,77.239.98.16,True
+Germany,DE,Frankfurt am Main,HFM S.R.L,HFM S.R.L,AS57403 HFM S.R.L,188.241.241.37,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",46.101.246.201,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.227.162.157,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",104.248.142.217,True
+Germany,DE,Limburg an der Lahn,OVH SAS,Invermae Solutions SL,AS16276 OVH SAS,194.76.173.6,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",142.93.170.157,True
+Germany,DE,Frankfurt am Main,International Hosting Company Limited,nuxt.cloud hosting provider,AS216127 INTERNATIONAL HOSTING COMPANY LIMITED,109.237.97.197,True
+Germany,DE,Frankfurt am Main,"Cloud Hosting Solutions, Limited.","Cloud Hosting Solutions, Limited","AS199785 Cloud Hosting Solutions, Limited.",93.115.175.140,True
+Germany,DE,Nuremberg,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,5.75.201.201,True
+Germany,DE,Frankfurt am Main,Play2go International Limited,Play2go International Limited,AS215439 PLAY2GO INTERNATIONAL LIMITED,94.156.237.143,True
+Germany,DE,Falkenstein,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,159.69.250.58,True
+Germany,DE,Frankfurt am Main,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD,77.221.157.172,True
+Germany,DE,Limburg an der Lahn,OVH SAS,Fra,AS16276 OVH SAS,89.19.44.239,True
+Germany,DE,Frankfurt am Main,WAIcore Ltd,WAIcore Ltd,AS213887 WAIcore Ltd,178.17.50.144,True
+Germany,DE,Frankfurt am Main,u1host ltd,u1host ltd,AS213877 u1host ltd,144.31.228.46,True
+Germany,DE,Frankfurt am Main,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,45.14.247.168,True
+Germany,DE,Frankfurt am Main,Amazon Technologies Inc,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",18.153.254.136,True
+Germany,DE,Frankfurt am Main,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD,92.246.136.55,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.72.92,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.211.93,True
+Germany,DE,Frankfurt Am Main,Hetzner Online AG,Hetzner Online AG,AS24940 Hetzner Online GmbH,91.107.246.136,True
+Germany,DE,Frankfurt am Main,"Timeweb, LLP","Timeweb, LLP","AS210976 Timeweb, LLP",85.193.95.23,True
+Germany,DE,Berlin,IONOS SE ber.de,,AS8560 IONOS SE,87.106.141.152,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.209.224.221,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.65.125.162,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.215.59,True
+Germany,DE,Nuremberg,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,116.203.122.202,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.122.69.33,True
+Germany,DE,Frankfurt Am Main,Baykov Ilya Sergeevich,Ilia Baikov,AS41745 Baykov Ilya Sergeevich,5.39.249.10,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",209.38.198.48,True
+Germany,DE,Frankfurt am Main,Global Connectivity Solutions LLP,Global Internet Solutions LLC,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,62.133.60.60,True
+Germany,DE,Frankfurt am Main,u1host ltd,u1host ltd,AS213877 u1host ltd,144.31.68.159,True
+Germany,DE,Frankfurt am Main,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,147.45.178.173,True
+Germany,DE,Frankfurt am Main,Philip Fjaera trading as PFWeb Solutions,Hostbrr Solutions,AS214902 Philip Fjaera trading as PFWeb Solutions,77.90.6.27,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.230.101.36,True
+Germany,DE,Frankfurt am Main,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,80.71.157.3,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",138.68.64.213,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.223.27.68,True
+Germany,DE,Frankfurt am Main,OVH SAS,Private person,AS16276 OVH SAS,82.117.245.58,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",104.248.132.134,True
+Germany,DE,Frankfurt am Main,Hypercore Ltd,RTM GmbH,AS203273 NetCrafters OU,62.60.217.235,True
+Germany,DE,Frankfurt am Main,"Cloud Hosting Solutions, Limited.","Cloud Hosting Solutions, Limited","AS199785 Cloud Hosting Solutions, Limited.",87.251.88.104,True
+Germany,DE,Frankfurt am Main,ZTV CORP LLC,ZTV Corp,AS43581 ZTV CORP LLC,85.159.226.183,True
 Germany,DE,Limburg an der Lahn,OVH SAS,,AS16276 OVH SAS,82.152.8.230,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",161.35.22.108,True
+Germany,DE,Frankfurt am Main,"Ultahost, Inc.",UltaHost Inc,"AS214036 Ultahost, Inc.",159.100.22.101,True
+Germany,DE,Frankfurt am Main,Interkvm Host SRL,ZetServers Frankfurt,AS25198 ZetServers,103.244.145.131,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",46.101.246.100,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.22.73.136,True
+Germany,DE,Frankfurt am Main,"Timeweb, LLP","Timeweb, LLP","AS210976 Timeweb, LLP",78.40.216.70,True
+Germany,DE,Frankfurt am Main,Senko Digital Ltd,Senko Digital Ltd,AS213520 Senko Digital LLC,144.31.17.20,True
+Germany,DE,Frankfurt am Main,Leaseweb Deutschland GmbH,Gtelcom LLC,AS28753 Leaseweb Deutschland GmbH,185.94.166.203,True
+Germany,DE,Limburg an der Lahn,OVH SAS,OVH GmbH,AS16276 OVH SAS,94.23.164.46,True
+Germany,DE,Limburg an der Lahn,OVH SAS,OVH GmbH,AS16276 OVH SAS,51.75.70.31,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",138.68.106.184,True
+Germany,DE,Limburg an der Lahn,OVH SAS,OVH GmbH,AS16276 OVH SAS,51.195.119.195,True
+Germany,DE,Frankfurt am Main,HFM S.R.L,HFM S.R.L,AS57403 HFM S.R.L,188.241.241.111,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",142.93.97.115,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",46.101.117.15,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.230.97.112,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",209.38.187.1,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",164.90.176.31,True
+Germany,DE,Frankfurt am Main,u1host ltd,u1host ltd,AS213877 u1host ltd,144.31.228.45,True
+Germany,DE,Frankfurt am Main,OVH SAS,Private person,AS16276 OVH SAS,82.117.245.170,True
+Germany,DE,Falkenstein,Hetzner Online GmbH,Cloud Fsn1,AS24940 Hetzner Online GmbH,91.98.147.133,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",46.101.201.36,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",142.93.97.135,True
+Germany,DE,Frankfurt am Main,"Cloud Hosting Solutions, Limited.","Cloud Hosting Solutions, Limited","AS199785 Cloud Hosting Solutions, Limited.",144.31.81.233,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.63.172,True
+Germany,DE,Frankfurt am Main,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD,89.208.96.65,True
+Germany,DE,Frankfurt am Main,First Server Limited,Firstbyte Hosting,AS200740 FIRST SERVER LIMITED,185.103.252.54,True
+Germany,DE,Frankfurt am Main,"Cloud Hosting Solutions, Limited.","Cloud Hosting Solutions, Limited","AS199785 Cloud Hosting Solutions, Limited.",195.133.64.240,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.204.59,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",64.226.125.55,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",209.38.230.60,True
+Germany,DE,Langen,Pfcloud UG (haftungsbeschrankt),Pfcloud UG,AS51396 Pfcloud UG,45.135.194.50,True
+Germany,DE,Frankfurt am Main,Senko Digital Ltd,Senko Digital Ltd,AS213520 Senko Digital LLC,64.188.105.66,True
+Germany,DE,Frankfurt am Main,Senko Digital Ltd,Senko Digital Ltd,AS213520 Senko Digital LLC,91.132.160.197,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",209.38.237.137,True
+Germany,DE,Frankfurt am Main,"Cloud Hosting Solutions, Limited.","Cloud Hosting Solutions, Limited","AS199785 Cloud Hosting Solutions, Limited.",37.46.19.60,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",138.197.181.22,True
+Germany,DE,Frankfurt am Main,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",3.75.12.170,True
+Germany,DE,Frankfurt Am Main,Hetzner Online AG,Hetzner Online AG,AS24940 Hetzner Online GmbH,91.107.155.114,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",164.92.252.242,True
+Germany,DE,Limburg an der Lahn,OVH SAS,OVH SAS,AS16276 OVH SAS,163.5.187.49,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",46.101.246.237,True
+Germany,DE,Nuremberg,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,46.225.127.246,True
+Germany,DE,Frankfurt am Main,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD,92.246.139.190,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",46.101.234.76,True
+Germany,DE,Frankfurt am Main,OVH SAS,Private person,AS16276 OVH SAS,5.178.106.61,True
+Germany,DE,Frankfurt Am Main,Hetzner Online AG,Hetzner Online AG,AS24940 Hetzner Online GmbH,91.107.147.191,True
+Germany,DE,Limburg an der Lahn,OVH SAS,OVH GmbH,AS16276 OVH SAS,135.125.238.202,True
+Germany,DE,Frankfurt Am Main,PLAY2GO LTD,PLAY2GO LTD,AS215439 PLAY2GO INTERNATIONAL LIMITED,171.22.31.116,True
+Germany,DE,Frankfurt am Main,Fornex Hosting S.L.,Fornex Hosting S.L,AS44051 Fornex Hosting S.L.,103.228.170.23,True
+Germany,DE,Limburg an der Lahn,OVH SAS,Invermae Solutions SL,AS16276 OVH SAS,194.76.173.22,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",138.197.180.246,True
+Germany,DE,Frankfurt am Main,Qwins LTD,Qwins LTD,AS213702 QWINS LTD,80.253.249.16,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.122.84.25,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.70.97,True
+Germany,DE,Waldbrunn,IP-Projects GmbH & Co. KG,Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG,AS48314 Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG,103.241.51.153,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",64.226.95.244,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.172.189.43,True
+Germany,DE,Frankfurt am Main,Qwins LTD,Qwins LTD,AS213702 QWINS LTD,95.164.123.31,True
+Germany,DE,Frankfurt am Main,Smartnet Limited,ByteHosting,AS203446 SMARTNET LIMITED,37.114.41.214,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",207.154.242.240,True
+Germany,DE,Frankfurt am Main,Clouvider Limited,Clouvider HB,AS62240 Clouvider,91.199.118.151,True
+Germany,DE,Frankfurt Am Main,HZ Hosting Ltd,HZ Hosting Ltd,AS59711 HZ Hosting Ltd,91.220.8.170,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",104.248.245.101,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.227.142.68,True
+Germany,DE,Frankfurt am Main,Fornex Hosting S.L.,Fornex,AS44051 Fornex Hosting S.L.,162.248.166.236,True
+Germany,DE,Frankfurt Am Main,Hetzner Online AG,Hetzner Online AG,AS24940 Hetzner Online GmbH,91.107.188.49,True
+Germany,DE,Frankfurt am Main,OVH SAS,CloudHosting SIA,AS16276 OVH SAS,195.206.242.122,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",164.92.181.46,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",164.92.187.73,True
+Germany,DE,Frankfurt am Main,International Hosting Company Limited,nuxt.cloud hosting provider,AS216127 INTERNATIONAL HOSTING COMPANY LIMITED,185.221.198.253,True
+Germany,DE,Frankfurt am Main,u1host ltd,u1host ltd,AS213877 u1host ltd,77.239.123.131,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.172.184.165,True
+Germany,DE,Nuremberg,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,88.99.169.6,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",46.101.224.87,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",46.101.129.149,True
+Germany,DE,Falkenstein,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,88.99.254.252,True
+Germany,DE,Frankfurt am Main,Anton Levin,Individual Entrepreneur Anton Levin,AS50053 VDSka hosting,45.148.117.93,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.58.185,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",46.101.201.34,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",46.101.250.69,True
+Germany,DE,Frankfurt am Main,OVH SAS,Private person,AS16276 OVH SAS,5.178.106.183,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",209.38.253.211,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.223.18.82,True
+Germany,DE,Frankfurt am Main,Fast Servers (Pty) Ltd,RCS Technologies FZE LLC,AS35830 Fast Servers (Pty) Ltd,77.81.65.9,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",209.38.196.126,True
+Germany,DE,Frankfurt am Main,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD,77.221.157.251,True
+Germany,DE,Limburg an der Lahn,OVH SAS,Fra,AS16276 OVH SAS,89.19.44.153,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.89.102.242,True
+Germany,DE,Frankfurt am Main,OVH SAS,Private person,AS16276 OVH SAS,82.117.245.166,True
+Germany,DE,Frankfurt Am Main,Baykov Ilya Sergeevich,Ilia Baikov,AS41745 Baykov Ilya Sergeevich,5.39.249.100,True
+Germany,DE,Nuremberg,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,46.224.234.14,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.172.165.106,True
+Germany,DE,Frankfurt Am Main,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,AS41745 Baykov Ilya Sergeevich,185.255.179.251,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",138.68.70.30,True
+Germany,DE,Frankfurt am Main,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.245.131.215,True
+Germany,DE,Nuremberg,Hetzner Online GmbH,Cloud Nbg1,AS24940 Hetzner Online GmbH,91.98.165.222,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",209.38.219.101,True
+Germany,DE,Frankfurt am Main,Oracle Corporation,Oracle Cloud Infrastructure (eu-frankfurt-1),AS31898 Oracle Corporation,89.168.68.57,True
+Germany,DE,Frankfurt am Main,International Hosting Company Limited,nuxt.cloud hosting provider,AS216127 INTERNATIONAL HOSTING COMPANY LIMITED,194.28.226.59,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.32.9,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",104.248.249.73,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",104.248.242.218,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.99.247.93,True
 Germany,DE,Nuremberg,Hetzner Online GmbH,Hetzner Online GmbH,AS24940 Hetzner Online GmbH,49.13.34.88,True
+Germany,DE,Frankfurt am Main,Mamaev,,"AS210976 Timeweb, LLP",95.140.152.230,True
+Germany,DE,Frankfurt am Main,Freakhosting LTD,FREAKHOSTING,AS215703 FREAKHOSTING LTD,207.244.199.59,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",164.92.137.46,True
+Germany,DE,Frankfurt am Main,"Cloud Hosting Solutions, Limited.","Cloud Hosting Solutions, Limited","AS199785 Cloud Hosting Solutions, Limited.",150.241.113.101,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.172.97.15,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",138.197.190.75,True
+Germany,DE,Frankfurt am Main,WAIcore Ltd,WAIcore Ltd,AS213887 WAIcore Ltd,109.122.197.95,True
+Germany,DE,Limburg an der Lahn,OVH SAS,Fra,AS16276 OVH SAS,89.19.44.206,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",161.35.213.151,True
+Germany,DE,Frankfurt am Main,System36 L.L.C.,Sculk Ltd.,AS213843 Koara International Limited,140.235.130.147,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.122.93.75,True
+Germany,DE,Offenbach Am Main,dataforest GmbH,dataforest GmbH,AS58212 dataforest GmbH,45.145.43.205,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.227.169.66,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",46.101.145.234,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.99.131.218,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.99.131.232,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",209.38.221.121,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",104.248.130.109,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.89.11.104,True
+Germany,DE,Frankfurt am Main,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,185.235.241.209,True
+Germany,DE,Frankfurt am Main,OVH SAS,CloudHosting SIA,AS16276 OVH SAS,195.206.242.60,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",164.90.191.58,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",161.35.73.222,True
+Germany,DE,Frankfurt am Main,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD,79.137.207.189,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",188.166.164.73,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",104.248.46.73,True
+Germany,DE,Frankfurt am Main,ZhouyiSat Communications,Huize Holdings LLC,AS400992 ZhouyiSat Communications,185.236.26.161,True
+Germany,DE,Frankfurt am Main,"Cloud Hosting Solutions, Limited.","Cloud Hosting Solutions, Limited","AS199785 Cloud Hosting Solutions, Limited.",144.31.195.40,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.65.123.223,True
+Germany,DE,Frankfurt am Main,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",3.73.6.186,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",64.225.105.119,True
+Germany,DE,Frankfurt am Main,Big Data Host LLC,GLB Bulut Teknolojisi Limited Sirketi,AS215346 Big Data Host LLC,195.133.47.144,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.172.166.247,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.43.254,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",209.38.246.159,True
+Germany,DE,Frankfurt am Main,Oracle Corporation,Oracle Cloud Infrastructure (eu-frankfurt-1),AS31898 Oracle Corporation,158.180.49.11,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",164.90.231.101,True
+Germany,DE,Nuremberg,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,159.69.197.209,True
+Germany,DE,Frankfurt am Main,"Timeweb, LLP","Timeweb, LLP","AS210976 Timeweb, LLP",85.193.92.242,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",207.154.212.9,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.65.112.26,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",138.68.78.45,True
+Germany,DE,Falkenstein,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,88.99.60.34,True
+Germany,DE,Nuremberg,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,188.245.108.104,True
+Germany,DE,Frankfurt am Main,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD,213.165.44.32,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",142.93.111.174,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.203.165,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",46.101.110.88,True
+Germany,DE,Frankfurt am Main,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD,92.246.139.182,True
+Germany,DE,Frankfurt am Main,Senko Digital Ltd,Senko Digital Ltd,AS213520 Senko Digital LLC,91.132.160.107,True
+Germany,DE,Frankfurt am Main,HFM S.R.L,HFM S.R.L,AS57403 HFM S.R.L,188.241.241.28,True
+Germany,DE,Frankfurt am Main,Hostkey B.V.,Hostkey B.V,AS57043 HOSTKEY B.V.,194.247.187.174,True
 Germany,DE,Frankfurt am Main,OVH SAS,OVH GmbH,AS16276 OVH SAS,57.129.81.233,True
 Germany,DE,Frankfurt Am Main,Hetzner Online AG,Hetzner Online AG,AS24940 Hetzner Online GmbH,91.107.172.37,True
+Germany,DE,Falkenstein,Hetzner Online GmbH,Cloud Fsn1,AS24940 Hetzner Online GmbH,91.98.92.244,True
+Germany,DE,Frankfurt am Main,Leaseweb Deutschland GmbH,Gtelcom LLC,AS28753 Leaseweb Deutschland GmbH,185.94.166.134,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.209.252.120,True
+Germany,DE,Falkenstein,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,23.88.112.241,True
+Germany,DE,Falkenstein,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,188.34.189.43,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.227.134.153,True
 Germany,DE,Limburg an der Lahn,OVH SAS,Invermae Solutions SL,AS16276 OVH SAS,194.76.173.106,True
-Germany,DE,Falkenstein,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,49.12.212.65,True
-Germany,DE,Frankfurt am Main,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",18.194.183.74,True
-Germany,DE,Nuremberg,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,5.75.201.201,True
-Germany,DE,Limburg an der Lahn,OVH SAS,OVH GmbH,AS16276 OVH SAS,51.195.119.195,True
-Germany,DE,Frankfurt am Main,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",3.78.24.246,True
-Germany,DE,Frankfurt am Main,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,91.149.223.248,True
-Germany,DE,Frankfurt am Main,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",3.75.12.170,True
-Germany,DE,Frankfurt am Main,"Timeweb, LLP","Timeweb, LLP","AS210976 Timeweb, LLP",85.193.95.23,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",209.38.193.241,True
+Germany,DE,Frankfurt am Main,HFM S.R.L,HFM S.R.L,AS57403 HFM S.R.L,188.241.241.32,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",64.225.110.247,True
 Germany,DE,Frankfurt am Main,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,194.87.227.112,True
-Germany,DE,Nuremberg,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH,88.99.169.6,True
+Germany,DE,Frankfurt am Main,International Hosting Company Limited,nuxt.cloud hosting provider,AS216127 INTERNATIONAL HOSTING COMPANY LIMITED,77.239.97.139,True
+Germany,DE,Frankfurt am Main,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.232.122.206,True

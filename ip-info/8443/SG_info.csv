@@ -1,23 +1,27 @@
 country,countryCode,city,isp,org,as,query,valid
-Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,140.245.57.184,True
-Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,140.245.33.193,True
-Singapore,SG,Singapore,LINODE,"Linode, LLC",AS63949 Akamai Connected Cloud,139.162.4.242,True
-Singapore,SG,Singapore,M247 Europe SRL,3NT SOLUTIONS LLP,AS9009 M247 Europe SRL,38.180.9.18,True
-Singapore,SG,Singapore,Alibaba.com LLC,"NORTHERN CABLE AND FIBER, LLC, Delta Centric LLC, Zenlayer Inc","AS45102 Alibaba (US) Technology Co., Ltd.",47.79.98.185,True
-Singapore,SG,Singapore,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172.104.186.18,True
-Singapore,SG,Singapore,SGP VULTR,,"AS20473 The Constant Company, LLC",66.42.51.60,True
-Singapore,SG,Singapore,Cogent Communications,Starcloud Global Pte. LTD,AS8796 FASTNET DATA INC,154.19.242.10,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.59.95,True
-Singapore,SG,Singapore,Huawei International Pte. LTD,,AS136907 HUAWEI CLOUDS,188.239.21.47,True
-Singapore,SG,Singapore,SGP VULTR,,"AS20473 The Constant Company, LLC",139.180.143.248,True
-Singapore,SG,Singapore,Lucidacloud Limited,L L IX,AS139659 LUCIDACLOUD LIMITED,83.229.121.78,True
-Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,129.150.33.222,True
-Singapore,SG,Singapore,Alibaba Cloud (Singapore) Private Limited,Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.219.51.113,True
-Singapore,SG,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.82.155.79,True
-Singapore,SG,Singapore,"Amazon.com, Inc.",AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",54.169.254.130,True
-Singapore,SG,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc","AS45102 Alibaba (US) Technology Co., Ltd.",47.84.11.190,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.198.82,True
 Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.236.151,True
-Singapore,SG,Singapore,Contabo Asia Private Limited,Contabo Asia Private Limited,AS141995 Contabo Asia Private Limited,194.233.68.198,True
+Singapore,SG,Singapore,Huawei International Pte. LTD,,AS136907 HUAWEI CLOUDS,188.239.21.47,True
+Singapore,SG,Singapore,Melbikomas UAB,Melbikomas UAB,AS8849 Melbikomas UAB,91.192.81.154,True
+Singapore,SG,Singapore,SGP VULTR,,"AS20473 The Constant Company, LLC",139.180.143.248,True
+Singapore,SG,Singapore,"Amazon.com, Inc.",AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",54.169.254.130,True
+Singapore,SG,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.82.155.79,True
+Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,140.245.57.184,True
+Singapore,SG,Singapore,Lucidacloud Limited,L L IX,AS139659 LUCIDACLOUD LIMITED,83.229.121.78,True
+Singapore,SG,Singapore,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc","AS45102 Alibaba (US) Technology Co., Ltd.",47.84.11.190,True
+Singapore,SG,Singapore,Cogent Communications,Starcloud Global Pte. LTD,AS8796 FASTNET DATA INC,154.19.242.10,True
 Singapore,SG,Singapore,Chelyabinsk-Signal LLC,Pdkllc,AS44493 Chelyabinsk-Signal LLC,31.192.238.71,True
+Singapore,SG,Singapore,SGP VULTR,,"AS20473 The Constant Company, LLC",66.42.51.60,True
+Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,129.150.33.222,True
+Singapore,SG,Singapore,LINODE,"Linode, LLC",AS63949 Akamai Connected Cloud,139.162.4.242,True
+Singapore,SG,Singapore,Contabo Asia Private Limited,"easyMaterial.com, Ltd.",AS141995 Contabo Asia Private Limited,62.72.44.6,True
+Singapore,SG,Singapore,ByteVirt LLC,Mohammad Booroumandfar,AS212336 ByteVirt LLC,185.115.207.125,True
+Singapore,SG,Singapore,Contabo Asia Private Limited,Contabo Asia Private Limited,AS141995 Contabo Asia Private Limited,194.233.68.198,True
 Singapore,SG,Singapore,xTom Pty Ltd,Greencloud LLC,AS8888 xTom Pty Ltd,141.98.199.177,True
+Singapore,SG,Singapore,Alibaba Cloud (Singapore) Private Limited,Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.219.51.113,True
+Singapore,SG,Singapore,Alibaba.com LLC,"NORTHERN CABLE AND FIBER, LLC, Delta Centric LLC, Zenlayer Inc","AS45102 Alibaba (US) Technology Co., Ltd.",47.79.98.185,True
+Singapore,SG,Singapore,First Server Limited,,AS200740 FIRST SERVER LIMITED,194.36.179.17,True
+Singapore,SG,Singapore,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172.104.186.18,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.198.82,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.59.95,True
+Singapore,SG,Singapore,M247 Europe SRL,3NT SOLUTIONS LLP,AS9009 M247 Europe SRL,38.180.9.18,True
+Singapore,SG,Singapore,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.77.255.153,True
