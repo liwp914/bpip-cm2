@@ -1,23 +1,22 @@
 country,countryCode,city,isp,org,as,query,valid
-India,IN,Mumbai,The Constant Company,Vultr Holdings LLC,"AS20473 The Constant Company, LLC",65.20.85.14,True
+India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.110.247.34,True
+India,IN,Mumbai,Oracle Corporation,Oracle Cloud Infrastructure (ap-mumbai-1),AS31898 Oracle Corporation,129.154.251.30,True
+India,IN,Mumbai,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.236.187.52,True
+India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",64.227.141.246,True
+India,IN,New Delhi,NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED,WorkTitans B.V,AS153914 NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED,45.89.105.211,True
+India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.110.184.105,True
+India,IN,Bengaluru,"Aryaka Networks, Inc.",Aryaka,"AS11179 Aryaka Networks, Inc.",147.75.230.33,True
+India,IN,Bengaluru,"Aryaka Networks, Inc.",Aryaka,"AS11179 Aryaka Networks, Inc.",147.75.230.160,True
 India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.110.178.130,True
 India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.110.182.104,True
-India,IN,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),AS8075 Microsoft Corporation,20.235.220.189,True
-India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.110.184.105,True
-India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.110.247.34,True
-India,IN,Mumbai,The Constant Company,Vultr Holdings LLC,"AS20473 The Constant Company, LLC",65.20.84.107,True
-India,IN,Bengaluru,"Aryaka Networks, Inc.",Aryaka,"AS11179 Aryaka Networks, Inc.",147.75.230.33,True
-India,IN,Mumbai,PDR,P.D.R Solutions FZC,AS394695 PDR,216.10.243.159,True
-India,IN,Mumbai,"Amazon.com, Inc.",AWS EC2 (ap-south-1),"AS16509 Amazon.com, Inc.",43.204.37.166,True
-India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",64.227.141.246,True
-India,IN,Mumbai,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.236.187.52,True
-India,IN,Mumbai,B FIBER PVT LTD,B Fiber PVT LTD,AS150623 HOSTDZIRE WEB SERVICES PRIVATE LIMITED,103.181.177.88,True
-India,IN,Mumbai,Oracle Corporation,Oracle Cloud Infrastructure (ap-mumbai-1),AS31898 Oracle Corporation,129.154.251.30,True
 India,IN,New Delhi,Google LLC,Google Cloud (asia-south2),AS396982 Google LLC,34.131.52.73,True
-India,IN,Mumbai,Oracle Corporation,Oracle Cloud Infrastructure (ap-mumbai-1),AS31898 Oracle Corporation,80.225.204.3,True
-India,IN,New Delhi,NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED,WorkTitans B.V,AS153914 NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED,45.89.105.211,True
+India,IN,Mumbai,PDR,P.D.R Solutions FZC,AS394695 PDR,216.10.243.159,True
 India,IN,Mumbai,Oracle Corporation,Oracle Cloud Infrastructure (ap-mumbai-1),AS31898 Oracle Corporation,129.154.225.27,True
+India,IN,Mumbai,"Amazon.com, Inc.",AWS EC2 (ap-south-1),"AS16509 Amazon.com, Inc.",43.204.37.166,True
+India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",64.227.158.180,True
+India,IN,Mumbai,The Constant Company,Vultr Holdings LLC,"AS20473 The Constant Company, LLC",65.20.84.107,True
+India,IN,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),AS8075 Microsoft Corporation,20.235.220.189,True
+India,IN,Mumbai,Oracle Corporation,Oracle Cloud Infrastructure (ap-mumbai-1),AS31898 Oracle Corporation,80.225.204.3,True
+India,IN,Mumbai,The Constant Company,Vultr Holdings LLC,"AS20473 The Constant Company, LLC",65.20.85.14,True
 India,IN,Pune,Microsoft Corporation,Microsoft Azure Cloud (centralindia),AS8075 Microsoft Corporation,4.240.110.47,True
 India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.110.241.197,True
-India,IN,Bengaluru,"Aryaka Networks, Inc.",Aryaka,"AS11179 Aryaka Networks, Inc.",147.75.230.160,True
-India,IN,Bengaluru,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",64.227.158.180,True
