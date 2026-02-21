@@ -1,131 +1,132 @@
 country,countryCode,city,isp,org,as,query,valid
-Japan,JP,Tokyo,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.238.7.95,True
-Japan,JP,Tokyo,VMISS Inc,VMISS Inc,AS400464 VMISS Inc.,38.47.125.85,True
-Japan,JP,Tokyo,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172.105.209.25,True
-Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,64.110.104.30,True
-Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,161.33.17.2,True
-Japan,JP,Chiyoda City,VMISS Inc,VMISS Inc,AS400464 VMISS Inc.,38.47.105.157,True
-Japan,JP,Osaka,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",64.176.44.23,True
-Japan,JP,Chiyoda City,ByteVirt LLC,ZYC Network LLC,AS212336 ByteVirt LLC,216.238.54.34,True
-Japan,JP,Tokyo,VMISS Inc,VMISS Inc,AS400464 VMISS Inc.,38.47.126.120,True
-Japan,JP,Minamishinagawa,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",149.28.21.106,True
-Japan,JP,Minamishinagawa,"The Constant Company, LLC","Choopa, LLC","AS20473 The Constant Company, LLC",66.42.32.115,True
-Japan,JP,Shibuya City,WorkTitans B.V.,DD CO LTD,AS209847 WorkTitans B.V.,103.106.0.123,True
-Japan,JP,Tokyo,"SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED","SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED",AS149042 Silicon Cloud Global (US),38.47.52.212,True
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,141.147.185.15,True
-Japan,JP,Shibuya City,Sakura Link Limited,,AS49304 SAKURA LINK LIMITED,142.248.151.78,True
-Japan,JP,Tokyo,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue",43.153.143.165,True
-Japan,JP,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.216.5.125,True
-Japan,JP,Tokyo,Amazon Technologies Inc.,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",3.112.21.102,True
-Japan,JP,Tokyo,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172.104.81.253,True
-Japan,JP,Tokyo,Amazon Technologies Inc.,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",18.183.224.152,True
-Japan,JP,Tokyo,Akile LTD,Akile LTD,AS61112 AkileCloud Network,156.246.90.44,True
-Japan,JP,Chiyoda City,VMISS Inc,VMISS Inc,AS400464 VMISS Inc.,38.47.105.82,True
-Japan,JP,Tokyo,Akari Networks Limited,Akari Networks Limited,AS38136 Akari Networks,5.226.49.248,True
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,141.147.174.243,True
-Japan,JP,Minamishinagawa,"The Constant Company, LLC","Choopa, LLC","AS20473 The Constant Company, LLC",167.179.70.95,True
-Japan,JP,Minamishinagawa,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.76.198.248,True
-Japan,JP,Tokyo,"Amazon.com, Inc.",AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",57.181.194.1,True
-Japan,JP,Tokyo,Amazon Technologies Inc.,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",18.183.158.211,True
-Japan,JP,Chiba,Sony Network Communications Inc,Sony Network Communications Inc.,AS2527 Sony Network Communications Inc.,115.163.106.137,True
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,138.3.222.33,True
-Japan,JP,Chiyoda City,"GMO Internet, Inc","GMO Internet Group, Inc.","AS58791 GMO Internet Group, Inc.",160.251.209.140,True
-Japan,JP,Tokyo,Interscale Inc,,AS401443 WAP.AC LLC,103.238.129.164,True
-Japan,JP,Minamishinagawa,"The Constant Company, LLC",TYO Vultr,"AS20473 The Constant Company, LLC",207.148.99.230,True
-Japan,JP,Tokyo,xTom Japan Corporation,Greencloud LLC,AS3258 xTom Japan Corporation,45.8.114.99,True
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,140.245.93.111,True
-Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,138.2.45.232,True
-Japan,JP,Minamishinagawa,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",149.28.21.222,True
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,161.33.190.243,True
-Japan,JP,Minamishinagawa,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.76.107.78,True
-Japan,JP,Tokyo,Akile LTD,Ipxo,AS61112 AkileCloud Network,181.214.136.144,True
-Japan,JP,Tokyo,Ipxo LLC,,AS46559 ZGX US LLC,45.135.160.57,True
-Japan,JP,Tokyo,ByteVirt LLC,ByteVirt LLC,AS212336 ByteVirt LLC,147.79.20.144,True
-Japan,JP,Tokyo,"DDPS Networks, LLC",,"AS18526 DDPS Networks, LLC",74.113.96.137,True
-Japan,JP,Osaka,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",64.176.36.17,True
-Japan,JP,Tokyo,Amazon Technologies Inc,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",13.115.8.228,True
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,140.238.50.134,True
-Japan,JP,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.79.94.192,True
-Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,152.69.203.97,True
-Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,150.230.56.33,True
 Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,168.138.46.67,True
-Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,138.2.39.24,True
-Japan,JP,Osaka,"The Constant Company, LLC","The Constant Company, LLC","AS20473 The Constant Company, LLC",64.176.55.11,True
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,158.179.176.239,True
-Japan,JP,Osaka,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.235.211.171,True
-Japan,JP,Minamishinagawa,"The Constant Company, LLC","Choopa, LLC","AS20473 The Constant Company, LLC",167.179.76.8,True
+Japan,JP,Tokyo,Akile LTD,Akile LTD,AS61112 AkileCloud Network,156.243.244.101,True
+Japan,JP,Osaka,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.234.88.124,True
+Japan,JP,Osaka,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",64.176.36.134,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,141.147.174.243,True
+Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,150.230.56.33,True
+Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,217.142.230.111,True
+Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,64.110.104.30,True
+Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,141.147.144.109,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,141.147.185.15,True
+Japan,JP,Chiyoda City,"GMO Internet, Inc","GMO Internet Group, Inc.","AS58791 GMO Internet Group, Inc.",160.251.210.41,True
 Japan,JP,Minamishinagawa,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",198.13.62.34,True
+Japan,JP,Tokyo,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud,139.162.112.209,True
+Japan,JP,Tokyo,Amazon Technologies Inc.,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",3.112.21.102,True
+Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,150.230.5.126,True
+Japan,JP,Tokyo,"SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED","SICLOUD INFORMATION TECHNOLOGY (HONGKONG) CO., LIMITED",AS149042 Silicon Cloud Global (US),38.47.52.212,True
+Japan,JP,Chiyoda City,BIGLOBE Inc.,BIGLOBE Inc.,AS2518 BIGLOBE Inc.,211.13.22.223,True
+Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,161.33.16.188,True
+Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,152.69.203.97,True
 Japan,JP,Tokyo,Privex Inc.,Privex External,AS210083 Privex Inc.,185.130.46.81,True
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,158.101.145.82,True
-Japan,JP,Minamishinagawa,"The Constant Company, LLC","Choopa, LLC","AS20473 The Constant Company, LLC",66.42.39.153,True
-Japan,JP,Tokyo,ByteVirt LLC,,AS212336 ByteVirt LLC,140.235.37.63,True
-Japan,JP,Minamishinagawa,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.77.178.190,True
-Japan,JP,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,101.36.105.226,True
-Japan,JP,Tokyo,"Akamai Technologies, Inc.","Linode, LLC",AS63949 Akamai Connected Cloud,139.162.80.152,True
-Japan,JP,Tokyo,Akile LTD,Akile LTD,AS61112 AkileCloud Network,154.83.91.103,True
+Japan,JP,Tokyo,Ipxo LLC,,AS46559 ZGX US LLC,45.135.160.57,True
 Japan,JP,Tokyo,Prime Security Corp.,Prime Security Corp,AS400618 Prime Security Corp.,23.249.17.25,True
-Japan,JP,Tokyo,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172.105.199.111,True
-Japan,JP,Tokyo,Akari Networks,Akari Networks Limited,AS38136 Akari Networks,45.137.180.75,True
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,140.238.51.35,True
+Japan,JP,Tokyo,SAKURA Internet Inc.,SAKURA,AS9370 SAKURA Internet Inc.,153.121.45.101,True
+Japan,JP,Minato,SoftBank Corp.,SOFTBANK Corp,AS17676 SoftBank Corp.,126.220.82.161,True
+Japan,JP,Tokyo,Cyberverse LLC,,AS216211 CYBERVERSE LLC,82.40.43.37,True
+Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,138.2.62.8,True
+Japan,JP,Tokyo,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172.105.199.168,True
+Japan,JP,Tokyo,BACK WAVES LIMITED ,JAPAN,AS153371 BACK WAVES LIMITED,160.191.40.134,True
+Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,138.2.59.112,True
+Japan,JP,Tokyo,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,101.36.105.226,True
+Japan,JP,Chiyoda City,Nearoute Limited,Lrtc Inetnum Rent,AS51847 Nearoute Limited,89.116.88.19,True
+Japan,JP,Tokyo,VMISS Inc,VMISS Inc,AS400464 VMISS Inc.,38.47.104.82,True
+Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,138.2.39.24,True
+Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,152.69.197.207,True
+Japan,JP,Tokyo,"Amazon.com, Inc.",AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",57.181.194.1,True
+Japan,JP,Osaka,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",64.176.41.135,True
 Japan,JP,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.222.82.26,True
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,193.123.161.116,True
+Japan,JP,Osaka,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",64.176.36.17,True
+Japan,JP,Tokyo,xTom Japan Corporation,Greencloud LLC,AS3258 xTom Japan Corporation,45.8.114.99,True
+Japan,JP,Chiyoda City,"GMO Internet, Inc","GMO Internet Group, Inc.","AS58791 GMO Internet Group, Inc.",160.251.209.140,True
+Japan,JP,Osaka,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",64.176.34.169,True
+Japan,JP,Osaka,"The Constant Company, LLC","The Constant Company, LLC","AS20473 The Constant Company, LLC",64.176.54.102,True
+Japan,JP,Tokyo,Ace Data Centers II,Evoxt,AS149440 Evoxt Sdn. Bhd.,23.27.169.181,True
+Japan,JP,Tokyo,Amazon Technologies Inc.,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",18.183.158.211,True
+Japan,JP,Minamishinagawa,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.76.107.78,True
+Japan,JP,Tokyo,"Akamai Technologies, Inc.","Linode, LLC",AS63949 Akamai Connected Cloud,139.162.80.152,True
+Japan,JP,Tokyo,"Amazon.com, Inc.",AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",35.75.27.181,True
+Japan,JP,Chiyoda City,VMISS Inc,VMISS Inc,AS400464 VMISS Inc.,38.47.105.82,True
+Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,138.2.45.232,True
+Japan,JP,Tokyo,Amazon Technologies Inc,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",13.115.8.228,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,161.33.190.243,True
+Japan,JP,Minamishinagawa,"The Constant Company, LLC",TYO Vultr,"AS20473 The Constant Company, LLC",207.148.99.230,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,158.101.145.82,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,138.3.222.33,True
+Japan,JP,Tokyo,Amazon Technologies Inc.,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",18.183.224.152,True
+Japan,JP,Chiyoda City,ByteVirt LLC,ZYC Network LLC,AS212336 ByteVirt LLC,216.238.54.34,True
+Japan,JP,Tokyo,Amazon Technologies Inc,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",13.113.38.86,True
+Japan,JP,Tokyo,Akari Networks Limited,Akari Networks Limited,AS38136 Akari Networks,5.226.49.248,True
+Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,141.147.159.250,True
+Japan,JP,Tokyo,Extravm LLC,EXTRAVM,AS53724 EXTRAVM LLC,103.214.68.45,True
+Japan,JP,Tokyo,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172.104.127.132,True
+Japan,JP,Minamishinagawa,"The Constant Company, LLC","Choopa, LLC","AS20473 The Constant Company, LLC",167.179.96.121,True
 Japan,JP,Tokyo,Contabo Asia Private Limited,Contabo GmbH,AS141995 Contabo Asia Private Limited,109.123.231.212,True
+Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,217.142.236.93,True
+Japan,JP,Minamishinagawa,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",149.28.21.222,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,140.238.50.134,True
+Japan,JP,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.216.5.125,True
+Japan,JP,Tokyo,Akile LTD,Akile LTD,AS61112 AkileCloud Network,156.246.90.44,True
+Japan,JP,Minamishinagawa,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",149.28.21.106,True
+Japan,JP,Shibuya City,WorkTitans B.V.,DD CO LTD,AS209847 WorkTitans B.V.,103.106.0.123,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,138.2.5.136,True
+Japan,JP,Tokyo,ByteVirt LLC,,AS212336 ByteVirt LLC,140.235.37.63,True
+Japan,JP,Tokyo,Google LLC,Google Cloud (asia-northeast1),AS15169 Google LLC,35.213.62.42,True
+Japan,JP,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.79.94.192,True
+Japan,JP,Minamishinagawa,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.32.55.253,True
+Japan,JP,Tokyo,VMISS Inc,VMISS Inc,AS400464 VMISS Inc.,38.47.125.85,True
+Japan,JP,Kisarazu,Sony Network Communications Inc,Sony Network Communications Inc.,AS2527 Sony Network Communications Inc.,207.65.189.9,True
+Japan,JP,Minamishinagawa,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.77.178.190,True
+Japan,JP,Tokyo,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.238.20.149,True
+Japan,JP,Minamishinagawa,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",198.13.55.144,True
+Japan,JP,Minamishinagawa,"The Constant Company, LLC","Choopa, LLC","AS20473 The Constant Company, LLC",66.42.39.153,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,158.179.176.239,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,155.248.163.243,True
+Japan,JP,Minamishinagawa,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.76.198.248,True
+Japan,JP,Minamishinagawa,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.76.203.234,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,140.245.93.111,True
+Japan,JP,Tokyo,ByteVirt LLC,ByteVirt LLC,AS212336 ByteVirt LLC,147.79.20.144,True
+Japan,JP,Tokyo,"Amazon.com, Inc.",AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",54.248.75.19,True
+Japan,JP,Minamishinagawa,"The Constant Company, LLC","Choopa, LLC","AS20473 The Constant Company, LLC",167.179.85.12,True
+Japan,JP,Tokyo,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172.105.209.25,True
+Japan,JP,Tokyo,Akile LTD,Ipxo,AS61112 AkileCloud Network,181.214.136.144,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,141.147.185.63,True
+Japan,JP,Tokyo,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172.104.81.253,True
+Japan,JP,Osaka,"The Constant Company, LLC","The Constant Company, LLC","AS20473 The Constant Company, LLC",64.176.55.11,True
+Japan,JP,Minamishinagawa,"The Constant Company, LLC","Choopa, LLC","AS20473 The Constant Company, LLC",66.42.32.115,True
+Japan,JP,Tokyo,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.238.7.95,True
+Japan,JP,Tokyo,Contabo GmbH,Contabo GmbH,AS141995 Contabo Asia Private Limited,84.247.153.71,True
+Japan,JP,Chiyoda City,VMISS Inc,VMISS Inc,AS400464 VMISS Inc.,38.47.105.157,True
+Japan,JP,Tokyo,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue",43.153.143.165,True
+Japan,JP,Minamishinagawa,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.77.19.8,True
+Japan,JP,Tokyo,HostHatch,HostHatch,"AS63473 HostHatch, LLC",151.242.74.249,True
+Japan,JP,Tokyo,Akile LTD,Akile LTD,AS61112 AkileCloud Network,154.83.91.103,True
+Japan,JP,Tokyo,Interscale Inc,,AS401443 WAP.AC LLC,103.238.129.164,True
+Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,161.33.17.2,True
+Japan,JP,Osaka,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.235.211.171,True
+Japan,JP,Tokyo,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172.105.199.111,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,141.147.176.171,True
+Japan,JP,Osaka,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",64.176.44.23,True
+Japan,JP,Tokyo,Limee Network LTD,IPXO,AS36530 IDC Cube,151.241.130.76,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,140.238.51.35,True
+Japan,JP,Osaka,Ace Data Centers II,Evoxt,AS149440 Evoxt Sdn. Bhd.,166.88.14.171,True
+Japan,JP,Tokyo,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud,103.29.68.206,True
+Japan,JP,Shibuya City,Sakura Link Limited,,AS49304 SAKURA LINK LIMITED,142.248.151.78,True
+Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,140.83.50.165,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,155.248.181.189,True
+Japan,JP,Chiba,Sony Network Communications Inc,Sony Network Communications Inc.,AS2527 Sony Network Communications Inc.,115.163.106.137,True
+Japan,JP,Tokyo,"DDPS Networks, LLC",,"AS18526 DDPS Networks, LLC",158.51.110.12,True
+Japan,JP,Tokyo,Amazon Technologies Inc.,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",13.230.34.30,True
+Japan,JP,Tokyo,VMISS Inc,VMISS Inc,AS400464 VMISS Inc.,38.47.126.120,True
+Japan,JP,Minamishinagawa,"The Constant Company, LLC","Choopa, LLC","AS20473 The Constant Company, LLC",167.179.70.95,True
+Japan,JP,Tokyo,Alibaba Cloud LLC,Alibaba Cloud - JP,"AS45102 Alibaba (US) Technology Co., Ltd.",47.74.40.245,True
+Japan,JP,Tokyo,Akile LTD,Akile LTD,AS61112 AkileCloud Network,45.192.248.195,True
+Japan,JP,Tokyo,"DDPS Networks, LLC",,"AS18526 DDPS Networks, LLC",74.113.96.137,True
+Japan,JP,Minamishinagawa,"The Constant Company, LLC","Choopa, LLC","AS20473 The Constant Company, LLC",167.179.76.8,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,193.123.161.116,True
+Japan,JP,Tokyo,365 Group LLC,365 Group LLC,AS3258 xTom Japan Corporation,167.253.156.21,True
+Japan,JP,Tokyo,Cyberverse LLC,,AS216211 CYBERVERSE LLC,82.40.45.57,True
+Japan,JP,Tokyo,Akari Networks,Akari Networks Limited,AS38136 Akari Networks,45.137.180.75,True
 Japan,JP,Osaka,"The Constant Company, LLC","The Constant Company, LLC","AS20473 The Constant Company, LLC",64.176.50.149,True
 Japan,JP,Tokyo,Amazon Technologies Inc.,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",54.238.181.201,True
-Japan,JP,Tokyo,Amazon Technologies Inc,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",13.113.38.86,True
-Japan,JP,Minamishinagawa,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.32.55.253,True
-Japan,JP,Tokyo,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud,139.162.112.209,True
-Japan,JP,Tokyo,Extravm LLC,EXTRAVM,AS53724 EXTRAVM LLC,103.214.68.45,True
-Japan,JP,Tokyo,VMISS Inc,VMISS Inc,AS400464 VMISS Inc.,38.47.104.82,True
-Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,138.2.59.112,True
-Japan,JP,Minamishinagawa,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.76.203.234,True
-Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,152.69.197.207,True
-Japan,JP,Tokyo,SAKURA Internet Inc.,SAKURA,AS9370 SAKURA Internet Inc.,153.121.45.101,True
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,138.2.5.136,True
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,155.248.163.243,True
-Japan,JP,Tokyo,Contabo GmbH,Contabo GmbH,AS141995 Contabo Asia Private Limited,84.247.153.71,True
-Japan,JP,Tokyo,Cyberverse LLC,,AS216211 CYBERVERSE LLC,82.40.43.37,True
-Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,140.83.50.165,True
-Japan,JP,Osaka,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",64.176.34.169,True
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,155.248.181.189,True
-Japan,JP,Minamishinagawa,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",198.13.55.144,True
-Japan,JP,Osaka,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.234.88.124,True
-Japan,JP,Tokyo,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172.104.127.132,True
-Japan,JP,Osaka,"The Constant Company, LLC","The Constant Company, LLC","AS20473 The Constant Company, LLC",64.176.54.102,True
-Japan,JP,Minato,SoftBank Corp.,SOFTBANK Corp,AS17676 SoftBank Corp.,126.220.82.161,True
-Japan,JP,Minamishinagawa,"The Constant Company, LLC","Choopa, LLC","AS20473 The Constant Company, LLC",167.179.96.121,True
-Japan,JP,Tokyo,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.238.20.149,True
-Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,161.33.16.188,True
-Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,141.147.144.109,True
-Japan,JP,Chiyoda City,"GMO Internet, Inc","GMO Internet Group, Inc.","AS58791 GMO Internet Group, Inc.",160.251.210.41,True
-Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,141.147.159.250,True
-Japan,JP,Minamishinagawa,"The Constant Company, LLC","Choopa, LLC","AS20473 The Constant Company, LLC",167.179.85.12,True
-Japan,JP,Kisarazu,Sony Network Communications Inc,Sony Network Communications Inc.,AS2527 Sony Network Communications Inc.,207.65.189.9,True
-Japan,JP,Tokyo,Amazon Technologies Inc.,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",13.230.34.30,True
-Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,150.230.5.126,True
-Japan,JP,Tokyo,365 Group LLC,365 Group LLC,AS3258 xTom Japan Corporation,167.253.156.21,True
-Japan,JP,Tokyo,Alibaba Cloud LLC,Alibaba Cloud - JP,"AS45102 Alibaba (US) Technology Co., Ltd.",47.74.40.245,True
-Japan,JP,Tokyo,"Amazon.com, Inc.",AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",35.75.27.181,True
-Japan,JP,Minamishinagawa,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.77.19.8,True
-Japan,JP,Osaka,Ace Data Centers II,Evoxt,AS149440 Evoxt Sdn. Bhd.,166.88.14.171,True
-Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,217.142.230.111,True
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,141.147.185.63,True
-Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,217.142.236.93,True
-Japan,JP,Chiyoda City,BIGLOBE Inc.,BIGLOBE Inc.,AS2518 BIGLOBE Inc.,211.13.22.223,True
-Japan,JP,Tokyo,BACK WAVES LIMITED ,JAPAN,AS153371 BACK WAVES LIMITED,160.191.40.134,True
-Japan,JP,Tokyo,Akile LTD,Akile LTD,AS61112 AkileCloud Network,156.243.244.101,True
-Japan,JP,Tokyo,Ace Data Centers II,Evoxt,AS149440 Evoxt Sdn. Bhd.,23.27.169.181,True
-Japan,JP,Osaka,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",64.176.41.135,True
-Japan,JP,Tokyo,"Amazon.com, Inc.",AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",54.248.75.19,True
-Japan,JP,Chiyoda City,Nearoute Limited,Lrtc Inetnum Rent,AS51847 Nearoute Limited,89.116.88.19,True
-Japan,JP,Tokyo,Google LLC,Google Cloud (asia-northeast1),AS15169 Google LLC,35.213.62.42,True
-Japan,JP,Tokyo,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172.105.199.168,True
-Japan,JP,Osaka,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",64.176.36.134,True
-Japan,JP,Tokyo,Limee Network LTD,IPXO,AS36530 IDC Cube,151.241.130.76,True
-Japan,JP,Tokyo,Cyberverse LLC,,AS216211 CYBERVERSE LLC,82.40.45.57,True
 Japan,JP,Osaka,"The Constant Company, LLC","The Constant Company, LLC","AS20473 The Constant Company, LLC",64.176.52.230,True
-Japan,JP,Tokyo,HostHatch,HostHatch,"AS63473 HostHatch, LLC",151.242.74.249,True
-Japan,JP,Tokyo,Akile LTD,Akile LTD,AS61112 AkileCloud Network,45.192.248.195,True
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,141.147.176.171,True
-Japan,JP,Tokyo,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud,103.29.68.206,True
-Japan,JP,Tokyo,"DDPS Networks, LLC",,"AS18526 DDPS Networks, LLC",158.51.110.12,True

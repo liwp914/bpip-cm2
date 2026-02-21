@@ -1,81 +1,81 @@
 country,countryCode,city,isp,org,as,query,valid
-Russia,RU,Moscow,WAIcore Ltd,WAIcore Ltd,AS213887 WAIcore Ltd,109.122.198.230,True
-Russia,RU,Moscow,"JSC ""TIMEWEB""","JSC ""TIMEWEB""",AS9123 JSC TIMEWEB,45.139.78.205,True
-Russia,RU,St Petersburg,JSC Selectel,Selectel,AS49505 JSC Selectel,78.24.180.214,True
-Russia,RU,Moscow,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD,77.232.143.39,True
+Russia,RU,Moscow,Reg.Ru,,"AS197695 ""Domain names registrar REG.RU"", Ltd",185.20.224.44,True
+Russia,RU,Moscow,LLC Baxet,LLC Baxet,AS51659 LLC Baxet,45.135.134.168,True
+Russia,RU,Moscow,Yandex.Cloud LLC,Yandex.Cloud LLC,AS200350 Yandex.Cloud LLC,158.160.23.37,True
+Russia,RU,St Petersburg,vds,,AS9123 JSC TIMEWEB,89.223.121.109,True
+Russia,RU,Moscow,First Server Limited,Firstbyte Hosting,AS205090 FIRST SERVER LIMITED,84.252.74.134,True
 Russia,RU,Moscow,I-servers LTD,POWER-SERVERS-ROLE-ORG,AS209641 I-SERVERS LTD,185.87.48.219,True
+Russia,RU,St Petersburg,JSC Selectel,Selectel,AS49505 JSC Selectel,78.24.180.214,True
+Russia,RU,Moscow,"JSC ""TIMEWEB""","Timeweb, LLP",AS9123 JSC TIMEWEB,82.97.249.34,True
+Russia,RU,Moscow,Chernyshov Aleksandr Aleksandrovich,Ildar Gilmutdinov PE,AS202984 TEAM-HOST AS RU,95.182.120.208,True
+Russia,RU,Moscow,CENTER,JSC Ru-center,"AS197695 ""Domain names registrar REG.RU"", Ltd",89.111.172.106,True
+Russia,RU,Moscow,Aeza Group LLC,AEZA GROUP Ltd,AS216246 Aeza Group LLC,85.192.30.59,True
+Russia,RU,Moscow,NetCrafters OU,NetCrafters OU,AS203273 NetCrafters OU,178.253.55.191,True
+Russia,RU,St Petersburg,BEGET.RU,,AS198610 Beget LLC,62.113.106.143,True
+Russia,RU,Moscow,Hosting technology LTD,Hosting technology LTD,AS48282 Hosting technology LTD,178.20.41.204,True
+Russia,RU,Moscow,"""Domain names registrar REG.RU"", Ltd",Regru Network,"AS197695 ""Domain names registrar REG.RU"", Ltd",194.58.109.206,True
+Russia,RU,Moscow,"""Domain names registrar REG.RU"", Ltd","""Domain names registrar REG.RU"", Ltd","AS197695 ""Domain names registrar REG.RU"", Ltd",95.163.242.189,True
+Russia,RU,Moscow,"JSC ""TIMEWEB""",TW Cloud,AS9123 JSC TIMEWEB,109.73.195.158,True
+Russia,RU,St Petersburg,NetCrafters OU,NetCrafters OU,AS203273 NetCrafters OU,83.147.255.67,True
+Russia,RU,St Petersburg,NetCrafters OU,NetCrafters OU,AS203273 NetCrafters OU,83.147.255.3,True
+Russia,RU,St Petersburg,LLC Baxet,Baxet Group Inc,AS51659 LLC Baxet,195.58.48.252,True
+Russia,RU,Moscow,EdgeCenter LLC,G-Core Labs S.A,AS210756 EdgeCenter LLC,92.38.152.30,True
+Russia,RU,Moscow,Hosting technology LTD,Hosting technology LTD,AS48282 Hosting technology LTD,178.20.46.58,True
+Russia,RU,Moscow,I-servers LTD,POWER-SERVERS-ROLE-ORG,AS209641 I-SERVERS LTD,95.81.114.31,True
+Russia,RU,Moscow,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,AS41745 Baykov Ilya Sergeevich,185.68.247.233,True
+Russia,RU,Moscow,"JSC ""TIMEWEB""","JSC ""TIMEWEB""",AS9123 JSC TIMEWEB,81.200.158.206,True
+Russia,RU,Moscow,Petersburg Internet Network ltd.,PINVDS OU,AS216368 Petersburg Internet Network ltd.,5.188.88.74,True
+Russia,RU,Moscow,Yandex.Cloud LLC,Yandex.Cloud LLC,AS200350 Yandex.Cloud LLC,158.160.175.98,True
+Russia,RU,Moscow,GIR SER,,AS207713 GLOBAL INTERNET SOLUTIONS LLC,213.165.60.83,True
+Russia,RU,Moscow,Global Internet Solutions LLC,Global Internet Solutions LLC,AS207713 GLOBAL INTERNET SOLUTIONS LLC,45.151.62.65,True
+Russia,RU,Moscow,"""Domain names registrar REG.RU"", Ltd","""Domain names registrar REG.RU"", Ltd","AS197695 ""Domain names registrar REG.RU"", Ltd",95.163.240.203,True
+Russia,RU,Moscow,Aeza Group LLC,Aeza International LTD,AS216246 Aeza Group LLC,185.221.199.239,True
+Russia,RU,Novosibirsk,Global Internet Solutions LLC,Global Internet Solutions LLC,AS207713 GLOBAL INTERNET SOLUTIONS LLC,147.45.48.209,True
+Russia,RU,Moscow,Selectel,,AS50340 JSC Selectel,5.188.78.218,True
+Russia,RU,St Petersburg,"JSC ""TIMEWEB""","JSC ""TIMEWEB""",AS9123 JSC TIMEWEB,85.193.91.193,True
+Russia,RU,Moscow,Stolica Telecom Ltd.,Stolica Telecom Ltd,AS62366 Stolica Telecom Ltd.,95.46.1.22,True
+Russia,RU,Moscow,JSC Comcor,Comcor,AS8732 JSC Comcor,178.208.156.194,True
+Russia,RU,Moscow,JSC Selectel,Selectel,AS49505 JSC Selectel,31.129.49.103,True
+Russia,RU,Moscow,WAIcore Ltd,WAIcore Ltd,AS213887 WAIcore Ltd,109.122.198.230,True
+Russia,RU,Moscow,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,AS41745 Baykov Ilya Sergeevich,185.246.220.237,True
+Russia,RU,Moscow,Reg.Ru,,"AS197695 ""Domain names registrar REG.RU"", Ltd",185.20.227.208,True
 Russia,RU,Moscow,LLC VK,VK Cloud Solutions,AS47764 LLC VK,83.166.252.43,True
 Russia,RU,Novosibirsk,Adman LLC,TW VDS,AS57494 Adman LLC,147.45.147.212,True
-Russia,RU,Moscow,Hosting technology LTD,Hosting technology LTD,AS48282 Hosting technology LTD,178.20.41.204,True
-Russia,RU,Moscow,LLC Baxet,LLC Baxet,AS51659 LLC Baxet,45.135.134.168,True
-Russia,RU,Moscow,Reg.Ru,,"AS197695 ""Domain names registrar REG.RU"", Ltd",37.140.199.59,True
-Russia,RU,St Petersburg,vds,,AS9123 JSC TIMEWEB,89.223.121.109,True
-Russia,RU,Moscow,"""Domain names registrar REG.RU"", Ltd",Regru Network,"AS197695 ""Domain names registrar REG.RU"", Ltd",194.58.109.206,True
-Russia,RU,Moscow,GIR SER,,AS207713 GLOBAL INTERNET SOLUTIONS LLC,213.165.60.83,True
-Russia,RU,Moscow,"""Domain names registrar REG.RU"", Ltd","""Domain names registrar REG.RU"", Ltd","AS197695 ""Domain names registrar REG.RU"", Ltd",95.163.240.203,True
-Russia,RU,Moscow,Hosting technology LTD,Hosting technology LTD,AS48282 Hosting technology LTD,89.110.91.224,True
-Russia,RU,St Petersburg,JSC Selectel,,AS49505 JSC Selectel,188.246.226.106,True
-Russia,RU,St Petersburg,SPRINTHOST.RU LLC,Sprinthost LLC,AS35278 SPRINTHOST.RU LLC,193.222.62.67,True
-Russia,RU,Moscow,Aeza Group LLC,SPB,AS216246 Aeza Group LLC,193.233.231.232,True
-Russia,RU,Moscow,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,AS41745 Baykov Ilya Sergeevich,194.226.121.171,True
-Russia,RU,Moscow,"JSC ""TIMEWEB""","JSC ""TIMEWEB""",AS9123 JSC TIMEWEB,85.239.39.144,True
-Russia,RU,Moscow,Yandex.Cloud LLC,Yandex.Cloud LLC,AS200350 Yandex.Cloud LLC,158.160.23.37,True
-Russia,RU,Moscow,"""Domain names registrar REG.RU"", Ltd","""Domain names registrar REG.RU"", Ltd","AS197695 ""Domain names registrar REG.RU"", Ltd",95.163.236.206,True
-Russia,RU,Moscow,First Server Limited,Firstbyte Hosting,AS205090 FIRST SERVER LIMITED,84.252.74.134,True
-Russia,RU,Moscow,Yandex.Cloud LLC,Yandex.Cloud LLC,AS200350 Yandex.Cloud LLC,51.250.110.207,True
-Russia,RU,Moscow,Domain names registrar REG.RU,"""Domain names registrar REG.RU"", Ltd","AS197695 ""Domain names registrar REG.RU"", Ltd",194.67.67.158,True
-Russia,RU,Moscow,LLC Baxet,LLC Baxet,AS49392 LLC Baxet,212.60.5.118,True
-Russia,RU,Moscow,CENTER,JSC Ru-center,"AS197695 ""Domain names registrar REG.RU"", Ltd",89.111.172.106,True
-Russia,RU,Moscow,I-servers LTD,POWER-SERVERS-ROLE-ORG,AS209641 I-SERVERS LTD,95.81.114.31,True
-Russia,RU,Moscow,"""Domain names registrar REG.RU"", Ltd","""Domain names registrar REG.RU"", Ltd","AS197695 ""Domain names registrar REG.RU"", Ltd",95.163.240.24,True
-Russia,RU,Moscow,SERV.HOST GROUP LTD,SERV.HOST GROUP LTD,AS207957 SERV.HOST GROUP LTD,64.188.90.196,True
-Russia,RU,Novosibirsk,SELECTEL,,AS61976 JSC Selectel,79.141.73.189,True
-Russia,RU,Moscow,Reg.Ru,,"AS197695 ""Domain names registrar REG.RU"", Ltd",185.20.224.44,True
-Russia,RU,St Petersburg,LLC Baxet,Baxet Group Inc,AS51659 LLC Baxet,195.58.48.252,True
-Russia,RU,Moscow,"JSC ""TIMEWEB""","JSC ""TIMEWEB""",AS9123 JSC TIMEWEB,81.200.158.206,True
-Russia,RU,Novosibirsk,Global Internet Solutions LLC,Global Internet Solutions LLC,AS207713 GLOBAL INTERNET SOLUTIONS LLC,147.45.48.209,True
-Russia,RU,St Petersburg,"JSC ""TIMEWEB""","JSC ""TIMEWEB""",AS9123 JSC TIMEWEB,85.193.91.193,True
-Russia,RU,Moscow,JSC Selectel,Selectel,AS49505 JSC Selectel,31.129.49.103,True
-Russia,RU,Moscow,Chernyshov Aleksandr Aleksandrovich,Ildar Gilmutdinov PE,AS202984 TEAM-HOST AS RU,95.182.120.208,True
-Russia,RU,Moscow,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,AS41745 Baykov Ilya Sergeevich,185.68.247.233,True
-Russia,RU,Moscow,Hosting technology LTD,Hosting technology LTD,AS48282 Hosting technology LTD,93.183.94.78,True
-Russia,RU,Moscow,Reg.Ru,,"AS197695 ""Domain names registrar REG.RU"", Ltd",194.58.98.15,True
-Russia,RU,Moscow,Aeza Group LLC,AEZA GROUP Ltd,AS216246 Aeza Group LLC,85.192.30.59,True
-Russia,RU,Moscow,DEF-GROUP Datahouse.ru,Def-group LLC,AS50053 VDSka hosting,45.141.184.145,True
-Russia,RU,Moscow,Hosting technology LTD,Hosting technology LTD,AS48282 Hosting technology LTD,178.20.46.58,True
-Russia,RU,Moscow,NetCrafters OU,NetCrafters OU,AS203273 NetCrafters OU,178.253.55.191,True
-Russia,RU,Moscow,"""Domain names registrar REG.RU"", Ltd","""Domain names registrar REG.RU"", Ltd","AS197695 ""Domain names registrar REG.RU"", Ltd",95.163.242.189,True
-Russia,RU,Moscow,Selectel,,AS50340 JSC Selectel,5.188.78.218,True
-Russia,RU,Moscow,Aeza Group LLC,Aeza International LTD,AS216246 Aeza Group LLC,185.221.199.239,True
-Russia,RU,Moscow,"""Domain names registrar REG.RU"", Ltd","""Domain names registrar REG.RU"", Ltd","AS197695 ""Domain names registrar REG.RU"", Ltd",95.163.242.88,True
 Russia,RU,Moscow,"""Domain names registrar REG.RU"", Ltd",Reg.Ru AG,"AS197695 ""Domain names registrar REG.RU"", Ltd",80.78.247.164,True
-Russia,RU,Moscow,Aeza Group LLC,SPB,AS216246 Aeza Group LLC,193.233.231.122,True
-Russia,RU,Moscow,AZERTA.RU Hosting LLC,AZERTA.RU Hosting LLC,AS43278 Castles LLC,5.42.211.110,True
-Russia,RU,Moscow,"""Domain names registrar REG.RU"", Ltd","""Domain names registrar REG.RU"", Ltd","AS197695 ""Domain names registrar REG.RU"", Ltd",95.163.241.219,True
-Russia,RU,St Petersburg,"JSC ""TIMEWEB""","JSC ""TIMEWEB""",AS9123 JSC TIMEWEB,46.229.212.218,True
-Russia,RU,St Petersburg,NetCrafters OU,NetCrafters OU,AS203273 NetCrafters OU,83.147.255.67,True
-Russia,RU,Moscow,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,AS41745 Baykov Ilya Sergeevich,185.246.220.237,True
-Russia,RU,Moscow,"JSC ""TIMEWEB""","Timeweb, LLP",AS9123 JSC TIMEWEB,82.97.249.34,True
-Russia,RU,Moscow,Hostkey B.V.,"LLC ""Server v arendy""",AS50867 HOSTKEY B.V.,158.255.6.5,True
-Russia,RU,Moscow,Stolica Telecom Ltd.,Stolica Telecom Ltd,AS62366 Stolica Telecom Ltd.,95.46.1.22,True
-Russia,RU,St Petersburg,NetCrafters OU,NetCrafters OU,AS203273 NetCrafters OU,83.147.255.3,True
+Russia,RU,St Petersburg,JSC Selectel,,AS49505 JSC Selectel,188.246.226.106,True
+Russia,RU,Moscow,Yandex.Cloud LLC,Yandex.Cloud LLC,AS200350 Yandex.Cloud LLC,51.250.110.207,True
 Russia,RU,St Petersburg,"JSC ""TIMEWEB""","JSC ""TIMEWEB""",AS9123 JSC TIMEWEB,90.156.211.232,True
-Russia,RU,St Petersburg,JSC Selectel,Selectel,AS49505 JSC Selectel,89.248.207.37,True
-Russia,RU,Moscow,JSC Selectel,,AS49505 JSC Selectel,31.129.48.139,True
-Russia,RU,Moscow,Reg.Ru,,"AS197695 ""Domain names registrar REG.RU"", Ltd",185.20.227.208,True
-Russia,RU,Moscow,Reg.Ru,,"AS197695 ""Domain names registrar REG.RU"", Ltd",185.20.225.208,True
-Russia,RU,Moscow,OVH SAS,HostiMan Hosting,AS16276 OVH SAS,162.19.158.37,True
-Russia,RU,Moscow,EdgeCenter LLC,G-Core Labs S.A,AS210756 EdgeCenter LLC,92.38.152.30,True
-Russia,RU,Moscow,"""Cloud Technologies"" LLC trading as Cloud.ru",Sbercloud,"AS208677 ""Cloud Technologies"" LLC trading as Cloud.ru",176.109.106.61,True
-Russia,RU,Moscow,Chernyshov Aleksandr Aleksandrovich,Ildar Gilmutdinov PE,AS202984 TEAM-HOST AS RU,95.182.121.132,True
-Russia,RU,Moscow,Petersburg Internet Network ltd.,PINVDS OU,AS216368 Petersburg Internet Network ltd.,5.188.88.74,True
-Russia,RU,Moscow,JSC Mediasoft ekspert,MTW : RUCLOUD,AS48347 JSC Mediasoft ekspert,193.124.64.83,True
-Russia,RU,St Petersburg,Hostland LTD,Kantemirovskaya ul.,AS62082 Hostland LTD,185.221.215.60,True
 Russia,RU,Moscow,First Server Limited,MediaServicePlus LLC,AS205090 FIRST SERVER LIMITED,185.128.106.237,True
 Russia,RU,Moscow,"JSC ""TIMEWEB""","JSC ""TIMEWEB""",AS9123 JSC TIMEWEB,31.130.149.85,True
-Russia,RU,Moscow,"JSC ""TIMEWEB""",TW Cloud,AS9123 JSC TIMEWEB,109.73.195.158,True
-Russia,RU,St Petersburg,BEGET.RU,,AS198610 Beget LLC,62.113.106.143,True
+Russia,RU,St Petersburg,SPRINTHOST.RU LLC,Sprinthost LLC,AS35278 SPRINTHOST.RU LLC,193.222.62.67,True
+Russia,RU,Moscow,"JSC ""TIMEWEB""","JSC ""TIMEWEB""",AS9123 JSC TIMEWEB,85.239.39.144,True
+Russia,RU,Moscow,Chernyshov Aleksandr Aleksandrovich,Ildar Gilmutdinov PE,AS202984 TEAM-HOST AS RU,95.182.121.132,True
+Russia,RU,Moscow,"JSC ""TIMEWEB""","JSC ""TIMEWEB""",AS9123 JSC TIMEWEB,45.139.78.205,True
+Russia,RU,Moscow,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD,77.232.143.39,True
+Russia,RU,Moscow,Reg.Ru,,"AS197695 ""Domain names registrar REG.RU"", Ltd",185.20.225.208,True
+Russia,RU,Moscow,DEF-GROUP Datahouse.ru,Def-group LLC,AS50053 VDSka hosting,45.141.184.145,True
+Russia,RU,St Petersburg,JSC Selectel,Selectel,AS49505 JSC Selectel,89.248.207.37,True
+Russia,RU,Moscow,Hosting technology LTD,Hosting technology LTD,AS48282 Hosting technology LTD,89.110.91.224,True
+Russia,RU,Moscow,OVH SAS,HostiMan Hosting,AS16276 OVH SAS,162.19.158.37,True
+Russia,RU,Moscow,LLC Baxet,LLC Baxet,AS49392 LLC Baxet,212.60.5.118,True
+Russia,RU,Moscow,AZERTA.RU Hosting LLC,AZERTA.RU Hosting LLC,AS43278 Castles LLC,5.42.211.110,True
+Russia,RU,Moscow,"""Domain names registrar REG.RU"", Ltd","""Domain names registrar REG.RU"", Ltd","AS197695 ""Domain names registrar REG.RU"", Ltd",95.163.241.219,True
+Russia,RU,Moscow,"""Cloud Technologies"" LLC trading as Cloud.ru",Sbercloud,"AS208677 ""Cloud Technologies"" LLC trading as Cloud.ru",176.109.106.61,True
+Russia,RU,Moscow,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,AS41745 Baykov Ilya Sergeevich,194.226.121.171,True
+Russia,RU,Moscow,Hostkey B.V.,"LLC ""Server v arendy""",AS50867 HOSTKEY B.V.,158.255.6.5,True
+Russia,RU,Moscow,"""Domain names registrar REG.RU"", Ltd","""Domain names registrar REG.RU"", Ltd","AS197695 ""Domain names registrar REG.RU"", Ltd",95.163.240.24,True
+Russia,RU,Moscow,JSC Mediasoft ekspert,MTW : RUCLOUD,AS48347 JSC Mediasoft ekspert,193.124.64.83,True
+Russia,RU,Moscow,Reg.Ru,,"AS197695 ""Domain names registrar REG.RU"", Ltd",37.140.199.59,True
+Russia,RU,St Petersburg,"JSC ""TIMEWEB""","JSC ""TIMEWEB""",AS9123 JSC TIMEWEB,46.229.212.218,True
+Russia,RU,Moscow,"""Domain names registrar REG.RU"", Ltd","""Domain names registrar REG.RU"", Ltd","AS197695 ""Domain names registrar REG.RU"", Ltd",95.163.236.206,True
 Russia,RU,Moscow,Baykov Ilya Sergeevich,Baykov Ilya Sergeevich,AS41745 Baykov Ilya Sergeevich,194.87.252.193,True
-Russia,RU,Moscow,Global Internet Solutions LLC,Global Internet Solutions LLC,AS207713 GLOBAL INTERNET SOLUTIONS LLC,45.151.62.65,True
-Russia,RU,Moscow,JSC Comcor,Comcor,AS8732 JSC Comcor,178.208.156.194,True
-Russia,RU,Moscow,Yandex.Cloud LLC,Yandex.Cloud LLC,AS200350 Yandex.Cloud LLC,158.160.175.98,True
+Russia,RU,Moscow,Hosting technology LTD,Hosting technology LTD,AS48282 Hosting technology LTD,93.183.94.78,True
+Russia,RU,Moscow,"""Domain names registrar REG.RU"", Ltd","""Domain names registrar REG.RU"", Ltd","AS197695 ""Domain names registrar REG.RU"", Ltd",95.163.242.88,True
+Russia,RU,Moscow,Reg.Ru,,"AS197695 ""Domain names registrar REG.RU"", Ltd",194.58.98.15,True
+Russia,RU,Moscow,Aeza Group LLC,SPB,AS216246 Aeza Group LLC,193.233.231.122,True
+Russia,RU,Moscow,Domain names registrar REG.RU,"""Domain names registrar REG.RU"", Ltd","AS197695 ""Domain names registrar REG.RU"", Ltd",194.67.67.158,True
+Russia,RU,Moscow,Aeza Group LLC,SPB,AS216246 Aeza Group LLC,193.233.231.232,True
+Russia,RU,Moscow,JSC Selectel,,AS49505 JSC Selectel,31.129.48.139,True
+Russia,RU,St Petersburg,Hostland LTD,Kantemirovskaya ul.,AS62082 Hostland LTD,185.221.215.60,True
+Russia,RU,Moscow,SERV.HOST GROUP LTD,SERV.HOST GROUP LTD,AS207957 SERV.HOST GROUP LTD,64.188.90.196,True
+Russia,RU,Novosibirsk,SELECTEL,,AS61976 JSC Selectel,79.141.73.189,True

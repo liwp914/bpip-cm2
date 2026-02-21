@@ -1,15 +1,14 @@
 country,countryCode,city,isp,org,as,query,valid
-Moldova,MD,Chisinau,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,45.67.229.190,True
-Moldova,MD,Chisinau,Alexhost SRL,Alexhost SRL,AS200019 ALEXHOST SRL,193.233.203.32,True
-Moldova,MD,Chisinau,MivoCloud SRL,MivoCloud SRL,AS39798 MivoCloud SRL,185.163.45.40,True
-Moldova,MD,Chisinau,Baxet Group Inc,InterLIR LLC,AS26383 Baxet Group Inc.,166.88.234.116,True
-Moldova,MD,Chisinau,Alexhost SRL,Alexhost S.R.L,AS200019 ALEXHOST SRL,91.208.206.103,True
-Moldova,MD,Chisinau,Alexhost SRL,Alexhost S.R.L,AS200019 ALEXHOST SRL,91.208.162.68,True
-Moldova,MD,Chisinau,Alexhost SRL,Alexhost SRL,AS200019 ALEXHOST SRL,193.233.203.35,True
-Moldova,MD,Chisinau,S.C. INFOTECH-GRUP S.R.L.,S.C. INFOTECH-GRUP S.R.L,AS201670 S.C. INFOTECH-GRUP S.R.L.,93.185.165.32,True
-Moldova,MD,Chisinau,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,185.250.148.240,True
-Moldova,MD,Chisinau,Alexhost SRL,Alexhost SRL,AS200019 ALEXHOST SRL,93.157.106.48,True
 Moldova,MD,Chisinau,Alexhost SRL,Alexhost SRL,AS200019 ALEXHOST SRL,45.86.86.53,True
-Moldova,MD,Chisinau,Alexhost SRL,AlexHost SRL,AS200019 ALEXHOST SRL,217.156.65.103,True
+Moldova,MD,Chisinau,Alexhost SRL,Alexhost S.R.L,AS200019 ALEXHOST SRL,91.208.206.103,True
+Moldova,MD,Chisinau,MivoCloud SRL,MivoCloud SRL,AS39798 MivoCloud SRL,185.163.45.40,True
+Moldova,MD,Chisinau,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,45.67.229.190,True
+Moldova,MD,Chisinau,Alexhost SRL,Alexhost S.R.L,AS200019 ALEXHOST SRL,91.208.162.68,True
 Moldova,MD,Chisinau,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,45.67.229.8,True
+Moldova,MD,Chisinau,Alexhost SRL,AlexHost SRL,AS200019 ALEXHOST SRL,217.156.65.103,True
+Moldova,MD,Chisinau,S.C. INFOTECH-GRUP S.R.L.,S.C. INFOTECH-GRUP S.R.L,AS201670 S.C. INFOTECH-GRUP S.R.L.,93.185.165.32,True
 Moldova,MD,Chisinau,S.C. INFOTECH-GRUP S.R.L.,S.C. INFOTECH-GRUP S.R.L,AS201670 S.C. INFOTECH-GRUP S.R.L.,193.233.246.149,True
+Moldova,MD,Chisinau,Baxet Group Inc,InterLIR LLC,AS26383 Baxet Group Inc.,166.88.234.116,True
+Moldova,MD,Chisinau,Alexhost SRL,Alexhost SRL,AS200019 ALEXHOST SRL,193.233.203.32,True
+Moldova,MD,Chisinau,Alexhost SRL,Alexhost SRL,AS200019 ALEXHOST SRL,93.157.106.48,True
+Moldova,MD,Chisinau,Alexhost SRL,Alexhost SRL,AS200019 ALEXHOST SRL,193.233.203.35,True
