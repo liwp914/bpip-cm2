@@ -1,10 +1,11 @@
 country,countryCode,city,isp,org,as,query,valid
-Switzerland,CH,Zurich,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,45.95.232.18,True
-Switzerland,CH,Zurich,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,45.143.200.237,True
-Switzerland,CH,Rümlang,Alexhost SRL,Alexhost SRL,AS200019 ALEXHOST SRL,45.155.53.155,True
+Switzerland,CH,Bern,Datasource AG,Servinga6869,AS51395 Datasource AG,185.195.69.209,True
+Switzerland,CH,Zurich,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,45.95.232.115,True
+Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Network SA,AS29222 Infomaniak Network SA,84.234.31.58,True
+Switzerland,CH,Bern,Datasource AG,Servinga6869,AS51395 Datasource AG,185.195.69.173,True
 Switzerland,CH,Utzenstorf,Solar Communications GmbH,Solar Communications GmbH,AS197988 Solar Communications GmbH,95.183.51.10,True
 Switzerland,CH,Zurich,Datasource AG,,AS51395 Datasource AG,91.192.102.170,True
-Switzerland,CH,Bern,Datasource AG,Servinga6869,AS51395 Datasource AG,185.195.69.173,True
-Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Network SA,AS29222 Infomaniak Network SA,84.234.31.58,True
-Switzerland,CH,Bern,Datasource AG,Servinga6869,AS51395 Datasource AG,185.195.69.209,True
+Switzerland,CH,Zurich,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,45.95.232.18,True
 Switzerland,CH,Zurich,Private Layer INC,3NT SOLUTIONS LLP,AS51852 Private Layer INC,149.33.15.96,True
+Switzerland,CH,Rümlang,Alexhost SRL,Alexhost SRL,AS200019 ALEXHOST SRL,45.155.53.155,True
+Switzerland,CH,Zurich,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,45.143.200.237,True

@@ -1,6 +1,6 @@
 country,countryCode,city,isp,org,as,query,valid
 Austria,AT,Vienna,M247 Europe SRL,3NT SOLUTIONS LLP,AS9009 M247 Europe SRL,38.180.143.51,True
-Austria,AT,Vienna,netcup GmbH,ANX Holding GmbH,AS197540 netcup GmbH,152.53.44.234,True
 Austria,AT,Wien,Alwyzon,Hohl IT e.U.,AS40994 Hohl IT e.U.,94.177.8.122,True
 Austria,AT,Vienna,xorek.cloud International LTD,xorek.cloud International LTD,AS210644 AEZA INTERNATIONAL LTD,193.233.233.188,True
+Austria,AT,Vienna,netcup GmbH,ANX Holding GmbH,AS197540 netcup GmbH,152.53.44.234,True
 Austria,AT,Vienna,xorek.cloud International LTD,xorek.cloud International LTD,AS210644 AEZA INTERNATIONAL LTD,212.113.106.40,True
