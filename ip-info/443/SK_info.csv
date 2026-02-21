@@ -1,11 +1,11 @@
 country,countryCode,city,isp,org,as,query,valid
 Slovakia,SK,Bratislava,eServer s.r.o.,Digital City LTD,AS61424 eServer s.r.o.,185.112.249.79,True
-Slovakia,SK,Bratislava,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,5.252.23.107,True
+Slovakia,SK,Bratislava,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,5.180.55.43,True
+Slovakia,SK,Bratislava,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,5.252.23.5,True
+Slovakia,SK,Bratislava,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,5.252.23.120,True
+Slovakia,SK,Bratislava,eServer s.r.o.,Digital City FZE,AS61424 eServer s.r.o.,89.46.42.106,True
+Slovakia,SK,Bratislava,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,5.252.23.139,True
+Slovakia,SK,Bratislava,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,5.180.55.185,True
 Slovakia,SK,Bratislava,Websupport,Websupport s.r.o.,AS51013 WebSupport s.r.o.,37.9.171.189,True
 Slovakia,SK,Bratislava,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,5.180.55.228,True
-Slovakia,SK,Bratislava,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,5.252.23.5,True
-Slovakia,SK,Bratislava,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,5.180.55.185,True
-Slovakia,SK,Bratislava,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,5.252.23.120,True
-Slovakia,SK,Bratislava,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,5.252.23.139,True
-Slovakia,SK,Bratislava,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,5.180.55.43,True
-Slovakia,SK,Bratislava,eServer s.r.o.,Digital City FZE,AS61424 eServer s.r.o.,89.46.42.106,True
+Slovakia,SK,Bratislava,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,5.252.23.107,True
