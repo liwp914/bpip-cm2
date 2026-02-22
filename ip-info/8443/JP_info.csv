@@ -1,22 +1,22 @@
 country,countryCode,city,isp,org,as,query,valid
-Japan,JP,Shibuya City,Octopus Web Solution Inc,Akile LTD,AS401615 ACCK LLC,156.231.141.9,True
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,193.123.166.79,True
 Japan,JP,Tokyo,Amazon Technologies Inc.,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",18.178.133.254,True
-Japan,JP,Tokyo,VMISS Inc,VMISS Inc,AS400464 VMISS Inc.,38.47.124.159,True
-Japan,JP,Tokyo,Cyberverse LLC,Cyberverse JP,AS216211 CYBERVERSE LLC,212.135.212.40,True
-Japan,JP,Tokyo,Cyberverse LLC,,AS216211 CYBERVERSE LLC,82.40.44.171,True
-Japan,JP,Osaka,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",64.176.36.134,True
-Japan,JP,Tokyo,Akile LTD,Akile LTD,AS61112 AkileCloud Network,38.207.130.231,True
-Japan,JP,Minamishinagawa,"The Constant Company, LLC","Quicksilver Express Courier, Inc.","AS20473 The Constant Company, LLC",198.13.35.197,True
-Japan,JP,Tokyo,OWL,Owl Limited,AS3258 xTom Japan Corporation,45.142.126.16,True
 Japan,JP,Minamishinagawa,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.76.208.123,True
-Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,138.2.55.219,True
-Japan,JP,Tokyo,Amazon Technologies Inc.,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",3.112.89.102,True
-Japan,JP,Shibuya City,Octopus Web Solution Inc,Akile LTD,AS401615 ACCK LLC,156.231.141.37,True
-Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,168.138.36.146,True
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,138.3.211.22,True
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,140.83.34.214,True
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,131.186.38.156,True
+Japan,JP,Osaka,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",64.176.36.134,True
 Japan,JP,Tokyo,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.237.11.207,True
+Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,168.138.36.146,True
 Japan,JP,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.216.5.125,True
+Japan,JP,Tokyo,Cyberverse LLC,,AS216211 CYBERVERSE LLC,82.40.44.171,True
+Japan,JP,Shibuya City,Octopus Web Solution Inc,Akile LTD,AS401615 ACCK LLC,156.231.141.37,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,131.186.38.156,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,193.123.166.79,True
+Japan,JP,Osaka,Oracle Corporation,Oracle Cloud Infrastructure (ap-osaka-1),AS31898 Oracle Corporation,138.2.55.219,True
+Japan,JP,Tokyo,OWL,Owl Limited,AS3258 xTom Japan Corporation,45.142.126.16,True
+Japan,JP,Tokyo,VMISS Inc,VMISS Inc,AS400464 VMISS Inc.,38.47.124.159,True
+Japan,JP,Tokyo,Akile LTD,Akile LTD,AS61112 AkileCloud Network,38.207.130.231,True
+Japan,JP,Tokyo,Cyberverse LLC,Cyberverse JP,AS216211 CYBERVERSE LLC,212.135.212.40,True
+Japan,JP,Shibuya City,Octopus Web Solution Inc,Akile LTD,AS401615 ACCK LLC,156.231.141.9,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,138.3.211.22,True
+Japan,JP,Tokyo,Amazon Technologies Inc.,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",3.112.89.102,True
+Japan,JP,Minamishinagawa,"The Constant Company, LLC","Quicksilver Express Courier, Inc.","AS20473 The Constant Company, LLC",198.13.35.197,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,140.83.34.214,True
 Japan,JP,Minamishinagawa,"The Constant Company, LLC","Choopa, LLC","AS20473 The Constant Company, LLC",167.179.110.68,True
