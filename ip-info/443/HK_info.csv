@@ -1,153 +1,153 @@
 country,countryCode,city,isp,org,as,query,valid
-Hong Kong,HK,Kwun Tong,Cogent Communications,VH Global Limited,AS55933 Cloudie Limited,206.237.8.183,True
-Hong Kong,HK,Hong Kong,"Alibaba (US) Technology Co., Ltd.",Alibaba Cloud LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.82.92.52,True
-Hong Kong,HK,Mid Levels,Antbox Networks Limited,Antbox Networks Limited,AS138995 Antbox Networks Limited,103.194.107.166,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.81,True
-Hong Kong,HK,Hong Kong,Bage Cloud LLC,Bage Cloud LLC,AS63150 BAGE CLOUD LLC,103.219.194.43,True
-Hong Kong,HK,Hong Kong,Bage Cloud LLC,Bage Cloud LLC,AS63150 BAGE CLOUD LLC,103.219.193.114,True
-Hong Kong,HK,Mong Kok,Cloudie Limited,XinYuan Interconnect (Hong Kong) Ltd,AS24544 Overcasts Limited,122.10.119.252,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.230,True
-Hong Kong,HK,Hong Kong,VH Global Limited,VH Global Limited,AS932 XNNET LLC,185.106.176.128,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.125,True
-Hong Kong,HK,Mong Kok,Lucidacloud Limited,S G IX,AS139659 LUCIDACLOUD LIMITED,83.229.126.122,True
-Hong Kong,HK,Tai Kok Tsui,LucidaCloud Limited,PacketExchange,AS139659 LUCIDACLOUD LIMITED,68.64.179.199,True
-Hong Kong,HK,Hong Kong,Cogent Communications,PEG TECH INC,AS139659 LUCIDACLOUD LIMITED,38.55.194.204,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.95,True
-Hong Kong,HK,Hong Kong,eServer,Aleksei Fedorov PR Krusevac,AS142113 eServer,176.98.181.71,True
-Hong Kong,HK,Chai Wan,365.partners INC,Adcdata Limited,AS198178 365.partners INC,138.124.111.102,True
-Hong Kong,HK,Hong Kong,VMISS Inc,VMISS Inc,AS932 XNNET LLC,38.207.160.227,True
-Hong Kong,HK,Hong Kong,ZEN,,AS21859 Zenlayer Inc,156.59.124.58,True
-Hong Kong,HK,Hong Kong,Alibaba.com LLC,"IPXO LLC, Zenlayer Inc, Delta Centric LLC","AS45102 Alibaba (US) Technology Co., Ltd.",47.83.226.139,True
-Hong Kong,HK,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,152.32.171.162,True
-Hong Kong,HK,Hong Kong,Akile LTD,Akile LTD,AS61112 AkileCloud Network,38.6.219.4,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.145,True
-Hong Kong,HK,Hong Kong,Bage Cloud LLC,Bage Cloud LLC,AS63150 BAGE CLOUD LLC,103.219.195.184,True
-Hong Kong,HK,Tai Kok Tsui,Lucidacloud Limited,Lucidacloud Limited,AS139659 LUCIDACLOUD LIMITED,103.143.81.122,True
-Hong Kong,HK,Hong Kong,Huawei International Pte. Ltd.,,AS136907 HUAWEI CLOUDS,159.138.138.87,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.55,True
-Hong Kong,HK,Tai Kok Tsui,LucidaCloud Limited,PacketExchange,AS139659 LUCIDACLOUD LIMITED,68.64.179.227,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.237,True
-Hong Kong,HK,Hong Kong,Alibaba Cloud LLC,Alibaba Cloud - HK,"AS45102 Alibaba (US) Technology Co., Ltd.",47.239.4.246,True
-Hong Kong,HK,Hong Kong,Binary Networks Solutions LLC,Binary Networks Solutions LLC,AS21859 Zenlayer Inc,156.239.245.134,True
-Hong Kong,HK,Tsuen Wan,Hytron Network Services Limited,,AS202662 Hytron Network Services,89.185.25.124,True
+Hong Kong,HK,Kwun Tong,VH-GLOBAL,VH Global Limited,AS932 XNNET LLC,43.255.120.58,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.174,True
+Hong Kong,HK,Wan Chai,Techavenue International Ltd,,AS63916 IPTELECOM Global,43.245.198.215,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.185,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.204,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.144,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.201,True
+Hong Kong,HK,Hong Kong,Alibaba.com LLC,Hong Kong,"AS45102 Alibaba (US) Technology Co., Ltd.",8.210.29.68,True
 Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.188,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.133,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.35,True
+Hong Kong,HK,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,152.32.133.246,True
+Hong Kong,HK,Hong Kong,VMISS Inc,VMISS Inc,AS932 XNNET LLC,38.207.160.227,True
+Hong Kong,HK,Central,PCCW IMS Limited,Hong Kong Telecommunications (HKT) Limited,AS4760 HKT Limited,219.76.13.166,True
+Hong Kong,HK,Hong Kong,NetLab Global,NetLab,AS979 NetLab Global,154.21.201.83,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.248,True
+Hong Kong,HK,Hong Kong,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.223.63.189,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.87,True
+Hong Kong,HK,North Point,Hong Kong Broadband Network Ltd,Hong Kong Broadband Network Ltd,AS9269 Hong Kong Broadband Network Ltd.,124.244.50.35,True
+Hong Kong,HK,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),AS8075 Microsoft Corporation,20.205.123.124,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.85,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.155,True
+Hong Kong,HK,Hong Kong,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.57.182.141,True
+Hong Kong,HK,Central,PCCW IMS Limited,Hong Kong Telecommunications (HKT) Limited,AS4760 HKT Limited,219.76.13.181,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.140,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.170,True
+Hong Kong,HK,Hong Kong,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.217.180.234,True
 Hong Kong,HK,Mong Kok,Lucidacloud Limited,Xnnet LLC,AS139659 LUCIDACLOUD LIMITED,38.147.172.154,True
-Hong Kong,HK,Tai Kok Tsui,LucidaCloud Limited,PacketExchange,AS139659 LUCIDACLOUD LIMITED,68.64.179.248,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.253,True
-Hong Kong,HK,Hong Kong,Bage Cloud LLC,Bage Cloud LLC,AS63150 BAGE CLOUD LLC,185.241.41.72,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.147,True
+Hong Kong,HK,Hong Kong,Akile LTD,CLOUD,AS61112 AkileCloud Network,45.207.156.255,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.55,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.54,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.230,True
+Hong Kong,HK,Kwun Tong,Cogent Communications,VH Global Limited,AS55933 Cloudie Limited,206.237.8.183,True
+Hong Kong,HK,Hong Kong,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.79.79.32,True
+Hong Kong,HK,Hong Kong,HostHatch,HostHatch,"AS63473 HostHatch, LLC",188.209.141.74,True
+Hong Kong,HK,Hong Kong,Alibaba Cloud LLC,Alibaba Cloud - HK,"AS45102 Alibaba (US) Technology Co., Ltd.",47.76.146.102,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.115,True
+Hong Kong,HK,Kwun Tong,Cogent Communications,VH Global Limited,AS55933 Cloudie Limited,206.237.17.226,True
+Hong Kong,HK,Tsing Yi,HGC Global Communications Limited,HGC Global Communications Limited,AS9304 HGC Global Communications Limited,118.141.20.85,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.218,True
+Hong Kong,HK,Chai Wan,365.partners INC,Adcdata Limited,AS198178 365.partners INC,138.124.111.102,True
+Hong Kong,HK,Hong Kong,Bage Cloud LLC,Bage Cloud LLC,AS63150 BAGE CLOUD LLC,103.219.195.184,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.57,True
+Hong Kong,HK,Hong Kong,"Alibaba (US) Technology Co., Ltd.",Alibaba Cloud LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.82.92.52,True
+Hong Kong,HK,Hong Kong,Alibaba Cloud LLC,Alibaba Cloud - HK,"AS45102 Alibaba (US) Technology Co., Ltd.",47.76.218.163,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.193,True
+Hong Kong,HK,Tai Kok Tsui,LucidaCloud Limited,PacketExchange,AS139659 LUCIDACLOUD LIMITED,68.64.179.227,True
+Hong Kong,HK,Hong Kong,Bage Cloud LLC,Bage Cloud LLC,AS63150 BAGE CLOUD LLC,103.219.193.145,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.117,True
+Hong Kong,HK,Hong Kong,Binary Networks Solutions LLC,Binary Networks Solutions LLC,AS21859 Zenlayer Inc,156.239.245.134,True
+Hong Kong,HK,Hong Kong,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.223.63.150,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.81,True
+Hong Kong,HK,Central,PCCW IMS Limited,Hong Kong Telecommunications (HKT) Limited,AS4760 HKT Limited,219.76.13.177,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.163,True
+Hong Kong,HK,Tsuen Wan,Hytron Network Services Limited,,AS202662 Hytron Network Services,89.185.25.124,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.235,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.80,True
+Hong Kong,HK,Hong Kong,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.57.181.17,True
+Hong Kong,HK,Hong Kong,Akile LTD,Digital Energy Technologies Limited,AS61112 AkileCloud Network,154.16.10.4,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.110,True
+Hong Kong,HK,Kwai Chung,DMIT Cloud Services,,AS906 DMIT Cloud Services,154.3.33.43,True
+Hong Kong,HK,Hong Kong,xTom Hong Kong Limited,Greencloud LLC,AS9312 xTom,45.128.220.81,True
+Hong Kong,HK,Mid Levels,Antbox Networks Limited,Antbox Networks Limited,AS138995 Antbox Networks Limited,103.194.107.166,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.114,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.125,True
+Hong Kong,HK,Mong Kok,Lucidacloud Limited,S G IX,AS139659 LUCIDACLOUD LIMITED,83.229.125.144,True
+Hong Kong,HK,Hong Kong,Aceville Pte.ltd,,"AS132203 Tencent Building, Kejizhongyi Avenue",43.161.222.233,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.50,True
+Hong Kong,HK,Hong Kong,Aceville Pte.ltd,,"AS132203 Tencent Building, Kejizhongyi Avenue",43.161.254.121,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.177,True
+Hong Kong,HK,Tseung Kwan O,CoreNET Inc.,NetPilot Limited,AS976 CoreNET Inc.,103.118.42.127,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.158,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.35,True
+Hong Kong,HK,Tai Kok Tsui,LucidaCloud Limited,PacketExchange,AS139659 LUCIDACLOUD LIMITED,68.64.179.105,True
+Hong Kong,HK,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,152.32.171.162,True
+Hong Kong,HK,Tai Kok Tsui,LucidaCloud Limited,PacketExchange,AS139659 LUCIDACLOUD LIMITED,68.64.179.148,True
+Hong Kong,HK,Hong Kong,Cogent Communications,PEG TECH INC,AS139659 LUCIDACLOUD LIMITED,38.55.194.138,True
+Hong Kong,HK,Kwai Chung,DMIT Cloud Services,,AS906 DMIT Cloud Services,154.12.177.58,True
+Hong Kong,HK,Hong Kong,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.218.189.27,True
+Hong Kong,HK,Kwun Tong,Cogent Communications,VH Global Limited,AS55933 Cloudie Limited,206.237.17.52,True
+Hong Kong,HK,Tai Kok Tsui,LucidaCloud Limited,PacketExchange,AS139659 LUCIDACLOUD LIMITED,68.64.179.210,True
+Hong Kong,HK,Mong Kok,Cloudie Limited,XinYuan Interconnect (Hong Kong) Ltd,AS24544 Overcasts Limited,122.10.119.252,True
+Hong Kong,HK,Mong Kok,Xnnet LLC,Hongkong Wen Jing Network Limited,AS6134 XNNET LLC,103.244.90.100,True
+Hong Kong,HK,Hong Kong,Bage Cloud LLC,Bage Cloud LLC,AS63150 BAGE CLOUD LLC,103.219.193.114,True
+Hong Kong,HK,Kwai Chung,DMIT Cloud Services,,AS906 DMIT Cloud Services,154.3.37.10,True
+Hong Kong,HK,Kwun Tong,Cogent Communications,VH Global Limited,AS55933 Cloudie Limited,206.237.19.69,True
+Hong Kong,HK,Hong Kong,Ace Data Centers,Evoxt,AS149440 Evoxt Sdn. Bhd.,108.165.255.181,True
+Hong Kong,HK,Hong Kong,VMISS Inc,VMISS Inc,AS967 VMISS Inc.,38.207.174.14,True
+Hong Kong,HK,Central,PCCW IMS Limited,Hong Kong Telecommunications (HKT) Limited,AS4760 HKT Limited,219.76.13.169,True
+Hong Kong,HK,Hong Kong,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,217.60.248.54,True
+Hong Kong,HK,Central,PCCW IMS Limited,Hong Kong Telecommunications (HKT) Limited,AS4760 HKT Limited,219.76.13.183,True
+Hong Kong,HK,Hong Kong,WAP.AC LLC,NetStack Ltd,AS401443 WAP.AC LLC,154.16.183.190,True
+Hong Kong,HK,Mong Kok,SonderCloud Limited,HKdatacenter,AS139659 LUCIDACLOUD LIMITED,103.251.89.111,True
+Hong Kong,HK,Hong Kong,IT7 Networks Inc,IT7 Networks Inc,AS25820 IT7 Networks Inc,45.78.30.24,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.133,True
+Hong Kong,HK,Hong Kong,Akile LTD,Akile LTD,AS61112 AkileCloud Network,38.6.219.4,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.68,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.84,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.207,True
+Hong Kong,HK,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,152.32.172.205,True
+Hong Kong,HK,Hong Kong,Huawei International Pte. Ltd.,,AS136907 HUAWEI CLOUDS,159.138.138.87,True
+Hong Kong,HK,Ha Kwai Chung,Eons Data Communications Limited,Eons Data Communications Limited,AS138997 Eons Data Communications Limited,205.198.66.51,True
+Hong Kong,HK,Hong Kong,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,217.60.248.66,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.8,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.38,True
+Hong Kong,HK,Hong Kong,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.218.22.14,True
 Hong Kong,HK,Hong Kong,Lucidacloud Limited,Junisat - Juniper Solution Limited,AS139659 LUCIDACLOUD LIMITED,83.229.123.227,True
 Hong Kong,HK,Tai Wo Hau,Cogent Communications,Nearoute Limited,AS400464 VMISS Inc.,206.237.120.156,True
-Hong Kong,HK,Hong Kong,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.57.181.17,True
-Hong Kong,HK,Central,PCCW IMS Limited,Hong Kong Telecommunications (HKT) Limited,AS4760 HKT Limited,219.76.13.183,True
-Hong Kong,HK,Kwun Tong,VH-GLOBAL,VH Global Limited,AS932 XNNET LLC,43.255.120.58,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.158,True
-Hong Kong,HK,Hong Kong,HostHatch,HostHatch,"AS63473 HostHatch, LLC",188.209.141.74,True
-Hong Kong,HK,Kwun Tong,Cogent Communications,VH Global Limited,AS55933 Cloudie Limited,206.237.19.69,True
-Hong Kong,HK,Mong Kok,Lucidacloud Limited,VMISS Inc,AS139659 LUCIDACLOUD LIMITED,38.207.177.148,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.51,True
-Hong Kong,HK,Tsuen Wan,Leaseweb Hong Kong Limited,365 Group LLC,AS133752 LEASEWEB HONG KONG LIMITED,205.189.160.29,True
-Hong Kong,HK,Kwun Tong,Cogent Communications,VH Global Limited,AS55933 Cloudie Limited,206.237.17.52,True
-Hong Kong,HK,Hong Kong,Huawei International Pte. Ltd.,,AS136907 HUAWEI CLOUDS,159.138.1.166,True
-Hong Kong,HK,North Point,Hong Kong Broadband Network Ltd,Hong Kong Broadband Network Ltd,AS9269 Hong Kong Broadband Network Ltd.,124.244.50.35,True
-Hong Kong,HK,Kwun Tong,Cogent Communications,VH Global Limited,AS55933 Cloudie Limited,206.237.17.226,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.193,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.54,True
-Hong Kong,HK,Hong Kong,Perfect International,HONGKONG-KARVL,"AS22439 Perfect International, Inc",70.36.96.118,True
-Hong Kong,HK,Hong Kong,Bage Cloud LLC,Bage Cloud LLC,AS63150 BAGE CLOUD LLC,103.219.193.145,True
-Hong Kong,HK,Central,PCCW IMS Limited,Hong Kong Telecommunications (HKT) Limited,AS4760 HKT Limited,219.76.13.181,True
-Hong Kong,HK,Mong Kok,Lucidacloud Limited,S G IX,AS139659 LUCIDACLOUD LIMITED,83.229.125.144,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.110,True
-Hong Kong,HK,Tai Kok Tsui,LucidaCloud Limited,PacketExchange,AS139659 LUCIDACLOUD LIMITED,68.64.179.105,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.163,True
-Hong Kong,HK,Tseung Kwan O,CoreNET Inc.,NetPilot Limited,AS976 CoreNET Inc.,103.118.42.127,True
-Hong Kong,HK,Mong Kok,Xnnet LLC,Hongkong Wen Jing Network Limited,AS6134 XNNET LLC,103.244.90.100,True
-Hong Kong,HK,Hong Kong,xTom Hong Kong Limited,Greencloud LLC,AS9312 xTom,45.128.220.81,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.103,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.207,True
-Hong Kong,HK,Mong Kok,SonderCloud Limited,HKdatacenter,AS139659 LUCIDACLOUD LIMITED,103.251.89.111,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.185,True
-Hong Kong,HK,Hong Kong,Bage Cloud LLC,Bage Cloud LLC,AS63150 BAGE CLOUD LLC,103.219.193.95,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.147,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.235,True
-Hong Kong,HK,Hong Kong,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.223.63.189,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.13,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.57,True
-Hong Kong,HK,Hong Kong,Cogent Communications,PEG TECH INC,AS139659 LUCIDACLOUD LIMITED,38.55.194.87,True
-Hong Kong,HK,Kwai Chung,DMIT Cloud Services,,AS906 DMIT Cloud Services,154.3.33.43,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.248,True
-Hong Kong,HK,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,152.32.133.246,True
-Hong Kong,HK,Hong Kong,M247 Europe SRL,3NT SOLUTIONS LLP,AS9009 M247 Europe SRL,38.180.189.220,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.174,True
-Hong Kong,HK,Hong Kong,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.223.63.150,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.98,True
-Hong Kong,HK,Hong Kong,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.218.189.27,True
-Hong Kong,HK,Hong Kong,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.217.180.234,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.204,True
-Hong Kong,HK,Kwai Chung,DMIT Cloud Services,,AS906 DMIT Cloud Services,154.12.177.58,True
-Hong Kong,HK,Hong Kong,IT7 Networks Inc,IT7 Networks Inc,AS25820 IT7 Networks Inc,45.78.30.24,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.231,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.115,True
-Hong Kong,HK,Tai Kok Tsui,LucidaCloud Limited,PacketExchange,AS139659 LUCIDACLOUD LIMITED,68.64.179.148,True
-Hong Kong,HK,Tai Kok Tsui,LucidaCloud Limited,PacketExchange,AS139659 LUCIDACLOUD LIMITED,68.64.179.210,True
-Hong Kong,HK,Hong Kong,Alibaba Cloud LLC,Alibaba Cloud - HK,"AS45102 Alibaba (US) Technology Co., Ltd.",47.76.146.102,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.140,True
-Hong Kong,HK,Kwai Chung,DMIT Cloud Services,,AS906 DMIT Cloud Services,154.3.37.10,True
-Hong Kong,HK,Hong Kong,Akile LTD,CLOUD,AS61112 AkileCloud Network,45.207.156.255,True
-Hong Kong,HK,Hong Kong,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",43.103.6.144,True
-Hong Kong,HK,Hong Kong,Akile LTD,Digital Energy Technologies Limited,AS61112 AkileCloud Network,154.16.10.4,True
-Hong Kong,HK,Ha Kwai Chung,Eons Data Communications Limited,Eons Data Communications Limited,AS138997 Eons Data Communications Limited,205.198.66.51,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.117,True
-Hong Kong,HK,Central,PCCW IMS Limited,Hong Kong Telecommunications (HKT) Limited,AS4760 HKT Limited,219.76.13.167,True
-Hong Kong,HK,Hong Kong,Cogent Communications,PEG TECH INC,AS139659 LUCIDACLOUD LIMITED,38.55.194.138,True
-Hong Kong,HK,Hong Kong,HostUS Solutions LLC,HK Dingdian Network Limited,AS150452 LANDUPS LIMITED,103.192.179.132,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.218,True
-Hong Kong,HK,Hong Kong,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,217.60.248.54,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.205,True
-Hong Kong,HK,Hong Kong,CGI GLOBAL LIMITED,EGIHosting,AS56971 AS56971 Cloud,45.38.42.20,True
-Hong Kong,HK,Hong Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,152.32.172.205,True
-Hong Kong,HK,Hong Kong,Cogent Communications,PEG TECH INC,AS139659 LUCIDACLOUD LIMITED,38.55.198.29,True
-Hong Kong,HK,Hong Kong,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.218.22.14,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.114,True
-Hong Kong,HK,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),AS8075 Microsoft Corporation,104.208.106.181,True
-Hong Kong,HK,Hong Kong,CGI GLOBAL LIMITED,CGI GLOBAL LIMITED,AS56971 AS56971 Cloud,217.60.248.66,True
+Hong Kong,HK,Hong Kong,Alibaba Cloud LLC,Alibaba Cloud - HK,"AS45102 Alibaba (US) Technology Co., Ltd.",47.239.4.246,True
 Hong Kong,HK,Hong Kong,Akile LTD,Akile LTD,AS61112 AkileCloud Network,141.11.90.246,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.144,True
-Hong Kong,HK,Hong Kong,WAP.AC LLC,NetStack Ltd,AS401443 WAP.AC LLC,154.16.183.190,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.170,True
-Hong Kong,HK,Hong Kong,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.79.79.32,True
-Hong Kong,HK,Hong Kong,Aceville Pte.ltd,,"AS132203 Tencent Building, Kejizhongyi Avenue",43.161.254.121,True
-Hong Kong,HK,Hong Kong,Google LLC,Google Cloud (asia-east2),AS396982 Google LLC,34.92.187.216,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.80,True
-Hong Kong,HK,Tseung Kwan O,CoreNET Inc.,NetPilot Limited,AS976 CoreNET Inc.,103.118.42.111,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.200,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.155,True
-Hong Kong,HK,Central,PCCW IMS Limited,Hong Kong Telecommunications (HKT) Limited,AS4760 HKT Limited,219.76.13.169,True
-Hong Kong,HK,Hong Kong,VMISS Inc,VMISS Inc,AS967 VMISS Inc.,38.207.174.14,True
-Hong Kong,HK,Hong Kong,Ace Data Centers,Evoxt,AS149440 Evoxt Sdn. Bhd.,108.165.255.181,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.84,True
-Hong Kong,HK,Hong Kong,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.57.182.141,True
-Hong Kong,HK,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),AS8075 Microsoft Corporation,20.205.123.124,True
-Hong Kong,HK,Hong Kong,Aceville Pte.ltd,,"AS132203 Tencent Building, Kejizhongyi Avenue",43.161.222.233,True
-Hong Kong,HK,Central,PCCW IMS Limited,Hong Kong Telecommunications (HKT) Limited,AS4760 HKT Limited,219.76.13.177,True
-Hong Kong,HK,Tsing Yi,HGC Global Communications Limited,HGC Global Communications Limited,AS9304 HGC Global Communications Limited,118.141.20.85,True
-Hong Kong,HK,Hong Kong,Alibaba Cloud LLC,Alibaba Cloud - HK,"AS45102 Alibaba (US) Technology Co., Ltd.",47.76.218.163,True
-Hong Kong,HK,Hong Kong,CGI GLOBAL LIMITED,Adcdata Limited,AS56971 AS56971 Cloud,217.60.38.213,True
-Hong Kong,HK,Hong Kong,NetLab Global,NetLab,AS979 NetLab Global,154.21.201.83,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.38,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.68,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.87,True
-Hong Kong,HK,Hong Kong,NetLab Global,NetLab Global,AS979 NetLab Global,154.44.27.15,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.201,True
-Hong Kong,HK,Hong Kong,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,212.192.15.182,True
-Hong Kong,HK,Mong Kok,Cloudie Limited,Cloudie Limited,AS55933 Cloudie Limited,123.254.106.203,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.8,True
-Hong Kong,HK,Hong Kong,Bage Cloud LLC,Bage Cloud LLC,AS63150 BAGE CLOUD LLC,103.219.193.123,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.85,True
-Hong Kong,HK,Hong Kong,Alibaba.com LLC,Hong Kong,"AS45102 Alibaba (US) Technology Co., Ltd.",8.210.29.68,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.50,True
+Hong Kong,HK,Mong Kok,Lucidacloud Limited,S G IX,AS139659 LUCIDACLOUD LIMITED,83.229.126.122,True
 Hong Kong,HK,Hong Kong,"Hong Kong Communications International Co., Limited","Hong Kong Communications International Co., Limited","AS140227 Hong Kong Communications International Co., Limited",154.38.116.8,True
-Hong Kong,HK,Central,PCCW IMS Limited,Hong Kong Telecommunications (HKT) Limited,AS4760 HKT Limited,219.76.13.166,True
-Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.177,True
-Hong Kong,HK,Wan Chai,Techavenue International Ltd,,AS63916 IPTELECOM Global,43.245.198.215,True
+Hong Kong,HK,Hong Kong,CGI GLOBAL LIMITED,Adcdata Limited,AS56971 AS56971 Cloud,217.60.38.213,True
+Hong Kong,HK,Hong Kong,Bage Cloud LLC,Bage Cloud LLC,AS63150 BAGE CLOUD LLC,103.219.193.123,True
+Hong Kong,HK,Hong Kong,Cogent Communications,PEG TECH INC,AS139659 LUCIDACLOUD LIMITED,38.55.194.87,True
+Hong Kong,HK,Hong Kong,Bage Cloud LLC,Bage Cloud LLC,AS63150 BAGE CLOUD LLC,185.241.41.72,True
+Hong Kong,HK,Hong Kong,HostUS Solutions LLC,HK Dingdian Network Limited,AS150452 LANDUPS LIMITED,103.192.179.132,True
+Hong Kong,HK,Hong Kong,Huawei International Pte. Ltd.,,AS136907 HUAWEI CLOUDS,159.138.1.166,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.95,True
+Hong Kong,HK,Hong Kong,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",43.103.6.144,True
+Hong Kong,HK,Hong Kong,Google LLC,Google Cloud (asia-east2),AS396982 Google LLC,34.92.187.216,True
+Hong Kong,HK,Mong Kok,Lucidacloud Limited,VMISS Inc,AS139659 LUCIDACLOUD LIMITED,38.207.177.148,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.205,True
+Hong Kong,HK,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),AS8075 Microsoft Corporation,104.208.106.181,True
+Hong Kong,HK,Hong Kong,Cogent Communications,PEG TECH INC,AS139659 LUCIDACLOUD LIMITED,38.55.194.204,True
+Hong Kong,HK,Tsuen Wan,Leaseweb Hong Kong Limited,365 Group LLC,AS133752 LEASEWEB HONG KONG LIMITED,205.189.160.29,True
+Hong Kong,HK,Hong Kong,CGI GLOBAL LIMITED,EGIHosting,AS56971 AS56971 Cloud,45.38.42.20,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.237,True
+Hong Kong,HK,Mong Kok,Cloudie Limited,Cloudie Limited,AS55933 Cloudie Limited,123.254.106.203,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.253,True
+Hong Kong,HK,Hong Kong,Alibaba.com LLC,"IPXO LLC, Zenlayer Inc, Delta Centric LLC","AS45102 Alibaba (US) Technology Co., Ltd.",47.83.226.139,True
+Hong Kong,HK,Tai Kok Tsui,LucidaCloud Limited,PacketExchange,AS139659 LUCIDACLOUD LIMITED,68.64.179.199,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.51,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.231,True
+Hong Kong,HK,Central,PCCW IMS Limited,Hong Kong Telecommunications (HKT) Limited,AS4760 HKT Limited,219.76.13.167,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.200,True
+Hong Kong,HK,Hong Kong,VH Global Limited,VH Global Limited,AS932 XNNET LLC,185.106.176.128,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.13,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.145,True
+Hong Kong,HK,Hong Kong,eServer,Aleksei Fedorov PR Krusevac,AS142113 eServer,176.98.181.71,True
+Hong Kong,HK,Hong Kong,Bage Cloud LLC,Bage Cloud LLC,AS63150 BAGE CLOUD LLC,103.219.193.95,True
+Hong Kong,HK,Hong Kong,Bage Cloud LLC,Bage Cloud LLC,AS63150 BAGE CLOUD LLC,103.219.194.43,True
+Hong Kong,HK,Hong Kong,Cogent Communications,PEG TECH INC,AS139659 LUCIDACLOUD LIMITED,38.55.198.29,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.103,True
+Hong Kong,HK,Hong Kong,Private Customer,,,31.57.155.98,True
+Hong Kong,HK,Hong Kong,NetLab Global,NetLab Global,AS979 NetLab Global,154.44.27.15,True
+Hong Kong,HK,Hong Kong,ZEN,,AS21859 Zenlayer Inc,156.59.124.58,True
+Hong Kong,HK,Tai Kok Tsui,Lucidacloud Limited,Lucidacloud Limited,AS139659 LUCIDACLOUD LIMITED,103.143.81.122,True
+Hong Kong,HK,Hong Kong,Perfect International,HONGKONG-KARVL,"AS22439 Perfect International, Inc",70.36.96.118,True
+Hong Kong,HK,Tseung Kwan O,CoreNET Inc.,NetPilot Limited,AS976 CoreNET Inc.,103.118.42.111,True
+Hong Kong,HK,Hong Kong,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,212.192.15.182,True
+Hong Kong,HK,Tai Kok Tsui,LucidaCloud Limited,PacketExchange,AS139659 LUCIDACLOUD LIMITED,68.64.179.248,True
+Hong Kong,HK,Hong Kong,M247 Europe SRL,3NT SOLUTIONS LLP,AS9009 M247 Europe SRL,38.180.189.220,True
