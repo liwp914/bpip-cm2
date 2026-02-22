@@ -1,5 +1,4 @@
 country,countryCode,city,isp,org,as,query,valid
 Canada,CA,Montreal,OVH SAS,"OVH Hosting, Inc.",AS16276 OVH SAS,158.69.201.4,True
 Canada,CA,Beauharnois,OVH SAS,"OVH Hosting, Inc.",AS16276 OVH SAS,192.99.55.53,True
-Canada,CA,Toronto,Amazon Technologies Inc.,AWS EC2 (ca-central-1),"AS16509 Amazon.com, Inc.",35.183.216.163,True
 Canada,CA,Toronto,HostPapa,,AS36352 HostPapa,167.160.188.181,True

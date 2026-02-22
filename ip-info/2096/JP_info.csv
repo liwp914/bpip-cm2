@@ -1,3 +1,2 @@
 country,countryCode,city,isp,org,as,query,valid
 Japan,JP,Tokyo,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue",43.153.132.115,True
-Japan,JP,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.216.5.125,True

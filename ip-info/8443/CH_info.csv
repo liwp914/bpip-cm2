@@ -1,20 +1,20 @@
 country,countryCode,city,isp,org,as,query,valid
-Switzerland,CH,Geneva,Infomaniak Network SA,"Noop, LLC",AS29222 Infomaniak Network SA,84.234.17.132,True
-Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.193.177,True
-Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.193.229,True
-Switzerland,CH,Les Acacias,Infomaniak Network Management,Infomaniak Network SA,AS29222 Infomaniak Network SA,37.156.45.134,True
-Switzerland,CH,Geneva,Green Floid LLC,Friendhosting LTD,AS204957 GREEN FLOID LLC,91.90.193.54,True
-Switzerland,CH,Bern,RouterHosting LLC,anyNode,AS14956 RouterHosting LLC,45.59.125.125,True
-Switzerland,CH,Geneva,Infomaniak Network SA,"Noop, LLC",AS29222 Infomaniak Network SA,84.234.16.169,True
 Switzerland,CH,Bern,RouterHosting LLC,anyNode,AS14956 RouterHosting LLC,45.59.114.66,True
-Switzerland,CH,Bern,RouterHosting LLC,anyNode,AS14956 RouterHosting LLC,45.59.113.66,True
-Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.198.53,True
-Switzerland,CH,Hünenberg,FORNEX,Fornex Hosting S.L.,AS51395 Datasource AG,79.132.141.165,True
-Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.193.162,True
-Switzerland,CH,Bern,Private Layer INC,3NT SOLUTIONS LLP,AS51852 Private Layer INC,38.180.84.25,True
-Switzerland,CH,Zurich,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,45.95.232.18,True
-Switzerland,CH,Zurich,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,171.22.16.42,True
-Switzerland,CH,Bern,RouterHosting LLC,anyNode,AS14956 RouterHosting LLC,45.59.117.238,True
 Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.193.188,True
-Switzerland,CH,Zurich,Datasource AG,,AS51395 Datasource AG,91.192.102.170,True
+Switzerland,CH,Bern,RouterHosting LLC,anyNode,AS14956 RouterHosting LLC,45.59.125.125,True
+Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.193.229,True
 Switzerland,CH,Utzenstorf,Solar Communications GmbH,Solar Communications GmbH,AS197988 Solar Communications GmbH,95.183.51.10,True
+Switzerland,CH,Geneva,Infomaniak Network SA,"Noop, LLC",AS29222 Infomaniak Network SA,84.234.16.169,True
+Switzerland,CH,Hünenberg,FORNEX,Fornex Hosting S.L.,AS51395 Datasource AG,79.132.141.165,True
+Switzerland,CH,Bern,RouterHosting LLC,anyNode,AS14956 RouterHosting LLC,45.59.113.66,True
+Switzerland,CH,Zurich,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,171.22.16.42,True
+Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.198.53,True
+Switzerland,CH,Bern,Private Layer INC,3NT SOLUTIONS LLP,AS51852 Private Layer INC,38.180.84.25,True
+Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.193.177,True
+Switzerland,CH,Geneva,Green Floid LLC,Friendhosting LTD,AS204957 GREEN FLOID LLC,91.90.193.54,True
+Switzerland,CH,Bern,RouterHosting LLC,anyNode,AS14956 RouterHosting LLC,45.59.117.238,True
+Switzerland,CH,Geneva,Infomaniak Network SA,"Noop, LLC",AS29222 Infomaniak Network SA,84.234.17.132,True
+Switzerland,CH,Les Acacias,Infomaniak Network Management,Infomaniak Network SA,AS29222 Infomaniak Network SA,37.156.45.134,True
+Switzerland,CH,Zurich,Datasource AG,,AS51395 Datasource AG,91.192.102.170,True
+Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.193.162,True
+Switzerland,CH,Zurich,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,45.95.232.18,True

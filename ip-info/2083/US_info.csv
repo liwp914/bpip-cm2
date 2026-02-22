@@ -1,24 +1,26 @@
 country,countryCode,city,isp,org,as,query,valid
-United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",206.189.214.99,True
-United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.245.178.181,True
+United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.22.130.178,True
+United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.118.179,True
+United States,US,New York,M247 Europe,M247 LTD,AS9009 M247 Europe SRL,146.70.41.134,True
 United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.245.181.20,True
-United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",206.189.210.83,True
-United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",138.68.1.18,True
-United States,US,Los Angeles,DMIT Cloud Services,VoloNet Technologies,AS906 DMIT Cloud Services,69.63.206.49,True
-United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.227.26.242,True
-United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",64.227.62.172,True
-United States,US,Dallas,FORNEX,Fornex Hosting S.L.,AS62904 Eonix Corporation,31.172.79.138,True
-United States,US,Los Angeles,Multacom Corporation,TELUS Communications Inc,AS35916 MULTACOM CORPORATION,142.171.204.194,True
+United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.245.182.9,True
 United States,US,Santa Clara,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.67.112,True
+United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.227.26.242,True
+United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",206.189.210.83,True
+United States,US,Santa Clara,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",143.110.133.216,True
+United States,US,Los Angeles,Multacom Corporation,TELUS Communications Inc,AS35916 MULTACOM CORPORATION,142.171.204.194,True
+United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.232.54.102,True
+United States,US,Santa Clara,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.70.6,True
+United States,US,Los Angeles,DMIT Cloud Services,DMIT Cloud Services,AS906 DMIT Cloud Services,69.63.221.7,True
+United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",138.68.1.18,True
+United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",64.225.121.21,True
 United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.230.140.153,True
+United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",64.227.62.172,True
+United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",206.189.214.99,True
+United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",104.248.208.69,True
+United States,US,Dallas,FORNEX,Fornex Hosting S.L.,AS62904 Eonix Corporation,31.172.79.138,True
+United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",104.248.68.179,True
+United States,US,Los Angeles,DMIT Cloud Services,VoloNet Technologies,AS906 DMIT Cloud Services,69.63.206.49,True
+United States,US,Santa Clara,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",138.197.194.78,True
 United States,US,Santa Clara,GTHost,GTHost,AS63023 GTHost,216.106.185.252,True
 United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.227.60.231,True
-United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",64.225.121.21,True
-United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.245.182.9,True
-United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.232.54.102,True
-United States,US,Santa Clara,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",138.197.194.78,True
-United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.118.179,True
-United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",104.248.208.69,True
-United States,US,Los Angeles,DMIT Cloud Services,DMIT Cloud Services,AS906 DMIT Cloud Services,69.63.221.7,True
-United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",104.248.68.179,True
-United States,US,Santa Clara,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.22.130.178,True
