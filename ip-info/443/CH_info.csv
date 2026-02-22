@@ -1,87 +1,87 @@
 country,countryCode,city,isp,org,as,query,valid
-Switzerland,CH,Rümlang,Alexhost SRL,Alexhost SRL,AS200019 ALEXHOST SRL,45.155.53.108,True
-Switzerland,CH,Bern,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,94.131.12.56,True
-Switzerland,CH,Bern,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,94.131.12.15,True
-Switzerland,CH,Geneva,Serva ONE LTD,Serva ONE LTD,AS199058 SERVA ONE LTD,45.85.93.83,True
-Switzerland,CH,Bern,Big Data Host LLC,GLB Bulut Teknolojisi Limited Sirketi,AS215346 Big Data Host LLC,91.245.225.17,True
-Switzerland,CH,Geneva,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,194.87.18.92,True
-Switzerland,CH,Pully,CH.VTX LIR Range,VTX Services SA,AS29222 Infomaniak Network SA,83.228.222.61,True
 Switzerland,CH,Geneva,Green Floid LLC,Friendhosting LTD,AS204957 GREEN FLOID LLC,91.90.193.54,True
-Switzerland,CH,Zurich,Grupo Panaglobal 15 S.A,SwissLayer LLC,AS264617 GRUPO PANAGLOBAL 15 S.A,185.191.239.21,True
-Switzerland,CH,Geneva,Green Floid LLC,Green Floid LLC,AS204957 GREEN FLOID LLC,45.90.59.186,True
-Switzerland,CH,Zurich,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,167.17.181.45,True
-Switzerland,CH,Zurich,Grupo Panaglobal 15 S.A,SwissLayer LLC,AS264617 GRUPO PANAGLOBAL 15 S.A,185.191.239.74,True
-Switzerland,CH,Bern,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,94.131.3.4,True
-Switzerland,CH,Zurich,Oracle Corporation,Oracle Cloud Infrastructure (eu-zurich-1),AS31898 Oracle Corporation,140.238.208.210,True
-Switzerland,CH,Zurich,Datasource AG,,AS51395 Datasource AG,91.192.102.55,True
-Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,193.108.54.86,True
-Switzerland,CH,Bern,Private Layer INC,3NT SOLUTIONS LLP,AS51852 Private Layer INC,38.180.84.46,True
-Switzerland,CH,Geneva,Infomaniak Network SA,"Noop, LLC",AS29222 Infomaniak Network SA,84.234.17.132,True
-Switzerland,CH,Geneva,Green Floid LLC,Friendhosting LTD,AS204957 GREEN FLOID LLC,185.237.225.47,True
-Switzerland,CH,Rümlang,Alexhost SRL,Alexhost SRL,AS200019 ALEXHOST SRL,45.155.53.241,True
-Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.207.179,True
 Switzerland,CH,Zurich,Oracle Corporation,Oracle Cloud Infrastructure (eu-zurich-1),AS31898 Oracle Corporation,152.67.74.84,True
-Switzerland,CH,Bern,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,45.82.254.206,True
-Switzerland,CH,Zurich,Private Layer INC,3NT SOLUTIONS LLP,AS51852 Private Layer INC,38.244.145.131,True
-Switzerland,CH,Geneva,Infomaniak Network SA,"Noop, LLC",AS29222 Infomaniak Network SA,84.234.16.169,True
-Switzerland,CH,Zurich,Private Layer INC,3NT SOLUTIONS LLP,AS51852 Private Layer INC,38.180.162.104,True
-Switzerland,CH,Zurich,HostHatch,HostHatch,"AS63473 HostHatch, LLC",103.63.30.230,True
-Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.227.200,True
-Switzerland,CH,Zurich,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,87.120.222.199,True
-Switzerland,CH,Zurich,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,194.156.102.142,True
-Switzerland,CH,Zurich,Big Data Host LLC,GLB Bulut Teknolojisi Limited Sirketi,AS215346 Big Data Host LLC,194.135.22.181,True
-Switzerland,CH,Zurich,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,171.22.16.231,True
-Switzerland,CH,Geneva,Serva ONE LTD,Serva ONE LTD,AS199058 SERVA ONE LTD,45.85.93.21,True
-Switzerland,CH,Zurich,Private Layer INC,3NT SOLUTIONS LLP,AS51852 Private Layer INC,38.180.161.32,True
-Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.193.188,True
-Switzerland,CH,Zurich,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,45.143.200.135,True
-Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.198.53,True
-Switzerland,CH,Zurich,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,87.120.222.207,True
-Switzerland,CH,Zurich,Grupo Panaglobal 15 S.A,SwissLayer LLC,AS264617 GRUPO PANAGLOBAL 15 S.A,185.191.239.16,True
-Switzerland,CH,Geneva,Green Floid LLC,Friendhosting LTD,AS204957 GREEN FLOID LLC,91.90.193.138,True
-Switzerland,CH,Geneva,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,194.87.178.222,True
-Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.193.108,True
-Switzerland,CH,Zurich,OVH SAS,OVH CH,AS16276 OVH SAS,141.227.139.220,True
-Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.193.162,True
-Switzerland,CH,Zurich,Oracle Corporation,Oracle Cloud Infrastructure (eu-zurich-1),AS31898 Oracle Corporation,152.67.84.47,True
-Switzerland,CH,Hünenberg,Datasource AG,servinga GmbH,AS51395 Datasource AG,94.247.42.250,True
-Switzerland,CH,Hünenberg,FORNEX,Fornex Hosting S.L.,AS51395 Datasource AG,79.132.141.152,True
-Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.193.177,True
-Switzerland,CH,Bern,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,5.182.36.223,True
-Switzerland,CH,Zurich,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,167.17.181.190,True
-Switzerland,CH,Geneva,Serva ONE LTD,Serva ONE LTD,AS199058 SERVA ONE LTD,45.85.93.96,True
-Switzerland,CH,Zurich,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,45.143.200.19,True
-Switzerland,CH,Zurich,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,167.17.183.134,True
-Switzerland,CH,Bern,Datasource AG,Servinga6869,AS51395 Datasource AG,185.195.69.173,True
-Switzerland,CH,Zurich,Oracle Corporation,Oracle Cloud Infrastructure (eu-zurich-1),AS31898 Oracle Corporation,152.67.64.55,True
 Switzerland,CH,Hünenberg,FORNEX,Fornex Hosting S.L.,AS51395 Datasource AG,199.68.196.28,True
-Switzerland,CH,Bern,Private Layer INC,3NT SOLUTIONS LLP,AS51852 Private Layer INC,38.180.85.203,True
-Switzerland,CH,Zurich,HostHatch,HostHatch,"AS63473 HostHatch, LLC",103.63.30.73,True
-Switzerland,CH,Zurich,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,45.95.232.241,True
-Switzerland,CH,Zurich,Private Layer INC,3NT SOLUTIONS LLP,AS51852 Private Layer INC,38.244.145.50,True
-Switzerland,CH,Bern,Private Layer INC,3NT SOLUTIONS LLP,AS51852 Private Layer INC,38.180.84.86,True
-Switzerland,CH,Bern,Big Data Host LLC,GLB Bulut Teknolojisi Limited Sirketi,AS215346 Big Data Host LLC,91.245.225.69,True
-Switzerland,CH,Zurich,Oracle Corporation,Oracle Cloud Infrastructure (eu-zurich-1),AS31898 Oracle Corporation,140.238.209.8,True
-Switzerland,CH,Bern,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,5.182.36.39,True
-Switzerland,CH,Geneva,Green Floid LLC,Friendhosting LTD,AS204957 GREEN FLOID LLC,91.90.193.19,True
-Switzerland,CH,Bern,Datasource AG,Servinga6869,AS51395 Datasource AG,185.195.69.72,True
-Switzerland,CH,Bern,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,45.148.102.70,True
-Switzerland,CH,Geneva,Green Floid LLC,Friendhosting LTD,AS204957 GREEN FLOID LLC,91.90.193.24,True
-Switzerland,CH,Geneva,Infomaniak Network SA,"Noop, LLC",AS29222 Infomaniak Network SA,84.234.17.85,True
-Switzerland,CH,Hünenberg,Datasource AG,Servinga,AS51395 Datasource AG,176.10.125.114,True
-Switzerland,CH,Wetzikon,Geronimo Ramirez Computer Network,Fidel Ernesto Geronimo Ramirez trading as Geronimo Ramirez Computer Network,AS264617 GRUPO PANAGLOBAL 15 S.A,185.191.239.218,True
-Switzerland,CH,Rümlang,Alexhost SRL,Alexhost SRL,AS200019 ALEXHOST SRL,2.59.219.72,True
-Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.193.229,True
-Switzerland,CH,Zurich,M247 Europe Infra,M247 LTD,AS9009 M247 Europe SRL,146.70.71.157,True
-Switzerland,CH,Geneva,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,194.87.18.44,True
-Switzerland,CH,Zurich,GTHost,GTHost,AS63023 GTHost,134.195.199.71,True
-Switzerland,CH,Geneva,Serva ONE LTD,Serva ONE LTD,AS199058 SERVA ONE LTD,45.85.93.59,True
-Switzerland,CH,Zurich,Private Layer INC,3NT SOLUTIONS LLP,AS51852 Private Layer INC,38.244.144.150,True
-Switzerland,CH,Geneva,Green Floid LLC,Friendhosting LTD,AS204957 GREEN FLOID LLC,91.90.193.159,True
+Switzerland,CH,Bern,Datasource AG,Servinga6869,AS51395 Datasource AG,185.195.69.173,True
+Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.193.162,True
+Switzerland,CH,Bern,Private Layer INC,3NT SOLUTIONS LLP,AS51852 Private Layer INC,38.180.84.46,True
 Switzerland,CH,Bern,Big Data Host LLC,GLB Bulut Teknolojisi Limited Sirketi,AS215346 Big Data Host LLC,91.245.225.28,True
-Switzerland,CH,Geneva,Green Floid LLC,Friendhosting LTD,AS204957 GREEN FLOID LLC,80.68.159.75,True
-Switzerland,CH,Zurich,Oracle Corporation,Oracle Cloud Infrastructure (eu-zurich-1),AS31898 Oracle Corporation,152.67.85.239,True
+Switzerland,CH,Geneva,Serva ONE LTD,Serva ONE LTD,AS199058 SERVA ONE LTD,45.85.93.83,True
+Switzerland,CH,Bern,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,5.182.36.39,True
+Switzerland,CH,Hünenberg,Datasource AG,Servinga,AS51395 Datasource AG,176.10.125.114,True
+Switzerland,CH,Geneva,Infomaniak Network SA,"Noop, LLC",AS29222 Infomaniak Network SA,84.234.17.132,True
+Switzerland,CH,Zurich,Grupo Panaglobal 15 S.A,SwissLayer LLC,AS264617 GRUPO PANAGLOBAL 15 S.A,185.191.239.16,True
+Switzerland,CH,Zurich,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,167.17.181.45,True
+Switzerland,CH,Zurich,Oracle Corporation,Oracle Cloud Infrastructure (eu-zurich-1),AS31898 Oracle Corporation,140.238.209.8,True
+Switzerland,CH,Zurich,HostHatch,HostHatch,"AS63473 HostHatch, LLC",103.63.30.73,True
+Switzerland,CH,Zurich,M247 Europe Infra,M247 LTD,AS9009 M247 Europe SRL,146.70.71.157,True
+Switzerland,CH,Geneva,Serva ONE LTD,Serva ONE LTD,AS199058 SERVA ONE LTD,45.85.93.96,True
+Switzerland,CH,Geneva,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,194.87.178.222,True
 Switzerland,CH,Geneva,Green Floid LLC,Green Floid LLC,AS204957 GREEN FLOID LLC,45.90.57.135,True
-Switzerland,CH,Rümlang,Alexhost SRL,Alexhost SRL,AS200019 ALEXHOST SRL,2.59.219.226,True
+Switzerland,CH,Bern,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,94.131.3.4,True
 Switzerland,CH,Zurich,EDIS GmbH,EDIS GmbH,AS57169 EDIS GmbH,151.236.27.200,True
+Switzerland,CH,Zurich,Datasource AG,,AS51395 Datasource AG,91.192.102.112,True
+Switzerland,CH,Zurich,Private Layer INC,3NT SOLUTIONS LLP,AS51852 Private Layer INC,38.180.162.104,True
+Switzerland,CH,Geneva,Green Floid LLC,Friendhosting LTD,AS204957 GREEN FLOID LLC,91.90.193.19,True
+Switzerland,CH,Zurich,Datasource AG,,AS51395 Datasource AG,91.192.102.55,True
+Switzerland,CH,Bern,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,5.182.36.223,True
+Switzerland,CH,Zurich,OVH SAS,OVH CH,AS16276 OVH SAS,141.227.139.220,True
+Switzerland,CH,Zurich,Oracle Corporation,Oracle Cloud Infrastructure (eu-zurich-1),AS31898 Oracle Corporation,140.238.208.12,True
+Switzerland,CH,Bern,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,45.82.254.206,True
+Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.193.188,True
+Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.193.177,True
+Switzerland,CH,Geneva,Serva ONE LTD,Serva ONE LTD,AS199058 SERVA ONE LTD,45.85.93.21,True
+Switzerland,CH,Zurich,Private Layer INC,3NT SOLUTIONS LLP,AS51852 Private Layer INC,38.244.145.50,True
+Switzerland,CH,Zurich,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,194.156.102.142,True
+Switzerland,CH,Wetzikon,Geronimo Ramirez Computer Network,Fidel Ernesto Geronimo Ramirez trading as Geronimo Ramirez Computer Network,AS264617 GRUPO PANAGLOBAL 15 S.A,185.191.239.218,True
+Switzerland,CH,Geneva,Green Floid LLC,Friendhosting LTD,AS204957 GREEN FLOID LLC,91.90.193.159,True
+Switzerland,CH,Geneva,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,194.87.18.92,True
+Switzerland,CH,Zurich,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,45.143.200.135,True
+Switzerland,CH,Zurich,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,171.22.16.231,True
+Switzerland,CH,Geneva,Green Floid LLC,Friendhosting LTD,AS204957 GREEN FLOID LLC,91.90.193.138,True
+Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.193.108,True
+Switzerland,CH,Bern,Datasource AG,Servinga6869,AS51395 Datasource AG,185.195.69.72,True
+Switzerland,CH,Zurich,Private Layer INC,3NT SOLUTIONS LLP,AS51852 Private Layer INC,38.244.144.150,True
+Switzerland,CH,Bern,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,45.148.102.70,True
+Switzerland,CH,Zurich,Grupo Panaglobal 15 S.A,SwissLayer LLC,AS264617 GRUPO PANAGLOBAL 15 S.A,185.191.239.21,True
+Switzerland,CH,Zurich,Oracle Corporation,Oracle Cloud Infrastructure (eu-zurich-1),AS31898 Oracle Corporation,152.67.85.239,True
+Switzerland,CH,Hünenberg,FORNEX,Fornex Hosting S.L.,AS51395 Datasource AG,79.132.141.152,True
+Switzerland,CH,Zurich,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,87.120.222.207,True
+Switzerland,CH,Bern,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,94.131.12.15,True
+Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.207.179,True
+Switzerland,CH,Zurich,Oracle Corporation,Oracle Cloud Infrastructure (eu-zurich-1),AS31898 Oracle Corporation,140.238.208.210,True
+Switzerland,CH,Bern,Private Layer INC,3NT SOLUTIONS LLP,AS51852 Private Layer INC,38.180.84.86,True
 Switzerland,CH,Bern,RouterHosting LLC,anyNode,AS14956 RouterHosting LLC,45.59.114.151,True
+Switzerland,CH,Zurich,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,167.17.181.190,True
+Switzerland,CH,Zurich,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,167.17.183.134,True
+Switzerland,CH,Zurich,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,87.120.222.199,True
+Switzerland,CH,Bern,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,94.131.12.56,True
+Switzerland,CH,Zurich,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,45.95.232.241,True
+Switzerland,CH,Geneva,Green Floid LLC,Friendhosting LTD,AS204957 GREEN FLOID LLC,185.237.225.47,True
+Switzerland,CH,Bern,Private Layer INC,3NT SOLUTIONS LLP,AS51852 Private Layer INC,38.180.85.203,True
+Switzerland,CH,Zurich,Private Layer INC,3NT SOLUTIONS LLP,AS51852 Private Layer INC,38.180.161.32,True
+Switzerland,CH,Hünenberg,Datasource AG,servinga GmbH,AS51395 Datasource AG,94.247.42.250,True
+Switzerland,CH,Zurich,Big Data Host LLC,GLB Bulut Teknolojisi Limited Sirketi,AS215346 Big Data Host LLC,194.135.22.181,True
+Switzerland,CH,Rümlang,Alexhost SRL,Alexhost SRL,AS200019 ALEXHOST SRL,2.59.219.72,True
+Switzerland,CH,Geneva,Infomaniak Network SA,"Noop, LLC",AS29222 Infomaniak Network SA,84.234.17.85,True
+Switzerland,CH,Zurich,Grupo Panaglobal 15 S.A,SwissLayer LLC,AS264617 GRUPO PANAGLOBAL 15 S.A,185.191.239.74,True
+Switzerland,CH,Geneva,Green Floid LLC,Friendhosting LTD,AS204957 GREEN FLOID LLC,80.68.159.75,True
+Switzerland,CH,Rümlang,Alexhost SRL,Alexhost SRL,AS200019 ALEXHOST SRL,45.155.53.241,True
+Switzerland,CH,Geneva,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,194.87.18.44,True
+Switzerland,CH,Geneva,Serva ONE LTD,Serva ONE LTD,AS199058 SERVA ONE LTD,45.85.93.49,True
+Switzerland,CH,Bern,Big Data Host LLC,GLB Bulut Teknolojisi Limited Sirketi,AS215346 Big Data Host LLC,91.245.225.69,True
+Switzerland,CH,Rümlang,Alexhost SRL,Alexhost SRL,AS200019 ALEXHOST SRL,2.59.219.226,True
+Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.198.53,True
+Switzerland,CH,Geneva,Infomaniak Network SA,"Noop, LLC",AS29222 Infomaniak Network SA,84.234.16.169,True
+Switzerland,CH,Zurich,Oracle Corporation,Oracle Cloud Infrastructure (eu-zurich-1),AS31898 Oracle Corporation,152.67.64.55,True
+Switzerland,CH,Bern,Big Data Host LLC,GLB Bulut Teknolojisi Limited Sirketi,AS215346 Big Data Host LLC,91.245.225.17,True
+Switzerland,CH,Zurich,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,45.143.200.19,True
+Switzerland,CH,Zurich,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,87.120.222.172,True
+Switzerland,CH,Pully,CH.VTX LIR Range,VTX Services SA,AS29222 Infomaniak Network SA,83.228.222.61,True
+Switzerland,CH,Zurich,HostHatch,HostHatch,"AS63473 HostHatch, LLC",103.63.30.230,True
+Switzerland,CH,Zurich,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,171.22.16.253,True
+Switzerland,CH,Geneva,Green Floid LLC,Friendhosting LTD,AS204957 GREEN FLOID LLC,91.90.193.24,True
+Switzerland,CH,Rümlang,Alexhost SRL,Alexhost SRL,AS200019 ALEXHOST SRL,45.155.53.108,True
+Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,193.108.54.86,True
+Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.193.229,True
+Switzerland,CH,Zurich,GTHost,GTHost,AS63023 GTHost,134.195.199.71,True

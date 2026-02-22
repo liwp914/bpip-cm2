@@ -1,2 +1,4 @@
 country,countryCode,city,isp,org,as,query,valid
+Singapore,SG,Singapore,M247 Europe SRL,M247 LTD,AS9009 M247 Europe SRL,193.56.255.202,True
 Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,138.2.85.81,True
+Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,140.245.34.72,True

@@ -1,18 +1,17 @@
 country,countryCode,city,isp,org,as,query,valid
-South Korea,KR,Gwangsan-gu,Korea Telecom,Jeonnambonbujang,AS4766 Korea Telecom,59.3.3.161,True
 South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,140.238.8.100,True
-South Korea,KR,Chuncheon,Oracle Corporation,Oracle Cloud Infrastructure (ap-chuncheon-1),AS31898 Oracle Corporation,168.107.53.214,True
-South Korea,KR,Seoul,"The Constant Company, LLC","The Constant Company, LLC","AS20473 The Constant Company, LLC",158.247.255.3,True
-South Korea,KR,Seoul,"The Constant Company, LLC","The Constant Company, LLC","AS20473 The Constant Company, LLC",64.176.226.26,True
-South Korea,KR,Chuncheon,Oracle Corporation,Oracle Cloud Infrastructure (ap-chuncheon-1),AS31898 Oracle Corporation,134.185.108.199,True
-South Korea,KR,Chuncheon,Oracle Corporation,Oracle Cloud Infrastructure (ap-chuncheon-1),AS31898 Oracle Corporation,152.69.227.72,True
-South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,132.145.91.181,True
 South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,152.70.93.86,True
+South Korea,KR,Chuncheon,Oracle Corporation,Oracle Cloud Infrastructure (ap-chuncheon-1),AS31898 Oracle Corporation,152.69.227.72,True
+South Korea,KR,Chuncheon,Oracle Corporation,Oracle Cloud Infrastructure (ap-chuncheon-1),AS31898 Oracle Corporation,168.107.53.214,True
+South Korea,KR,Chuncheon,Oracle Corporation,Oracle Cloud Infrastructure (ap-chuncheon-1),AS31898 Oracle Corporation,146.56.119.234,True
+South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,132.145.91.181,True
+South Korea,KR,Seoul,KOR VULTR,,"AS20473 The Constant Company, LLC",141.164.54.230,True
 South Korea,KR,Chuncheon,Oracle Corporation,Oracle Cloud Infrastructure (ap-chuncheon-1),AS31898 Oracle Corporation,168.107.29.97,True
+South Korea,KR,Seoul,"The Constant Company, LLC","The Constant Company, LLC","AS20473 The Constant Company, LLC",158.247.255.3,True
 South Korea,KR,Chuncheon,Oracle Corporation,Oracle Cloud Infrastructure (ap-chuncheon-1),AS31898 Oracle Corporation,152.67.212.64,True
+South Korea,KR,Chuncheon,Oracle Corporation,Oracle Cloud Infrastructure (ap-chuncheon-1),AS31898 Oracle Corporation,134.185.110.40,True
+South Korea,KR,Seoul,"The Constant Company, LLC","The Constant Company, LLC","AS20473 The Constant Company, LLC",64.176.226.26,True
+South Korea,KR,Seoul,SK Broadband Co Ltd,broadNnet,AS9318 SK Broadband Co Ltd,123.111.169.70,True
+South Korea,KR,Chuncheon,Oracle Corporation,Oracle Cloud Infrastructure (ap-chuncheon-1),AS31898 Oracle Corporation,134.185.108.199,True
 South Korea,KR,Seoul,Oracle Corporation,Oracle Cloud Infrastructure (ap-seoul-1),AS31898 Oracle Corporation,140.238.29.48,True
 South Korea,KR,Chuncheon,Oracle Corporation,Oracle Cloud Infrastructure (ap-chuncheon-1),AS31898 Oracle Corporation,158.179.193.81,True
-South Korea,KR,Chuncheon,Oracle Corporation,Oracle Cloud Infrastructure (ap-chuncheon-1),AS31898 Oracle Corporation,146.56.119.234,True
-South Korea,KR,Seoul,SK Broadband Co Ltd,broadNnet,AS9318 SK Broadband Co Ltd,123.111.169.70,True
-South Korea,KR,Chuncheon,Oracle Corporation,Oracle Cloud Infrastructure (ap-chuncheon-1),AS31898 Oracle Corporation,134.185.110.40,True
-South Korea,KR,Seoul,KOR VULTR,,"AS20473 The Constant Company, LLC",141.164.54.230,True

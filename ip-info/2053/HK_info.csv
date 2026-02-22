@@ -1,7 +1,8 @@
 country,countryCode,city,isp,org,as,query,valid
-Hong Kong,HK,Tseung Kwan O,CoreNET Inc.,NetPilot Limited,AS976 CoreNET Inc.,103.118.42.35,True
-Hong Kong,HK,Hong Kong,WorkTitans B.V.,Adcdata Limited,AS209847 WorkTitans B.V.,74.119.193.54,True
 Hong Kong,HK,Kwai Chung,DMIT Cloud Services,,AS906 DMIT Cloud Services,154.12.177.58,True
 Hong Kong,HK,Hong Kong,Bage Cloud LLC,Bage Cloud LLC,AS63150 BAGE CLOUD LLC,103.219.193.106,True
 Hong Kong,HK,Hong Kong,Lucidacloud Limited,Xnnet Limited,AS139659 LUCIDACLOUD LIMITED,45.136.14.61,True
 Hong Kong,HK,Hong Kong,Alibaba Cloud LLC,Alibaba Cloud - HK,"AS45102 Alibaba (US) Technology Co., Ltd.",47.239.4.246,True
+Hong Kong,HK,Kwai Chung,"Ultahost, Inc.",Ultahost Inc,"AS44259 Ultahost, Inc.",192.142.4.76,True
+Hong Kong,HK,Hong Kong,WorkTitans B.V.,Adcdata Limited,AS209847 WorkTitans B.V.,74.119.193.54,True
+Hong Kong,HK,Tseung Kwan O,CoreNET Inc.,NetPilot Limited,AS976 CoreNET Inc.,103.118.42.35,True
