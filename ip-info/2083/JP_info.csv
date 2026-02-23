@@ -1,5 +1,5 @@
 country,countryCode,city,isp,org,as,query,valid
-Japan,JP,Tokyo,"Amazon.com, Inc.",AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",54.199.22.197,True
-Japan,JP,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.216.5.125,True
 Japan,JP,Shibuya City,Octopus Web Solution Inc,Akile LTD,AS401615 ACCK LLC,156.231.141.9,True
 Japan,JP,Osaka,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",64.176.47.6,True
+Japan,JP,Tokyo,"Amazon.com, Inc.",AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",54.199.22.197,True
+Japan,JP,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.216.5.125,True
