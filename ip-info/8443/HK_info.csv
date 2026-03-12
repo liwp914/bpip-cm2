@@ -1,14 +1,11 @@
 country,countryCode,city,isp,org,as,query,valid
-Hong Kong,HK,Hong Kong,Akile LTD,Akile LTD,AS61112 AkileCloud Network,154.83.86.145,True
-Hong Kong,HK,Yau Tong,WorkTitans B.V.,Adcdata Limited,AS209847 WorkTitans B.V.,194.156.99.182,True
-Hong Kong,HK,Kwai Chung,West263 International Limited,Zhongya PTE LTD,AS139021 West263 International Limited,103.43.191.121,True
-Hong Kong,HK,Hong Kong,Lucidacloud Limited,Junisat - Juniper Solution Limited,AS139659 LUCIDACLOUD LIMITED,83.229.123.217,True
 Hong Kong,HK,Hong Kong,M247 Europe SRL,3NT SOLUTIONS LLP,AS9009 M247 Europe SRL,38.180.189.220,True
-Hong Kong,HK,Kwai Chung,Hong Kong Broadband Network Ltd,Hong Kong Broadband Network Ltd,AS9269 Hong Kong Broadband Network Ltd.,123.202.201.128,True
-Hong Kong,HK,Hong Kong,Maxwell Telecom LLC,Maxwell Telecom LLC,AS62711 Maxwell Telecom LLC,23.175.201.2,True
-Hong Kong,HK,Hong Kong,VMISS Inc,VMISS Inc,AS967 VMISS Inc.,38.207.164.107,True
-Hong Kong,HK,Hong Kong,Akile LTD,Akile LTD,AS61112 AkileCloud Network,156.224.78.95,True
 Hong Kong,HK,Hong Kong,MoeChuang Network Limited,,AS215672 MoeChuang Network Limited,141.11.219.60,True
+Hong Kong,HK,Hong Kong,Akile LTD,Akile LTD,AS61112 AkileCloud Network,154.83.86.145,True
+Hong Kong,HK,Hong Kong,Maxwell Telecom LLC,Maxwell Telecom LLC,AS62711 Maxwell Telecom LLC,23.175.201.2,True
+Hong Kong,HK,Yau Tong,WorkTitans B.V.,Adcdata Limited,AS209847 WorkTitans B.V.,194.156.99.182,True
+Hong Kong,HK,Hong Kong,Akile LTD,Akile LTD,AS61112 AkileCloud Network,156.224.78.95,True
+Hong Kong,HK,Hong Kong,Lucidacloud Limited,Junisat - Juniper Solution Limited,AS139659 LUCIDACLOUD LIMITED,83.229.123.217,True
 Hong Kong,HK,Hong Kong,Alibaba Cloud LLC,Alibaba Cloud - HK,"AS45102 Alibaba (US) Technology Co., Ltd.",47.239.4.246,True
 Hong Kong,HK,Hong Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),AS8075 Microsoft Corporation,65.52.160.128,True
-Hong Kong,HK,Hong Kong,Netutils,Netutils,AS51847 Nearoute Limited,84.54.3.126,True
+Hong Kong,HK,Hong Kong,VMISS Inc,VMISS Inc,AS967 VMISS Inc.,38.207.164.107,True
