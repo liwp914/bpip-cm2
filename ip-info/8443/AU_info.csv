@@ -1,2 +1,3 @@
 country,countryCode,city,isp,org,as,query,valid
+Australia,AU,Canberra,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,78.153.151.50,True
 Australia,AU,Sydney,Oracle Corporation,Oracle Cloud Infrastructure (ap-sydney-1),AS31898 Oracle Corporation,150.230.14.79,True
