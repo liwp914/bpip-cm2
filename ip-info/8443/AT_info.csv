@@ -1,9 +1,9 @@
 country,countryCode,city,isp,org,as,query,valid
 Austria,AT,Vienna,M247 Europe SRL,3NT SOLUTIONS LLP,AS9009 M247 Europe SRL,38.180.143.51,True
 Austria,AT,Vienna,xorek.cloud International LTD,xorek.cloud International LTD,AS210644 AEZA INTERNATIONAL LTD,193.233.233.188,True
-Austria,AT,Vienna,Aeza International LTD,Aeza Group LLC,AS210644 AEZA GROUP LLC,138.124.90.123,True
 Austria,AT,Vienna,Ronald Agorsah trading as Alpenhost e.U.,Alpenhost e.U,AS208024 Ronald Agorsah trading as Alpenhost e.U.,92.112.48.142,True
-Austria,AT,Vienna,NetCrafters OU,NetCrafters,AS203273 NetCrafters OU,213.176.94.61,True
 Austria,AT,Vienna,Aeza International LTD,Aeza Group LLC,AS210644 AEZA GROUP LLC,85.192.42.12,True
 Austria,AT,Vienna,Aeza International LTD,Aeza Group LLC,AS210644 AEZA GROUP LLC,77.110.116.204,True
+Austria,AT,Vienna,NetCrafters OU,NetCrafters,AS203273 NetCrafters OU,213.176.94.61,True
+Austria,AT,Vienna,Aeza International LTD,Aeza Group LLC,AS210644 AEZA GROUP LLC,138.124.90.123,True
 Austria,AT,Wien,Alwyzon,Hohl IT e.U.,AS40994 Hohl IT e.U.,94.177.8.122,True
