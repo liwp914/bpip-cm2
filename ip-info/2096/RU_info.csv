@@ -1,4 +1,4 @@
 country,countryCode,city,isp,org,as,query,valid
-Russia,RU,Moscow,WAIcore Ltd,WAIcore Ltd,AS213887 WAIcore Ltd,109.122.198.96,True
-Russia,RU,St Petersburg,Veesp datacenter,,AS43317 SIA VEESP,77.73.68.83,True
 Russia,RU,Moscow,Aeza Group LLC,Aeza Group LLC,AS216246 Aeza Group LLC,193.233.250.140,True
+Russia,RU,St Petersburg,Veesp datacenter,,AS43317 SIA VEESP,77.73.68.83,True
+Russia,RU,Moscow,WAIcore Ltd,WAIcore Ltd,AS213887 WAIcore Ltd,109.122.198.96,True
