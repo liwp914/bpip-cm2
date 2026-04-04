@@ -1,2 +1,4 @@
 country,countryCode,city,isp,org,as,query,valid
+Chile,CL,Santiago,"The Constant Company, LLC","The Constant Company, LLC","AS20473 The Constant Company, LLC",64.176.17.245,True
+Chile,CL,Valdivia,Zappie Host LLC,"Zappie Host - Santiago, Chile",AS61138 Zappie Host,216.73.159.116,True
 Chile,CL,Santiago,"The Constant Company, LLC","The Constant Company, LLC","AS20473 The Constant Company, LLC",64.176.10.195,True
