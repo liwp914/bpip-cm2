@@ -1,10 +1,9 @@
 country,countryCode,city,isp,org,as,query,valid
 China,CN,Haidian,Aceville Pte.ltd.,"Tencent Cloud Computing (Beijing) Co., Ltd",AS139341 ACE,43.169.19.179,True
-China,CN,Haidian,Aceville Pte.ltd.,"Tencent Cloud Computing (Beijing) Co., Ltd",AS139341 ACE,43.169.18.179,True
-China,CN,Beijing,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",47.92.160.133,True
-China,CN,Qingdao,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",47.104.168.251,True
 China,CN,Shanghai,Addresses CNNIC,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",47.103.129.186,True
-China,CN,Beijing,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",60.205.211.28,True
+China,CN,Haidian,Aceville Pte.ltd.,"Tencent Cloud Computing (Beijing) Co., Ltd",AS139341 ACE,43.169.18.179,True
 China,CN,Hangzhou,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",47.98.48.252,True
-China,CN,Qinghe,China Enterprise ICT Solutions Limited,China Enterprise ICT Solutions Limited,AS10212 China Enterprise ICT Solutions Limited,210.5.20.18,True
+China,CN,Beijing,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",60.205.211.28,True
+China,CN,Qingdao,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",47.104.168.251,True
+China,CN,Beijing,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",47.92.160.133,True
 China,CN,Beijing,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",47.92.219.126,True
