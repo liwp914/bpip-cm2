@@ -1,21 +1,21 @@
 country,countryCode,city,isp,org,as,query,valid
-Japan,JP,Tokyo,Quantumbeam Communications Limited,GoldIPv4,AS48529 Quantumbeam Communications Limited,217.60.25.33,True
-Japan,JP,Suginami City,Coop Norge AS,Bitsflowcloud LTD,,216.23.85.219,True
-Japan,JP,Tokyo,CYBERVERSE JP,,AS216211 CYBERVERSE LLC,212.135.210.92,True
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,158.101.132.216,True
-Japan,JP,Chiyoda City,VMISS Inc,VMISS Inc,AS400464 VMISS Inc.,38.47.124.159,True
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,161.33.210.166,True
+Japan,JP,Chiyoda City,ByteVirt LLC,ByteVirt LLC,AS212336 ByteVirt LLC,31.57.172.176,True
 Japan,JP,Minamishinagawa,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.76.208.123,True
 Japan,JP,Tokyo,Amazon Technologies Inc.,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",3.112.89.102,True
-Japan,JP,Tokyo,xTom Japan Corporation,Greencloud LLC,AS3258 xTom Japan Corporation,45.142.166.87,True
-Japan,JP,Minamishinagawa,"The Constant Company, LLC","Choopa, LLC","AS20473 The Constant Company, LLC",167.179.110.68,True
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,150.230.107.25,True
-Japan,JP,Tokyo,xTom Japan Corporation,xTom GmbH,AS3258 xTom Japan Corporation,45.143.233.69,True
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,140.83.34.214,True
+Japan,JP,Chiyoda City,VMISS Inc,VMISS Inc,AS400464 VMISS Inc.,38.47.124.159,True
+Japan,JP,Tokyo,Quantumbeam Communications Limited,GoldIPv4,AS48529 Quantumbeam Communications Limited,217.60.25.33,True
 Japan,JP,Shibuya City,Akile LTD,Akile LTD,AS61112 AkileCloud Network,38.207.130.231,True
-Japan,JP,Tokyo,Alibaba Cloud LLC,Alibaba Cloud - JP,"AS45102 Alibaba (US) Technology Co., Ltd.",47.245.62.4,True
-Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,161.33.222.130,True
-Japan,JP,Chiyoda City,VMISS Inc,VMISS Inc,AS400464 VMISS Inc.,38.47.127.129,True
-Japan,JP,Chiyoda City,ByteVirt LLC,ByteVirt LLC,AS212336 ByteVirt LLC,31.57.172.176,True
-Japan,JP,Asahikawa,ByteVirt LLC,,AS212336 ByteVirt LLC,140.235.37.69,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,140.83.34.214,True
+Japan,JP,Minamishinagawa,"The Constant Company, LLC","Choopa, LLC","AS20473 The Constant Company, LLC",167.179.110.68,True
 Japan,JP,Tokyo,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.216.5.125,True
+Japan,JP,Tokyo,Alibaba Cloud LLC,Alibaba Cloud - JP,"AS45102 Alibaba (US) Technology Co., Ltd.",47.245.62.4,True
+Japan,JP,Chiyoda City,VMISS Inc,VMISS Inc,AS400464 VMISS Inc.,38.47.127.129,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,150.230.107.25,True
+Japan,JP,Asahikawa,ByteVirt LLC,,AS212336 ByteVirt LLC,140.235.37.69,True
+Japan,JP,Tokyo,CYBERVERSE JP,,AS216211 CYBERVERSE LLC,212.135.210.92,True
+Japan,JP,Suginami City,Coop Norge AS,Bitsflowcloud LTD,,216.23.85.219,True
+Japan,JP,Tokyo,xTom Japan Corporation,Greencloud LLC,AS3258 xTom Japan Corporation,45.142.166.87,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,161.33.210.166,True
+Japan,JP,Tokyo,xTom Japan Corporation,xTom GmbH,AS3258 xTom Japan Corporation,45.143.233.69,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,161.33.222.130,True
+Japan,JP,Tokyo,Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),AS31898 Oracle Corporation,158.101.132.216,True

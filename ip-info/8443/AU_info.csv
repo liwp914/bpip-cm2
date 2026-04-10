@@ -1,6 +1,6 @@
 country,countryCode,city,isp,org,as,query,valid
+Australia,AU,Sydney,Oracle Corporation,Oracle Cloud Infrastructure (ap-sydney-1),AS31898 Oracle Corporation,159.13.39.9,True
 Australia,AU,Sydney,Oracle Corporation,Oracle Cloud Infrastructure (ap-sydney-1),AS31898 Oracle Corporation,192.9.162.124,True
 Australia,AU,Melbourne,Oracle Corporation,Oracle Cloud Infrastructure (ap-melbourne-1),AS31898 Oracle Corporation,161.33.76.218,True
-Australia,AU,Sydney,TPG Internet Pty Ltd,TPG Internet Pty Ltd,AS7545 TPG Telecom Limited,120.88.129.193,True
-Australia,AU,Sydney,Oracle Corporation,Oracle Cloud Infrastructure (ap-sydney-1),AS31898 Oracle Corporation,159.13.39.9,True
 Australia,AU,Sydney,Oracle Corporation,Oracle Cloud Infrastructure (ap-sydney-1),AS31898 Oracle Corporation,150.230.14.79,True
+Australia,AU,Sydney,TPG Internet Pty Ltd,TPG Internet Pty Ltd,AS7545 TPG Telecom Limited,120.88.129.193,True
