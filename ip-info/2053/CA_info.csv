@@ -1,21 +1,21 @@
 country,countryCode,city,isp,org,as,query,valid
-Canada,CA,Calgary,"University of California, San Diego",,AS33039 Unify Media Ltd,44.32.235.10,True
-Canada,CA,Toronto,HostPapa,Graeme Tee,AS36352 HostPapa,96.44.136.186,True
-Canada,CA,Calgary,"University of California, San Diego",,AS33039 Unify Media Ltd,44.32.224.208,True
 Canada,CA,Calgary,"University of California, San Diego",,AS33039 Unify Media Ltd,44.32.235.13,True
-Canada,CA,Calgary,"University of California, San Diego",,AS33039 Unify Media Ltd,44.32.235.23,True
-Canada,CA,Calgary,"University of California, San Diego",,AS33039 Unify Media Ltd,44.32.224.195,True
-Canada,CA,Calgary,"University of California, San Diego",,AS33039 Unify Media Ltd,44.32.235.12,True
-Canada,CA,Calgary,Unify Media Ltd,Unify Media Ltd,AS33039 Unify Media Ltd,23.173.104.194,True
-Canada,CA,Calgary,"University of California, San Diego",,AS33039 Unify Media Ltd,44.32.235.21,True
+Canada,CA,Toronto,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172.105.26.26,True
+Canada,CA,Toronto,HostPapa,Graeme Tee,AS36352 HostPapa,96.44.136.186,True
 Canada,CA,Calgary,"University of California, San Diego",,AS33039 Unify Media Ltd,44.32.235.22,True
-Canada,CA,Montreal,Unify Media Ltd,Unify Media Ltd,AS33039 Unify Media Ltd,142.248.219.2,True
-Canada,CA,Toronto,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,45.148.103.89,True
-Canada,CA,Calgary,"University of California, San Diego",,AS33039 Unify Media Ltd,44.32.235.11,True
+Canada,CA,Calgary,"University of California, San Diego",,AS33039 Unify Media Ltd,44.32.235.23,True
 Canada,CA,Calgary,"University of California, San Diego",,AS33039 Unify Media Ltd,44.32.224.207,True
 Canada,CA,Calgary,"University of California, San Diego",,AS33039 Unify Media Ltd,44.32.224.196,True
-Canada,CA,Montreal,Unify Media Ltd,Unify Media Ltd,AS33039 Unify Media Ltd,142.248.218.2,True
-Canada,CA,Calgary,"University of California, San Diego",,AS33039 Unify Media Ltd,44.32.235.20,True
 Canada,CA,Calgary,"University of California, San Diego",,AS33039 Unify Media Ltd,44.32.224.197,True
+Canada,CA,Calgary,"University of California, San Diego",,AS33039 Unify Media Ltd,44.32.224.208,True
+Canada,CA,Calgary,"University of California, San Diego",,AS33039 Unify Media Ltd,44.32.235.11,True
+Canada,CA,Calgary,"University of California, San Diego",,AS33039 Unify Media Ltd,44.32.235.10,True
+Canada,CA,Toronto,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,45.148.103.89,True
+Canada,CA,Calgary,"University of California, San Diego",,AS33039 Unify Media Ltd,44.32.224.195,True
 Canada,CA,Calgary,"University of California, San Diego",,AS33039 Unify Media Ltd,44.32.224.206,True
-Canada,CA,Toronto,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172.105.26.26,True
+Canada,CA,Calgary,"University of California, San Diego",,AS33039 Unify Media Ltd,44.32.235.12,True
+Canada,CA,Calgary,"University of California, San Diego",,AS33039 Unify Media Ltd,44.32.235.20,True
+Canada,CA,Calgary,"University of California, San Diego",,AS33039 Unify Media Ltd,44.32.235.21,True
+Canada,CA,Montreal,Unify Media Ltd,Unify Media Ltd,AS33039 Unify Media Ltd,142.248.219.2,True
+Canada,CA,Calgary,Unify Media Ltd,Unify Media Ltd,AS33039 Unify Media Ltd,23.173.104.194,True
+Canada,CA,Montreal,Unify Media Ltd,Unify Media Ltd,AS33039 Unify Media Ltd,142.248.218.2,True
