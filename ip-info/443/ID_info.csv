@@ -1,4 +1,4 @@
 country,countryCode,city,isp,org,as,query,valid
+Indonesia,ID,Jakarta,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.232.226.233,True
 Indonesia,ID,Jakarta,Alibaba Cloud LLC,Alibaba Cloud - ID,"AS45102 Alibaba (US) Technology Co., Ltd.",147.139.189.225,True
 Indonesia,ID,Jakarta,"Amazon.com, Inc.",AWS EC2 (ap-southeast-3),"AS16509 Amazon.com, Inc.",43.218.77.16,True
-Indonesia,ID,Jakarta,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.232.226.233,True
