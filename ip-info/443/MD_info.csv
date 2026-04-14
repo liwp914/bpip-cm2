@@ -1,11 +1,11 @@
 country,countryCode,city,isp,org,as,query,valid
-Moldova,MD,Chisinau,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,45.67.229.8,True
-Moldova,MD,Chisinau,"JSC ""Moldtelecom"" S.A.",JSC Moldtelecom S.A.,AS8926 Moldtelecom SA,109.185.236.240,True
-Moldova,MD,Chisinau,Alexhost SRL,Alexhost SRL,AS200019 ALEXHOST SRL,45.86.86.53,True
-Moldova,MD,Chisinau,MivoCloud SRL,MivoCloud SRL,AS39798 MivoCloud SRL,185.163.45.40,True
-Moldova,MD,Chisinau,Alexhost SRL,Alexhost SRL,AS200019 ALEXHOST SRL,37.221.67.227,True
-Moldova,MD,Tighina,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,94.103.0.67,True
-Moldova,MD,Chisinau,Baxet Group Inc,InterLIR LLC,AS26383 Baxet Group Inc.,166.88.234.116,True
-Moldova,MD,Tighina,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,94.103.0.63,True
 Moldova,MD,Chisinau,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,185.250.148.240,True
+Moldova,MD,Chisinau,Alexhost SRL,Alexhost SRL,AS200019 ALEXHOST SRL,37.221.67.227,True
+Moldova,MD,Chisinau,Alexhost SRL,Alexhost SRL,AS200019 ALEXHOST SRL,45.86.86.53,True
+Moldova,MD,Chisinau,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,45.67.229.8,True
+Moldova,MD,Chisinau,Baxet Group Inc,InterLIR LLC,AS26383 Baxet Group Inc.,166.88.234.116,True
 Moldova,MD,Chisinau,MivoCloud SRL,,AS39798 MivoCloud SRL,5.181.158.96,True
+Moldova,MD,Tighina,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,94.103.0.67,True
+Moldova,MD,Chisinau,"JSC ""Moldtelecom"" S.A.",JSC Moldtelecom S.A.,AS8926 Moldtelecom SA,109.185.236.240,True
+Moldova,MD,Tighina,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,94.103.0.63,True
+Moldova,MD,Chisinau,MivoCloud SRL,MivoCloud SRL,AS39798 MivoCloud SRL,185.163.45.40,True
