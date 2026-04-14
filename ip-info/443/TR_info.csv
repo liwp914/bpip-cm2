@@ -1,49 +1,48 @@
 country,countryCode,city,isp,org,as,query,valid
-Turkey,TR,Ümraniye,HZD TEKNOLOJI VE INOVASYON SAN. VE TIC. LTD. STI.,HZD Teknoloji,AS213657 HZD TEKNOLOJI VE INOVASYON SAN. VE TIC. LTD. STI.,93.180.132.165,True
-Türkiye,TR,Istanbul,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,212.192.6.42,True
-Türkiye,TR,Ankara,365.partners INC,Plant Holding GMBH,AS198178 365.partners INC,138.124.107.132,True
-Türkiye,TR,Istanbul,"Fiba Cloud Operation Company, LLC","White Label Services, LLC","AS44382 Fiba Cloud Operation Company, LLC",31.40.204.158,True
-Turkey,TR,Izmir,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,2.56.127.230,True
-Türkiye,TR,Istanbul,"Fiba Cloud Operation Company, LLC","White Label Services, LLC","AS44382 Fiba Cloud Operation Company, LLC",45.141.148.141,True
-Turkey,TR,Istanbul,Light Node Limited,Light Node Limited,"AS2914 NTT America, Inc.",130.94.1.150,True
-Türkiye,TR,Izmir,GLB Bulut Teknolojisi Limited Sirketi,GLB Bulut Teknolojisi Limited Sirketi,AS48207 GLB Bulut Teknolojisi Limited Sirketi,194.135.34.121,True
-Türkiye,TR,Izmir,GLB Bulut Teknolojisi Limited Sirketi,GLB Bulut Teknolojisi Limited Sirketi,AS48207 GLB Bulut Teknolojisi Limited Sirketi,194.135.34.198,True
-Türkiye,TR,Istanbul,2E TELEKOMUNIKASYON LTD STI,TWO E Telekom,AS209604 2E TELEKOMUNIKASYON LTD STI,185.255.93.189,True
-Turkey,TR,Bursa,Bogahost Bilisim ve Telekomunikasyon Hiz San ve Tic. Ltd. Sti,Bogahost Bilisim ve Telekomunikasyon Hiz San ve Tic. Ltd. Sti,AS200239 Bogahost Bilisim ve Telekomunikasyon Hiz San ve Tic. Ltd. Sti,194.87.91.192,True
-Turkey,TR,Ümraniye,TurkTelecom,,AS9121 Turk Telekomunikasyon Anonim Sirketi,95.0.130.96,True
-Turkey,TR,Izmir,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,2.56.127.137,True
-Turkey,TR,Ankara,365.partners INC,"""Euro Crypt"" EOOD",AS198178 365.partners INC,212.102.107.40,True
-Türkiye,TR,Istanbul,YottaSrc,YottaSrc,AS213535 YottaSrc,198.105.123.25,True
-Türkiye,TR,Izmir,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,45.12.143.73,True
-Turkey,TR,Istanbul,Superonline Iletisim Hizmetleri A.S,Turkcell Iletisim Hizmetleri,AS34984 Superonline Iletisim Hizmetleri A.S.,45.67.202.173,True
-Turkey,TR,Yakuplu,"Ultahost, Inc.",Ultahost Hosting VE Veri Merkezi Ltd. STI,"AS214036 Ultahost, Inc.",188.132.183.40,True
-Turkey,TR,Izmir,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,195.16.74.73,True
-Türkiye,TR,Istanbul,Teknosos Bilisim Hizmetleri VE Tic. Ltd. Sti.,Teknosos Bilisim Hizmetleri VE Tic. Ltd. STI,AS207459 TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI.,213.142.149.3,True
-Turkey,TR,Yakuplu,TradeZone LLC,Geo Teknoloji,AS201575 TradeZone LLC,188.132.192.169,True
-Turkey,TR,Istanbul,Superonline Iletisim Hizmetleri A.S,Turkcell Iletisim Hizmetleri,AS34984 Superonline Iletisim Hizmetleri A.S.,45.67.202.36,True
-Türkiye,TR,Ankara,365.partners INC,Plant Holding GMBH,AS198178 365.partners INC,138.124.107.71,True
 Türkiye,TR,Istanbul,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,77.83.245.105,True
-Turkey,TR,Yakuplu,"Ultahost, Inc.",Ultahost Hosting VE Veri Merkezi Ltd. STI,"AS214036 Ultahost, Inc.",188.132.183.17,True
-Turkey,TR,Izmir,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,45.89.52.247,True
-Turkey,TR,Ankara,365.partners INC,"""Euro Crypt"" EOOD",AS198178 365.partners INC,212.102.107.82,True
-Turkey,TR,Selçuklu,Global Communication Network Limited,Global Communication Network Limited,AS152179 GLOBAL COMMUNICATION NETWORK LIMITED,38.182.118.158,True
-Turkey,TR,Izmir,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,45.89.52.85,True
-Turkey,TR,Izmir,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,185.235.243.172,True
-Türkiye,TR,Istanbul,Scalaxy B.V.,3NT SOLUTIONS LLP,AS58061 Scalaxy B.V.,38.180.113.22,True
-Türkiye,TR,Istanbul,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,94.131.123.166,True
-Türkiye,TR,Istanbul,Hostigger INC.,Hostigger INC,AS205399 Hostigger INC.,185.219.133.106,True
-Türkiye,TR,Istanbul,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,94.131.123.74,True
-Türkiye,TR,Istanbul,YottaSrc,YottaSrc,AS213535 YottaSrc,107.161.174.99,True
 Türkiye,TR,Istanbul,Hostigger INC.,Hostigger INC,AS205399 Hostigger INC.,185.219.132.27,True
+Turkey,TR,Izmir,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,45.89.52.247,True
+Türkiye,TR,Istanbul,"Fiba Cloud Operation Company, LLC","White Label Services, LLC","AS44382 Fiba Cloud Operation Company, LLC",31.40.204.158,True
+Turkey,TR,Istanbul,Light Node Limited,Light Node Limited,"AS2914 NTT America, Inc.",130.94.1.150,True
+Turkey,TR,Izmir,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,195.16.74.73,True
 Türkiye,TR,Istanbul,"Fiba Cloud Operation Company, LLC",White Label,"AS44382 Fiba Cloud Operation Company, LLC",103.83.86.172,True
-Türkiye,TR,Ankara,365.partners INC,Plant Holding GMBH,AS198178 365.partners INC,138.124.107.124,True
-Türkiye,TR,Istanbul,"Fiba Cloud Operation Company, LLC","White Label Services, LLC","AS44382 Fiba Cloud Operation Company, LLC",194.116.236.86,True
-Türkiye,TR,Istanbul,"Fiba Cloud Operation Company, LLC","White Label Services, LLC","AS44382 Fiba Cloud Operation Company, LLC",103.83.87.133,True
-Turkey,TR,Izmir,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,62.3.12.185,True
-Turkey,TR,Istanbul,Sunucun Bilgi Iletisim Teknolojileri ve Ticaret Ltd. Sti.,Sunucun Bilgi Iletisim Teknolojileri VE Ticaret Limited Sirketi,AS197450 Sunucun Bilgi Iletisim Teknolojileri ve Ticaret Ltd. Sti.,212.64.199.152,True
-Türkiye,TR,Ankara,365.partners INC,Plant Holding GMBH,AS198178 365.partners INC,138.124.107.35,True
-Turkey,TR,Izmir,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,45.89.52.124,True
 Turkey,TR,Istanbul,Superonline Iletisim Hizmetleri A.S.,Superonline Iletisim Hizmetleri A.S.,AS34984 Superonline Iletisim Hizmetleri A.S.,45.151.69.77,True
-Türkiye,TR,Izmir,GLB Bulut Teknolojisi Limited Sirketi,GLB Bulut Teknolojisi Limited Sirketi,AS48207 GLB Bulut Teknolojisi Limited Sirketi,138.249.20.76,True
-Türkiye,TR,Istanbul,Hostkey B.V.,Hostkey B.V,AS57043 HOSTKEY B.V.,82.26.198.89,True
+Turkey,TR,Selçuklu,Global Communication Network Limited,Global Communication Network Limited,AS152179 GLOBAL COMMUNICATION NETWORK LIMITED,38.182.118.158,True
+Türkiye,TR,Izmir,GLB Bulut Teknolojisi Limited Sirketi,GLB Bulut Teknolojisi Limited Sirketi,AS48207 GLB Bulut Teknolojisi Limited Sirketi,194.135.34.121,True
+Türkiye,TR,Istanbul,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,94.131.123.74,True
+Turkey,TR,Istanbul,Superonline Iletisim Hizmetleri A.S,Turkcell Iletisim Hizmetleri,AS34984 Superonline Iletisim Hizmetleri A.S.,45.67.202.36,True
 Türkiye,TR,Istanbul,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP,62.133.63.61,True
+Turkey,TR,Ümraniye,HZD TEKNOLOJI VE INOVASYON SAN. VE TIC. LTD. STI.,HZD Teknoloji,AS213657 HZD TEKNOLOJI VE INOVASYON SAN. VE TIC. LTD. STI.,93.180.132.165,True
+Turkey,TR,Yakuplu,TradeZone LLC,Geo Teknoloji,AS201575 TradeZone LLC,188.132.192.169,True
+Turkey,TR,Ankara,365.partners INC,"""Euro Crypt"" EOOD",AS198178 365.partners INC,212.102.107.82,True
+Türkiye,TR,Ankara,365.partners INC,Plant Holding GMBH,AS198178 365.partners INC,138.124.107.124,True
+Türkiye,TR,Ankara,365.partners INC,Plant Holding GMBH,AS198178 365.partners INC,138.124.107.132,True
+Türkiye,TR,Istanbul,Hostigger INC.,Hostigger INC,AS205399 Hostigger INC.,185.219.133.106,True
+Türkiye,TR,Istanbul,Hostkey B.V.,Hostkey B.V,AS57043 HOSTKEY B.V.,82.26.198.89,True
+Türkiye,TR,Istanbul,"Fiba Cloud Operation Company, LLC","White Label Services, LLC","AS44382 Fiba Cloud Operation Company, LLC",103.83.87.133,True
+Turkey,TR,Izmir,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,2.56.127.137,True
+Türkiye,TR,Istanbul,"Fiba Cloud Operation Company, LLC","White Label Services, LLC","AS44382 Fiba Cloud Operation Company, LLC",194.116.236.86,True
+Türkiye,TR,Istanbul,"Fiba Cloud Operation Company, LLC","White Label Services, LLC","AS44382 Fiba Cloud Operation Company, LLC",45.141.148.141,True
+Türkiye,TR,Istanbul,YottaSrc,YottaSrc,AS213535 YottaSrc,107.161.174.99,True
+Türkiye,TR,Ankara,365.partners INC,Plant Holding GMBH,AS198178 365.partners INC,138.124.107.35,True
+Türkiye,TR,Izmir,GLB Bulut Teknolojisi Limited Sirketi,GLB Bulut Teknolojisi Limited Sirketi,AS48207 GLB Bulut Teknolojisi Limited Sirketi,194.135.34.198,True
+Turkey,TR,Yakuplu,"Ultahost, Inc.",Ultahost Hosting VE Veri Merkezi Ltd. STI,"AS214036 Ultahost, Inc.",188.132.183.40,True
+Turkey,TR,Istanbul,Superonline Iletisim Hizmetleri A.S,Turkcell Iletisim Hizmetleri,AS34984 Superonline Iletisim Hizmetleri A.S.,45.67.202.173,True
+Türkiye,TR,Istanbul,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,212.192.6.42,True
+Türkiye,TR,Izmir,GLB Bulut Teknolojisi Limited Sirketi,GLB Bulut Teknolojisi Limited Sirketi,AS48207 GLB Bulut Teknolojisi Limited Sirketi,138.249.20.76,True
+Turkey,TR,Bursa,Bogahost Bilisim ve Telekomunikasyon Hiz San ve Tic. Ltd. Sti,Bogahost Bilisim ve Telekomunikasyon Hiz San ve Tic. Ltd. Sti,AS200239 Bogahost Bilisim ve Telekomunikasyon Hiz San ve Tic. Ltd. Sti,194.87.91.192,True
+Türkiye,TR,Istanbul,2E TELEKOMUNIKASYON LTD STI,TWO E Telekom,AS209604 2E TELEKOMUNIKASYON LTD STI,185.255.93.189,True
+Türkiye,TR,Izmir,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,45.12.143.73,True
+Turkey,TR,Izmir,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,185.235.243.172,True
+Türkiye,TR,Istanbul,YottaSrc,YottaSrc,AS213535 YottaSrc,198.105.123.25,True
+Türkiye,TR,Ankara,365.partners INC,Plant Holding GMBH,AS198178 365.partners INC,138.124.107.71,True
+Turkey,TR,Izmir,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,45.89.52.124,True
+Turkey,TR,Izmir,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,2.56.127.230,True
+Turkey,TR,Yakuplu,"Ultahost, Inc.",Ultahost Hosting VE Veri Merkezi Ltd. STI,"AS214036 Ultahost, Inc.",188.132.183.17,True
+Türkiye,TR,Istanbul,Scalaxy B.V.,3NT SOLUTIONS LLP,AS58061 Scalaxy B.V.,38.180.113.22,True
+Türkiye,TR,Istanbul,Teknosos Bilisim Hizmetleri VE Tic. Ltd. Sti.,Teknosos Bilisim Hizmetleri VE Tic. Ltd. STI,AS207459 TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI.,213.142.149.3,True
+Turkey,TR,Ankara,365.partners INC,"""Euro Crypt"" EOOD",AS198178 365.partners INC,212.102.107.40,True
+Turkey,TR,Izmir,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,62.3.12.185,True
+Türkiye,TR,Istanbul,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,94.131.123.166,True
+Turkey,TR,Istanbul,Sunucun Bilgi Iletisim Teknolojileri ve Ticaret Ltd. Sti.,Sunucun Bilgi Iletisim Teknolojileri VE Ticaret Limited Sirketi,AS197450 Sunucun Bilgi Iletisim Teknolojileri ve Ticaret Ltd. Sti.,212.64.199.152,True
+Turkey,TR,Ümraniye,TurkTelecom,,AS9121 Turk Telekomunikasyon Anonim Sirketi,95.0.130.96,True
