@@ -1,9 +1,9 @@
 country,countryCode,city,isp,org,as,query,valid
-Israel,IL,Rishon LeTsiyyon,Golden Lines,,AS12400 Partner Communications Ltd.,80.178.58.56,True
-Israel,IL,Petah Tikva,WorkTitans B.V.,Weiss Hosting Group S.R.L,AS209847 WorkTitans B.V.,91.225.218.230,True
-Israel,IL,Tel Aviv,Interhost Communication Solutions Ltd.,EDIS GmbH,AS61102 Interhost Communication Solutions Ltd.,192.71.27.237,True
-Israel,IL,Tel Aviv,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,45.144.172.33,True
 Israel,IL,Petah Tikva,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,94.131.114.73,True
-Israel,IL,Beersheba,SmartApe OU,Ilsa,AS42474 SmartApe OU,185.239.48.217,True
-Israel,IL,Petah Tikva,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,94.131.114.70,True
 Israel,IL,Petah Tikva,SmartApe OU,Ilsa,AS42474 SmartApe OU,185.239.49.132,True
+Israel,IL,Petah Tikva,WorkTitans B.V.,WorkTitans B.V,AS209847 WorkTitans B.V.,94.131.114.70,True
+Israel,IL,Petah Tikva,WorkTitans B.V.,Weiss Hosting Group S.R.L,AS209847 WorkTitans B.V.,91.225.218.230,True
+Israel,IL,Rishon LeTsiyyon,Golden Lines,,AS12400 Partner Communications Ltd.,80.178.58.56,True
+Israel,IL,Tel Aviv,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,45.144.172.33,True
+Israel,IL,Tel Aviv,Interhost Communication Solutions Ltd.,EDIS GmbH,AS61102 Interhost Communication Solutions Ltd.,192.71.27.237,True
+Israel,IL,Beersheba,SmartApe OU,Ilsa,AS42474 SmartApe OU,185.239.48.217,True
