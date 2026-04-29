@@ -1,242 +1,242 @@
 country,countryCode,city,isp,org,as,query,valid
-Singapore,SG,Singapore,Amazon Technologies Inc.,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",54.255.195.46,True
-Singapore,SG,Singapore,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.113.24,True
-Singapore,SG,Singapore,SGP VULTR,,"AS20473 The Constant Company, LLC",66.42.61.215,True
-Singapore,SG,Singapore,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.115.38,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.198.201.119,True
-Singapore,SG,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.219.155.125,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.192.218,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.209.103.4,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.230.164,True
-Singapore,SG,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.82.178.58,True
-Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,213.35.127.18,True
-Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,146.235.16.191,True
-Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,129.150.48.17,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.198.209.123,True
 Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.223.57.22,True
-Singapore,SG,Singapore,"Amazon.com, Inc.",AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",52.77.224.71,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.245.60.179,True
-Singapore,SG,Singapore,Green Floid LLC,Green Floid LLC,AS204957 GREEN FLOID LLC,5.34.176.240,True
-Singapore,SG,Singapore,Amazon Technologies Inc.,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",18.138.34.221,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.209.102.229,True
-Singapore,SG,Singapore,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172.104.53.198,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.209.98.39,True
-Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.140,True
-Singapore,SG,Singapore,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172.104.186.30,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.172.68.31,True
-Singapore,SG,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.222.185.236,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.233.124,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.62.86,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.65.143.223,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.97.53,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",188.166.217.179,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.230.254.79,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",206.189.82.100,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.198.213.81,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.19.168,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.172.65.175,True
-Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.146,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.223.50.79,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",129.212.231.216,True
-Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,158.178.234.153,True
-Singapore,SG,Singapore,Cogent Communications,Contabo Asia Private LTD,AS141995 Contabo Asia Private Limited,154.26.128.147,True
-Singapore,SG,Singapore,Hetzner Online GmbH,HETZNER-DC,AS215859 Hetzner Online GmbH,5.223.95.176,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",152.42.173.182,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.95.74,True
-Singapore,SG,Singapore,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.239.116,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.223.79.119,True
-Singapore,SG,Singapore,THX Corp.,Private Customer,AS152868 THX Corp.,143.20.41.180,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.22.104.36,True
-Singapore,SG,Singapore,OneAsiaHost,,AS59211 OneAsiaHost,116.251.217.65,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",188.166.237.20,True
-Singapore,SG,Singapore,THX Corp.,Private Customer,AS152868 THX Corp.,143.20.41.11,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",104.248.145.216,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",146.190.99.193,True
-Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.152,True
-Singapore,SG,Singapore,Leaseweb Singapore Pte. Ltd.,Greencloud LLC,AS59253 LEASEWEB SINGAPORE PTE. LTD.,194.127.192.165,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.232.41,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",188.166.230.196,True
-Singapore,SG,Singapore,ByteVirt LLC,ByteVirt LLC,AS212336 ByteVirt LLC,89.28.239.125,True
-Singapore,SG,Singapore,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",149.28.142.169,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",129.212.232.171,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.236.230,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.58.101,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.251.9,True
-Singapore,SG,Singapore,SGP VULTR,,"AS20473 The Constant Company, LLC",66.42.49.132,True
-Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.147,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.172.86.195,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.221.89,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.199.136,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",188.166.234.172,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.86.3,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",188.166.187.67,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.89.205.195,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.225.227,True
-Singapore,SG,Singapore,Aceville Pte.ltd,,"AS132203 Tencent Building, Kejizhongyi Avenue",43.133.61.219,True
-Singapore,SG,Singapore,Hetzner Online GmbH,HETZNER-DC,AS215859 Hetzner Online GmbH,5.223.71.252,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.198.213.40,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.223.84.236,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",128.199.127.103,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.237.17,True
-Singapore,SG,Singapore,Alibaba Cloud (Singapore) Private Limited,Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.219.195.31,True
-Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,161.118.213.45,True
-Singapore,SG,Singapore,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.127.117,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.65.133.248,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.230.129,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.230.244.86,True
-Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.151,True
-Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.135,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",206.189.152.133,True
-Singapore,SG,Singapore,Onidel Pty Ltd,Onidel Pty Ltd,AS152900 Onidel Pty Ltd,160.22.79.179,True
-Singapore,SG,Singapore,OVH SAS,OVH Singapore PTE. LTD,AS16276 OVH SAS,139.99.124.165,True
-Singapore,SG,Singapore,"Amazon.com, Inc.",AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",13.251.157.143,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",128.199.82.20,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",188.166.249.31,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.205.100,True
-Singapore,SG,Singapore,OneAsiaHost,,AS59211 OneAsiaHost,116.251.217.107,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.245.56.32,True
-Singapore,SG,Singapore,Interkvm Host SRL,,AS25198 INTERKVM HOST SRL,76.164.201.98,True
-Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.148,True
-Singapore,SG,Singapore,THX Corp.,Private Customer,AS152868 THX Corp.,143.20.41.170,True
-Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,138.2.64.229,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.245.200.76,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",188.166.250.115,True
-Singapore,SG,Singapore,Tencent Cloud Computing (Beijing) Co,,"AS132203 Tencent Building, Kejizhongyi Avenue",129.226.150.167,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",206.189.147.193,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.227.216,True
-Singapore,SG,Singapore,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",149.28.159.222,True
-Singapore,SG,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.82.155.79,True
-Singapore,SG,Singapore,Amazon Technologies Inc.,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",54.151.227.203,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.60.89,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.90.108,True
-Singapore,SG,Singapore,Oracle Corporation,Oracle Public Cloud,AS31898 Oracle Corporation,168.138.165.174,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",188.166.212.101,True
-Singapore,SG,Singapore,"Amazon.com, Inc.",AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",18.140.179.70,True
-Singapore,SG,Singapore,Huawei International Pte. LTD,,AS136907 HUAWEI CLOUDS,188.239.19.177,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",129.212.235.250,True
-Singapore,SG,Singapore,Amazon Technologies Inc.,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",13.212.193.78,True
-Singapore,SG,Singapore,OVH SAS,OVH Singapore PTE. LTD,AS16276 OVH SAS,51.79.248.128,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.209.96.76,True
-Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.133,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.99.74.195,True
-Singapore,SG,Singapore,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue",43.156.181.203,True
 Singapore,SG,Singapore,Capitalonline Data Service (HK) Co,,"AS63199 CDS Global Cloud Co., Ltd",164.52.2.99,True
-Singapore,SG,Singapore,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,194.87.10.241,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.222.177,True
-Singapore,SG,Singapore,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,194.87.10.77,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.227.22,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.22.248.134,True
-Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.145,True
-Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,138.2.87.237,True
-Singapore,SG,Singapore,Aceville Pte.ltd,,"AS132203 Tencent Building, Kejizhongyi Avenue",43.160.195.223,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.200.162,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",209.97.163.209,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.99.73.22,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.22.59.195,True
-Singapore,SG,Singapore,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud,139.162.61.34,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.232.165.200,True
-Singapore,SG,Singapore,SGP VULTR,,"AS20473 The Constant Company, LLC",139.180.222.3,True
-Singapore,SG,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),AS8075 Microsoft Corporation,104.43.91.69,True
-Singapore,SG,Singapore,Amazon Technologies Inc.,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",18.143.179.83,True
-Singapore,SG,Singapore,LINODE,"Linode, LLC",AS63949 Akamai Connected Cloud,139.162.23.48,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",152.42.167.225,True
-Singapore,SG,Singapore,Capitalonline Data Service (HK) Co,,"AS63199 CDS Global Cloud Co., Ltd",164.52.2.98,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.230.255.59,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.198.211.180,True
-Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.149,True
-Singapore,SG,Singapore,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.32.113.29,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.223.60.207,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",209.97.160.109,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.230.38.88,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.229.104,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.237.62,True
-Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.136,True
-Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.137,True
-Singapore,SG,Singapore,Tencent Cloud Computing (Beijing) Co,,"AS132203 Tencent Building, Kejizhongyi Avenue",124.156.202.172,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",206.189.157.20,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.227.180,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.235.64,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.245.151.130,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.246.234,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.22.99.110,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.255.28,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.221.62,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",206.189.155.153,True
-Singapore,SG,Singapore,Aceville Pte.ltd,,"AS132203 Tencent Building, Kejizhongyi Avenue",43.134.174.114,True
-Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.144,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",128.199.255.242,True
-Singapore,SG,Singapore,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue",43.156.116.194,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.227.54,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.213.95,True
-Singapore,SG,Singapore,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.236.154.50,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",188.166.247.45,True
-Singapore,SG,Singapore,Capitalonline Data Service (HK) Co,,"AS63199 CDS Global Cloud Co., Ltd",164.52.2.100,True
-Singapore,SG,Singapore,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.77.255.153,True
-Singapore,SG,Singapore,Alibaba Cloud (Singapore) Private Limited,Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.222.193.153,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.231.219,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.125.147,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",174.138.20.108,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.89.207.154,True
-Singapore,SG,Singapore,Amazon Technologies Inc.,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",18.143.76.130,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",174.138.18.114,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.211.191,True
-Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.139,True
-Singapore,SG,Singapore,WAP.AC LLC,FatDisco Ltd,AS401443 WAP.AC LLC,185.151.146.73,True
-Singapore,SG,Singapore,Hetzner Online GmbH,HETZNER-DC,AS215859 Hetzner Online GmbH,5.223.85.30,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.245.184.76,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",152.42.169.132,True
-Singapore,SG,Singapore,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud,139.162.62.195,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.207.130,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.245.159.88,True
-Singapore,SG,Singapore,Huawei International Pte. LTD,,AS136907 HUAWEI CLOUDS,188.239.9.91,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",139.59.250.249,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",206.189.82.255,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.223.85.214,True
-Singapore,SG,Singapore,"Amazon.com, Inc.",AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",52.77.114.70,True
-Singapore,SG,Singapore,Green Floid LLC,Green Floid LLC,AS204957 GREEN FLOID LLC,5.34.176.71,True
-Singapore,SG,Singapore,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud,172.104.191.150,True
-Singapore,SG,Singapore,xTom Pty Ltd,Greencloud LLC,AS8888 xTom Pty Ltd,45.128.222.55,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",128.199.119.5,True
-Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.150,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.198.85.69,True
-Singapore,SG,Singapore,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.32.122.212,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",209.97.170.177,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",209.97.171.87,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.223.78.76,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",174.138.24.153,True
-Singapore,SG,Singapore,Contabo Asia Private Limited,Contabo Asia Private Limited,AS141995 Contabo Asia Private Limited,194.233.67.84,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.80.43,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.99.69.85,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.209.106.237,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.210.159,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.209.190,True
-Singapore,SG,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba Cloud LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.236.119.109,True
-Singapore,SG,Singapore,SGP VULTR,,"AS20473 The Constant Company, LLC",139.180.220.7,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.217.192,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",152.42.189.56,True
-Singapore,SG,Singapore,"Amazon.com, Inc.",AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",54.251.249.94,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.65.12.42,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.230.44.100,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.219.37,True
-Singapore,SG,Singapore,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.237.84.250,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.223.93.80,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",165.245.144.113,True
-Singapore,SG,Singapore,Hetzner Online GmbH,Hetzner Online GmbH,AS215859 Hetzner Online GmbH,5.223.60.212,True
-Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.138,True
-Singapore,SG,Singapore,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd","AS132203 Tencent Building, Kejizhongyi Avenue",43.160.234.53,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.65.15.18,True
-Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.101.67,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.65.143.81,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",128.199.128.117,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",206.189.147.60,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",174.138.19.127,True
-Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.134,True
-Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.141,True
-Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.143,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",129.212.234.156,True
-Singapore,SG,Singapore,Google LLC,Google Cloud (asia-southeast1),AS396982 Google LLC,34.143.159.175,True
-Singapore,SG,Singapore,Aceville Pte.ltd,,"AS132203 Tencent Building, Kejizhongyi Avenue",150.109.11.223,True
+Singapore,SG,Singapore,Amazon Technologies Inc.,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",54.255.195.46,True
 Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.245.181.78,True
-Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",146.190.102.51,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",206.189.155.153,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",139.59.250.249,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.245.159.88,True
+Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.134,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",188.166.247.45,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.209.96.76,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.230.44.100,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.227.54,True
+Singapore,SG,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.82.178.58,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",174.138.24.153,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.65.15.18,True
+Singapore,SG,Singapore,SGP VULTR,,"AS20473 The Constant Company, LLC",66.42.49.132,True
+Singapore,SG,Singapore,Tencent Cloud Computing (Beijing) Co,,"AS132203 Tencent Building, Kejizhongyi Avenue",124.156.202.172,True
+Singapore,SG,Singapore,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.32.122.212,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.237.62,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.230.129,True
+Singapore,SG,Singapore,Green Floid LLC,Green Floid LLC,AS204957 GREEN FLOID LLC,5.34.176.240,True
+Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.152,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",206.189.147.193,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",188.166.187.67,True
+Singapore,SG,Singapore,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud,139.162.61.34,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.223.93.80,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",188.166.250.115,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",206.189.147.60,True
+Singapore,SG,Singapore,Green Floid LLC,Green Floid LLC,AS204957 GREEN FLOID LLC,5.34.176.71,True
+Singapore,SG,Singapore,Capitalonline Data Service (HK) Co,,"AS63199 CDS Global Cloud Co., Ltd",164.52.2.98,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.209.103.4,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.245.60.179,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.97.53,True
+Singapore,SG,Singapore,THX Corp.,Private Customer,AS152868 THX Corp.,143.20.41.170,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.90.108,True
+Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,138.2.87.237,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.207.130,True
+Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.149,True
+Singapore,SG,Singapore,Onidel Pty Ltd,Onidel Pty Ltd,AS152900 Onidel Pty Ltd,160.22.79.179,True
+Singapore,SG,Singapore,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.237.84.250,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.209.106.237,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.198.85.69,True
+Singapore,SG,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.82.155.79,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.211.191,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.62.86,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.192.218,True
+Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.145,True
+Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,213.35.127.18,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.223.84.236,True
+Singapore,SG,Singapore,Cogent Communications,Contabo Asia Private LTD,AS141995 Contabo Asia Private Limited,154.26.128.147,True
+Singapore,SG,Singapore,"Amazon.com, Inc.",AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",18.140.179.70,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.65.133.248,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.198.213.81,True
+Singapore,SG,Singapore,Hetzner Online GmbH,Hetzner Online GmbH,AS215859 Hetzner Online GmbH,5.223.60.212,True
+Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.139,True
+Singapore,SG,Singapore,Amazon Technologies Inc.,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",18.143.76.130,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",209.97.170.177,True
+Singapore,SG,Singapore,OneAsiaHost,,AS59211 OneAsiaHost,116.251.217.65,True
+Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.133,True
+Singapore,SG,Singapore,Capitalonline Data Service (HK) Co,,"AS63199 CDS Global Cloud Co., Ltd",164.52.2.100,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.255.28,True
+Singapore,SG,Singapore,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.115.38,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.230.244.86,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.213.95,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",128.199.128.117,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.65.12.42,True
+Singapore,SG,Singapore,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue",43.156.181.203,True
+Singapore,SG,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba Cloud LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",47.236.119.109,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.89.207.154,True
+Singapore,SG,Singapore,Huawei International Pte. LTD,,AS136907 HUAWEI CLOUDS,188.239.9.91,True
+Singapore,SG,Singapore,Amazon Technologies Inc.,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",54.151.227.203,True
+Singapore,SG,Singapore,Amazon Technologies Inc.,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",18.138.34.221,True
+Singapore,SG,Singapore,Huawei International Pte. LTD,,AS136907 HUAWEI CLOUDS,188.239.19.177,True
+Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.146,True
+Singapore,SG,Singapore,Aceville Pte.ltd,,"AS132203 Tencent Building, Kejizhongyi Avenue",43.133.61.219,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.99.74.195,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",188.166.230.196,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",165.245.144.113,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.236.230,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.209.102.229,True
+Singapore,SG,Singapore,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue",43.156.116.194,True
+Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.143,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.245.151.130,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.223.78.76,True
+Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.148,True
+Singapore,SG,Singapore,Tencent Cloud Computing (Beijing) Co,,"AS132203 Tencent Building, Kejizhongyi Avenue",129.226.150.167,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.227.180,True
+Singapore,SG,Singapore,THX Corp.,Private Customer,AS152868 THX Corp.,143.20.41.11,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.95.74,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.222.177,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.223.85.214,True
+Singapore,SG,Singapore,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172.104.186.30,True
+Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,158.178.234.153,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.99.73.22,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.223.79.119,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",188.166.237.20,True
+Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.141,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.200.162,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.230.255.59,True
+Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.144,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",134.209.98.39,True
+Singapore,SG,Singapore,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.239.116,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",104.248.145.216,True
+Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,129.150.48.17,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.198.211.180,True
+Singapore,SG,Singapore,"Amazon.com, Inc.",AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",52.77.224.71,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",188.166.249.31,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.245.56.32,True
+Singapore,SG,Singapore,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.32.113.29,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.22.248.134,True
+Singapore,SG,Singapore,Leaseweb Singapore Pte. Ltd.,Greencloud LLC,AS59253 LEASEWEB SINGAPORE PTE. LTD.,194.127.192.165,True
+Singapore,SG,Singapore,OVH SAS,OVH Singapore PTE. LTD,AS16276 OVH SAS,51.79.248.128,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.172.65.175,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.198.213.40,True
+Singapore,SG,Singapore,Oracle Corporation,Oracle Public Cloud,AS31898 Oracle Corporation,168.138.165.174,True
+Singapore,SG,Singapore,ByteVirt LLC,ByteVirt LLC,AS212336 ByteVirt LLC,89.28.239.125,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.99.69.85,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.58.101,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.223.50.79,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",129.212.235.250,True
+Singapore,SG,Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),AS8075 Microsoft Corporation,104.43.91.69,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.221.89,True
+Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.150,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.232.165.200,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.210.159,True
+Singapore,SG,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.219.155.125,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",129.212.231.216,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",129.212.232.171,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",206.189.152.133,True
+Singapore,SG,Singapore,Alibaba Cloud (Singapore) Private Limited,Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.219.195.31,True
+Singapore,SG,Singapore,"Amazon.com, Inc.",AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",13.251.157.143,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",209.97.160.109,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",128.199.127.103,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",152.42.189.56,True
+Singapore,SG,Singapore,Hetzner Online GmbH,HETZNER-DC,AS215859 Hetzner Online GmbH,5.223.85.30,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.60.89,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.245.184.76,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.89.205.195,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",128.199.82.20,True
+Singapore,SG,Singapore,LINODE,"Linode, LLC",AS63949 Akamai Connected Cloud,139.162.23.48,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",188.166.217.179,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",188.166.234.172,True
+Singapore,SG,Singapore,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud,139.162.62.195,True
+Singapore,SG,Singapore,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",149.28.159.222,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.227.216,True
+Singapore,SG,Singapore,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,194.87.10.77,True
+Singapore,SG,Singapore,Hetzner Online GmbH,HETZNER-DC,AS215859 Hetzner Online GmbH,5.223.71.252,True
+Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.135,True
+Singapore,SG,Singapore,Amazon Technologies Inc.,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",18.143.179.83,True
+Singapore,SG,Singapore,Aceville Pte.ltd,,"AS132203 Tencent Building, Kejizhongyi Avenue",43.134.174.114,True
+Singapore,SG,Singapore,Baxet Group Inc.,Baxet Group Inc,AS26383 Baxet Group Inc.,194.87.10.241,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.209.190,True
+Singapore,SG,Singapore,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd","AS132203 Tencent Building, Kejizhongyi Avenue",43.160.234.53,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.230.254.79,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.172.86.195,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.65.143.223,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.219.37,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.19.168,True
+Singapore,SG,Singapore,Alibaba Cloud (Singapore) Private Limited,Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.222.193.153,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",174.138.19.127,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.221.62,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",152.42.167.225,True
 Singapore,SG,Singapore,RouterHosting LLC,RouterHosting LLC,AS14956 RouterHosting LLC,167.88.172.82,True
+Singapore,SG,Singapore,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.113.24,True
 Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.22.253.232,True
+Singapore,SG,Singapore,xTom Pty Ltd,Greencloud LLC,AS8888 xTom Pty Ltd,45.128.222.55,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.217.192,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.233.124,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.71.199.136,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",128.199.119.5,True
+Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,161.118.213.45,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",152.42.169.132,True
+Singapore,SG,Singapore,WAP.AC LLC,FatDisco Ltd,AS401443 WAP.AC LLC,185.151.146.73,True
+Singapore,SG,Singapore,Amazon Technologies Inc.,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",13.212.193.78,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",188.166.212.101,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.22.59.195,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.198.209.123,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",206.189.157.20,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",143.198.201.119,True
+Singapore,SG,Singapore,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.77.255.153,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",128.199.255.242,True
+Singapore,SG,Singapore,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud,172.104.191.150,True
+Singapore,SG,Singapore,Hetzner Online GmbH,HETZNER-DC,AS215859 Hetzner Online GmbH,5.223.95.176,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",146.190.102.51,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",209.97.163.209,True
+Singapore,SG,Singapore,Aceville Pte.ltd,,"AS132203 Tencent Building, Kejizhongyi Avenue",43.160.195.223,True
+Singapore,SG,Singapore,Contabo Asia Private Limited,Contabo Asia Private Limited,AS141995 Contabo Asia Private Limited,194.233.67.84,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.232.41,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.101.67,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.251.9,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",174.138.20.108,True
+Singapore,SG,Singapore,"Amazon.com, Inc.",AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",52.77.114.70,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",152.42.173.182,True
+Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.136,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.22.104.36,True
+Singapore,SG,Singapore,THX Corp.,Private Customer,AS152868 THX Corp.,143.20.41.180,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.65.143.81,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.225.227,True
+Singapore,SG,Singapore,OneAsiaHost,,AS59211 OneAsiaHost,116.251.217.107,True
+Singapore,SG,Singapore,Google LLC,Google Cloud (asia-southeast1),AS396982 Google LLC,34.143.159.175,True
+Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.137,True
+Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.138,True
+Singapore,SG,Singapore,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",8.222.185.236,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",167.172.68.31,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.235.64,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.231.219,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.230.164,True
+Singapore,SG,Singapore,Aceville Pte.ltd,,"AS132203 Tencent Building, Kejizhongyi Avenue",150.109.11.223,True
+Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.140,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",206.189.82.100,True
+Singapore,SG,Singapore,SGP VULTR,,"AS20473 The Constant Company, LLC",66.42.61.215,True
+Singapore,SG,Singapore,"Amazon.com, Inc.",AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",54.251.249.94,True
+Singapore,SG,Singapore,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",149.28.142.169,True
+Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.151,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.80.43,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",159.223.60.207,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.86.3,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",129.212.234.156,True
+Singapore,SG,Singapore,SGP VULTR,,"AS20473 The Constant Company, LLC",139.180.220.7,True
+Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,146.235.16.191,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.245.200.76,True
+Singapore,SG,Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,138.2.64.229,True
+Singapore,SG,Singapore,SGP VULTR,,"AS20473 The Constant Company, LLC",139.180.222.3,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.205.100,True
+Singapore,SG,Singapore,OVH SAS,OVH Singapore PTE. LTD,AS16276 OVH SAS,139.99.124.165,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",209.97.171.87,True
+Singapore,SG,Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",178.128.125.147,True
+Singapore,SG,Singapore,Leaseweb Singapore Pte. LTD,Leaseweb Asia Pacific pte. ltd.,AS59253 LEASEWEB SINGAPORE PTE. LTD.,23.111.15.147,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",206.189.82.255,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",146.190.99.193,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",174.138.18.114,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.246.234,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.229.104,True
+Singapore,SG,Singapore,Interkvm Host SRL,,AS25198 INTERKVM HOST SRL,76.164.201.98,True
+Singapore,SG,Singapore,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172.104.53.198,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",157.230.38.88,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",68.183.227.22,True
+Singapore,SG,Singapore,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",139.59.127.117,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",165.22.99.110,True
+Singapore,SG,Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",152.42.237.17,True
+Singapore,SG,Singapore,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172.236.154.50,True
