@@ -1,15 +1,15 @@
 country,countryCode,city,isp,org,as,query,valid
 Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.193.229,True
+Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.193.188,True
+Switzerland,CH,Bern,RouterHosting LLC,anyNode,AS14956 RouterHosting LLC,45.59.122.134,True
 Switzerland,CH,Hünenberg,Datasource AG,Servinga6869,AS51395 Datasource AG,185.195.69.200,True
 Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.193.162,True
-Switzerland,CH,Bern,RouterHosting LLC,anyNode,AS14956 RouterHosting LLC,45.59.125.125,True
-Switzerland,CH,Bern,RouterHosting LLC,anyNode,AS14956 RouterHosting LLC,45.59.117.238,True
 Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.198.53,True
-Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.193.188,True
+Switzerland,CH,Bern,RouterHosting LLC,anyNode,AS14956 RouterHosting LLC,45.59.117.238,True
 Switzerland,CH,Bern,RouterHosting LLC,anyNode,AS14956 RouterHosting LLC,45.59.113.66,True
-Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.193.177,True
-Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.217.38,True
-Switzerland,CH,Bern,RouterHosting LLC,anyNode,AS14956 RouterHosting LLC,45.59.122.134,True
-Switzerland,CH,Geneva,Green Floid LLC,Friendhosting LTD,AS204957 GREEN FLOID LLC,91.90.193.54,True
 Switzerland,CH,Bern,RouterHosting LLC,anyNode,AS14956 RouterHosting LLC,45.59.114.66,True
+Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.217.38,True
 Switzerland,CH,Hünenberg,Datasource AG,,AS51395 Datasource AG,91.192.102.170,True
+Switzerland,CH,Geneva,Green Floid LLC,Friendhosting LTD,AS204957 GREEN FLOID LLC,91.90.193.54,True
+Switzerland,CH,Bern,RouterHosting LLC,anyNode,AS14956 RouterHosting LLC,45.59.125.125,True
+Switzerland,CH,Geneva,Infomaniak Network SA,Infomaniak Cloud,AS29222 Infomaniak Network SA,83.228.193.177,True
